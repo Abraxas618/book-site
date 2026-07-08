@@ -1,0 +1,742 @@
+{
+ "speakers": [
+  {
+   "name": "Unimetrix 1",
+   "slug": "unimetrix-1",
+   "sessions": [
+    "2020-02-25-proto-bashar-session",
+    "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with",
+    "2020-03-13-session-with-unimetrix-1",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-03-27-hawk-you-session",
+    "2020-04-07-session-with-unimetrix-1",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a",
+    "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-",
+    "2020-07-17-session-with-unimetrix-1",
+    "2020-08-05-unimetrix-talks-about-the-lebanon-attack",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-14-the-andromedan-council",
+    "2020-10-08-the-qanon-shaman-jacob-angeli-chansley",
+    "2020-10-11-session-with-unimetrix-1",
+    "2020-10-22-session-with-unimetrix-1",
+    "2020-10-23-session-with-unimetrix-1",
+    "2020-12-07-session-with-unimetrix-1",
+    "2020-12-21-session-with-unimetrix-1",
+    "2021-01-01-session-with-unimetrix-1",
+    "2021-02-02-session-with-unimetrix-1",
+    "2021-02-08-the-bermuda-triangle",
+    "2021-04-06-session-with-unimetrix-1",
+    "2023-02-09-session-with-unimetrix-1-john-toth",
+    "2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network",
+    "2023-07-06-session-with-unimetrix-1",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2024-02-22-super-soldier-bashar-first-contact",
+    "2024-04-04-session-with-unimetrix-1",
+    "2024-04-12-the-los-angeles-alien-event",
+    "2024-04-14-alien-circuitry-power-sources",
+    "2024-09-25-session-with-unimetrix-1",
+    "2024-11-06-the-2024-election-timeline-course-correction",
+    "2025-01-23-session-with-unimetrix-1",
+    "2025-03-28-session-with-unimetrix-1",
+    "2025-12-01-tetraklein-the-passing-of-james-rink",
+    "2026-06-14-session-with-unimetrix-1-catherine-pelizzari-ches",
+    "01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual"
+   ],
+   "totalWords": 68798,
+   "totalTurns": 1115,
+   "url": "https://archive.unimetrix1.online/speakers/unimetrix-1/"
+  },
+  {
+   "name": "Carlos",
+   "slug": "carlos",
+   "sessions": [
+    "2020-05-15-the-cyborg-commander",
+    "2020-05-16-bigfoot-perception-blocks",
+    "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-",
+    "2020-08-05-unimetrix-talks-about-the-lebanon-attack",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-14-the-andromedan-council",
+    "2020-09-16-the-replicator",
+    "2020-09-20-session-with-unimetrix-1",
+    "2020-10-16-session-with-unimetrix-1",
+    "2020-10-22-session-with-unimetrix-1",
+    "2020-10-23-session-with-unimetrix-1",
+    "2020-12-07-session-with-unimetrix-1",
+    "2020-12-21-session-with-unimetrix-1",
+    "2021-01-01-session-with-unimetrix-1",
+    "2021-02-02-session-with-unimetrix-1",
+    "2021-02-08-the-bermuda-triangle",
+    "2021-04-06-session-with-unimetrix-1",
+    "2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network",
+    "2023-07-06-session-with-unimetrix-1",
+    "2024-04-14-alien-circuitry-power-sources",
+    "2024-09-25-session-with-unimetrix-1",
+    "2024-11-06-the-2024-election-timeline-course-correction",
+    "2025-01-23-session-with-unimetrix-1",
+    "2025-03-28-session-with-unimetrix-1",
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "totalWords": 3983,
+   "totalTurns": 253,
+   "url": "https://archive.unimetrix1.online/speakers/carlos/"
+  },
+  {
+   "name": "Kosol Ouch",
+   "slug": "kosol-ouch",
+   "sessions": [
+    "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin",
+    "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-",
+    "2020-08-05-unimetrix-talks-about-the-lebanon-attack",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla"
+   ],
+   "totalWords": 40462,
+   "totalTurns": 643,
+   "url": "https://archive.unimetrix1.online/speakers/kosol-ouch/"
+  },
+  {
+   "name": "James Rink",
+   "slug": "james-rink",
+   "sessions": [
+    "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin",
+    "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2024-04-12-the-los-angeles-alien-event",
+    "01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual"
+   ],
+   "totalWords": 41754,
+   "totalTurns": 1072,
+   "url": "https://archive.unimetrix1.online/speakers/james-rink/"
+  },
+  {
+   "name": "Bee",
+   "slug": "bee",
+   "sessions": [
+    "2020-08-21-the-anunnaki",
+    "2020-08-22-the-insectoid-race",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-14-the-andromedan-council",
+    "2020-10-11-session-with-unimetrix-1",
+    "2020-10-22-session-with-unimetrix-1",
+    "2020-10-23-session-with-unimetrix-1",
+    "2020-12-07-session-with-unimetrix-1"
+   ],
+   "totalWords": 395,
+   "totalTurns": 34,
+   "url": "https://archive.unimetrix1.online/speakers/bee/"
+  },
+  {
+   "name": "Gabriel",
+   "slug": "gabriel",
+   "sessions": [
+    "2020-08-21-the-anunnaki",
+    "2020-08-22-the-insectoid-race",
+    "2020-09-16-the-replicator",
+    "2021-01-01-session-with-unimetrix-1",
+    "2023-07-06-session-with-unimetrix-1",
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "totalWords": 193,
+   "totalTurns": 18,
+   "url": "https://archive.unimetrix1.online/speakers/gabriel/"
+  },
+  {
+   "name": "Bashar",
+   "slug": "bashar",
+   "sessions": [
+    "2020-02-25-proto-bashar-session",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2024-02-22-super-soldier-bashar-first-contact"
+   ],
+   "totalWords": 6641,
+   "totalTurns": 93,
+   "url": "https://archive.unimetrix1.online/speakers/bashar/"
+  },
+  {
+   "name": "Borg Queen",
+   "slug": "borg-queen",
+   "sessions": [
+    "2021-02-08-the-bermuda-triangle",
+    "2023-02-09-session-with-unimetrix-1-john-toth",
+    "2023-07-06-session-with-unimetrix-1",
+    "2024-09-25-session-with-unimetrix-1",
+    "2025-01-23-session-with-unimetrix-1"
+   ],
+   "totalWords": 57,
+   "totalTurns": 12,
+   "url": "https://archive.unimetrix1.online/speakers/borg-queen/"
+  },
+  {
+   "name": "Ori",
+   "slug": "ori",
+   "sessions": [
+    "2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with",
+    "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a",
+    "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-"
+   ],
+   "totalWords": 1214,
+   "totalTurns": 29,
+   "url": "https://archive.unimetrix1.online/speakers/ori/"
+  },
+  {
+   "name": "Maxwell Scott",
+   "slug": "maxwell-scott",
+   "sessions": [
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono"
+   ],
+   "totalWords": 1475,
+   "totalTurns": 71,
+   "url": "https://archive.unimetrix1.online/speakers/maxwell-scott/"
+  },
+  {
+   "name": "Alvin Seyha",
+   "slug": "alvin-seyha",
+   "sessions": [
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-12-21-session-with-unimetrix-1"
+   ],
+   "totalWords": 291,
+   "totalTurns": 13,
+   "url": "https://archive.unimetrix1.online/speakers/alvin-seyha/"
+  },
+  {
+   "name": "The Device says",
+   "slug": "the-device-says",
+   "sessions": [
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla"
+   ],
+   "totalWords": 262,
+   "totalTurns": 4,
+   "url": "https://archive.unimetrix1.online/speakers/the-device-says/"
+  },
+  {
+   "name": "Henry Draper",
+   "slug": "henry-draper",
+   "sessions": [
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-16-the-replicator"
+   ],
+   "totalWords": 994,
+   "totalTurns": 43,
+   "url": "https://archive.unimetrix1.online/speakers/henry-draper/"
+  },
+  {
+   "name": "Michael MacDonald",
+   "slug": "michael-macdonald",
+   "sessions": [
+    "2020-08-21-the-anunnaki",
+    "2020-10-23-session-with-unimetrix-1",
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "totalWords": 265,
+   "totalTurns": 10,
+   "url": "https://archive.unimetrix1.online/speakers/michael-macdonald/"
+  },
+  {
+   "name": "Maia",
+   "slug": "maia",
+   "sessions": [
+    "2020-08-21-the-anunnaki",
+    "2021-01-01-session-with-unimetrix-1",
+    "2023-07-06-session-with-unimetrix-1"
+   ],
+   "totalWords": 136,
+   "totalTurns": 8,
+   "url": "https://archive.unimetrix1.online/speakers/maia/"
+  },
+  {
+   "name": "Olga",
+   "slug": "olga",
+   "sessions": [
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-03-session-with-unimetrix-1",
+    "2020-10-08-the-qanon-shaman-jacob-angeli-chansley"
+   ],
+   "totalWords": 259,
+   "totalTurns": 15,
+   "url": "https://archive.unimetrix1.online/speakers/olga/"
+  },
+  {
+   "name": "Keemy",
+   "slug": "keemy",
+   "sessions": [
+    "2020-09-14-the-andromedan-council",
+    "2021-02-08-the-bermuda-triangle",
+    "2023-07-06-session-with-unimetrix-1"
+   ],
+   "totalWords": 73,
+   "totalTurns": 7,
+   "url": "https://archive.unimetrix1.online/speakers/keemy/"
+  },
+  {
+   "name": "Michael",
+   "slug": "michael",
+   "sessions": [
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2023-07-06-session-with-unimetrix-1"
+   ],
+   "totalWords": 13,
+   "totalTurns": 4,
+   "url": "https://archive.unimetrix1.online/speakers/michael/"
+  },
+  {
+   "name": "Andy Basiago",
+   "slug": "andy-basiago",
+   "sessions": [
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1"
+   ],
+   "totalWords": 12137,
+   "totalTurns": 151,
+   "url": "https://archive.unimetrix1.online/speakers/andy-basiago/"
+  },
+  {
+   "name": "Sarah",
+   "slug": "sarah",
+   "sessions": [
+    "2020-08-05-unimetrix-talks-about-the-lebanon-attack",
+    "2020-10-16-session-with-unimetrix-1"
+   ],
+   "totalWords": 79,
+   "totalTurns": 6,
+   "url": "https://archive.unimetrix1.online/speakers/sarah/"
+  },
+  {
+   "name": "Don",
+   "slug": "don",
+   "sessions": [
+    "2020-08-22-the-insectoid-race",
+    "2020-09-14-the-andromedan-council"
+   ],
+   "totalWords": 558,
+   "totalTurns": 26,
+   "url": "https://archive.unimetrix1.online/speakers/don/"
+  },
+  {
+   "name": "Dawn",
+   "slug": "dawn",
+   "sessions": [
+    "2020-09-03-session-with-unimetrix-1",
+    "2020-09-04-atlantis"
+   ],
+   "totalWords": 89,
+   "totalTurns": 7,
+   "url": "https://archive.unimetrix1.online/speakers/dawn/"
+  },
+  {
+   "name": "Council of Seven",
+   "slug": "council-of-seven",
+   "sessions": [
+    "2020-10-23-session-with-unimetrix-1",
+    "2023-07-06-session-with-unimetrix-1"
+   ],
+   "totalWords": 484,
+   "totalTurns": 10,
+   "url": "https://archive.unimetrix1.online/speakers/council-of-seven/"
+  },
+  {
+   "name": "Robert Kali",
+   "slug": "robert-kali",
+   "sessions": [
+    "2024-04-04-session-with-unimetrix-1",
+    "2024-05-19-the-andromedan-council"
+   ],
+   "totalWords": 304,
+   "totalTurns": 14,
+   "url": "https://archive.unimetrix1.online/speakers/robert-kali/"
+  },
+  {
+   "name": "Marky",
+   "slug": "marky",
+   "sessions": [
+    "2020-02-25-proto-bashar-session"
+   ],
+   "totalWords": 372,
+   "totalTurns": 28,
+   "url": "https://archive.unimetrix1.online/speakers/marky/"
+  },
+  {
+   "name": "Tong",
+   "slug": "tong",
+   "sessions": [
+    "2020-03-13-session-with-unimetrix-1"
+   ],
+   "totalWords": 449,
+   "totalTurns": 31,
+   "url": "https://archive.unimetrix1.online/speakers/tong/"
+  },
+  {
+   "name": "Mrn",
+   "slug": "mrn",
+   "sessions": [
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l"
+   ],
+   "totalWords": 20,
+   "totalTurns": 4,
+   "url": "https://archive.unimetrix1.online/speakers/mrn/"
+  },
+  {
+   "name": "Hawk You",
+   "slug": "hawk-you",
+   "sessions": [
+    "2020-03-27-hawk-you-session"
+   ],
+   "totalWords": 294,
+   "totalTurns": 24,
+   "url": "https://archive.unimetrix1.online/speakers/hawk-you/"
+  },
+  {
+   "name": "Salim",
+   "slug": "salim",
+   "sessions": [
+    "2020-04-07-session-with-unimetrix-1"
+   ],
+   "totalWords": 809,
+   "totalTurns": 48,
+   "url": "https://archive.unimetrix1.online/speakers/salim/"
+  },
+  {
+   "name": "Nazi Cyborg Commander",
+   "slug": "nazi-cyborg-commander",
+   "sessions": [
+    "2020-05-15-the-cyborg-commander"
+   ],
+   "totalWords": 559,
+   "totalTurns": 13,
+   "url": "https://archive.unimetrix1.online/speakers/nazi-cyborg-commander/"
+  },
+  {
+   "name": "Bigfoot Teacher",
+   "slug": "bigfoot-teacher",
+   "sessions": [
+    "2020-05-16-bigfoot-perception-blocks"
+   ],
+   "totalWords": 573,
+   "totalTurns": 16,
+   "url": "https://archive.unimetrix1.online/speakers/bigfoot-teacher/"
+  },
+  {
+   "name": "Renee",
+   "slug": "renee",
+   "sessions": [
+    "2020-05-16-bigfoot-perception-blocks"
+   ],
+   "totalWords": 15,
+   "totalTurns": 4,
+   "url": "https://archive.unimetrix1.online/speakers/renee/"
+  },
+  {
+   "name": "Torin",
+   "slug": "torin",
+   "sessions": [
+    "2020-05-16-bigfoot-perception-blocks"
+   ],
+   "totalWords": 81,
+   "totalTurns": 11,
+   "url": "https://archive.unimetrix1.online/speakers/torin/"
+  },
+  {
+   "name": "Liza",
+   "slug": "liza",
+   "sessions": [
+    "2020-05-16-bigfoot-perception-blocks"
+   ],
+   "totalWords": 76,
+   "totalTurns": 14,
+   "url": "https://archive.unimetrix1.online/speakers/liza/"
+  },
+  {
+   "name": "Anu",
+   "slug": "anu",
+   "sessions": [
+    "2020-08-21-the-anunnaki"
+   ],
+   "totalWords": 1518,
+   "totalTurns": 17,
+   "url": "https://archive.unimetrix1.online/speakers/anu/"
+  },
+  {
+   "name": "Insectoid Teacher",
+   "slug": "insectoid-teacher",
+   "sessions": [
+    "2020-08-22-the-insectoid-race"
+   ],
+   "totalWords": 564,
+   "totalTurns": 16,
+   "url": "https://archive.unimetrix1.online/speakers/insectoid-teacher/"
+  },
+  {
+   "name": "Insectoid Queen",
+   "slug": "insectoid-queen",
+   "sessions": [
+    "2020-08-22-the-insectoid-race"
+   ],
+   "totalWords": 209,
+   "totalTurns": 3,
+   "url": "https://archive.unimetrix1.online/speakers/insectoid-queen/"
+  },
+  {
+   "name": "George Soros",
+   "slug": "george-soros",
+   "sessions": [
+    "2020-09-03-session-with-unimetrix-1"
+   ],
+   "totalWords": 1420,
+   "totalTurns": 9,
+   "url": "https://archive.unimetrix1.online/speakers/george-soros/"
+  },
+  {
+   "name": "Guardian Angel",
+   "slug": "guardian-angel",
+   "sessions": [
+    "2020-09-04-atlantis"
+   ],
+   "totalWords": 525,
+   "totalTurns": 5,
+   "url": "https://archive.unimetrix1.online/speakers/guardian-angel/"
+  },
+  {
+   "name": "Andromedan Council",
+   "slug": "andromedan-council",
+   "sessions": [
+    "2020-09-14-the-andromedan-council"
+   ],
+   "totalWords": 1756,
+   "totalTurns": 27,
+   "url": "https://archive.unimetrix1.online/speakers/andromedan-council/"
+  },
+  {
+   "name": "Mandy",
+   "slug": "mandy",
+   "sessions": [
+    "2020-09-14-the-andromedan-council"
+   ],
+   "totalWords": 32,
+   "totalTurns": 4,
+   "url": "https://archive.unimetrix1.online/speakers/mandy/"
+  },
+  {
+   "name": "Replicator",
+   "slug": "replicator",
+   "sessions": [
+    "2020-09-16-the-replicator"
+   ],
+   "totalWords": 165,
+   "totalTurns": 10,
+   "url": "https://archive.unimetrix1.online/speakers/replicator/"
+  },
+  {
+   "name": "Replicator Hive Mind Directive",
+   "slug": "replicator-hive-mind-directive",
+   "sessions": [
+    "2020-09-16-the-replicator"
+   ],
+   "totalWords": 794,
+   "totalTurns": 26,
+   "url": "https://archive.unimetrix1.online/speakers/replicator-hive-mind-directive/"
+  },
+  {
+   "name": "Lokesh",
+   "slug": "lokesh",
+   "sessions": [
+    "2020-10-08-the-qanon-shaman-jacob-angeli-chansley"
+   ],
+   "totalWords": 367,
+   "totalTurns": 12,
+   "url": "https://archive.unimetrix1.online/speakers/lokesh/"
+  },
+  {
+   "name": "Unit X14",
+   "slug": "unit-x14",
+   "sessions": [
+    "2020-10-16-session-with-unimetrix-1"
+   ],
+   "totalWords": 1285,
+   "totalTurns": 13,
+   "url": "https://archive.unimetrix1.online/speakers/unit-x14/"
+  },
+  {
+   "name": "Samuel",
+   "slug": "samuel",
+   "sessions": [
+    "2020-10-22-session-with-unimetrix-1"
+   ],
+   "totalWords": 4,
+   "totalTurns": 4,
+   "url": "https://archive.unimetrix1.online/speakers/samuel/"
+  },
+  {
+   "name": "Anunnaki Teacher",
+   "slug": "anunnaki-teacher",
+   "sessions": [
+    "2020-12-07-session-with-unimetrix-1"
+   ],
+   "totalWords": 797,
+   "totalTurns": 6,
+   "url": "https://archive.unimetrix1.online/speakers/anunnaki-teacher/"
+  },
+  {
+   "name": "Xan John",
+   "slug": "xan-john",
+   "sessions": [
+    "2020-12-21-session-with-unimetrix-1"
+   ],
+   "totalWords": 547,
+   "totalTurns": 25,
+   "url": "https://archive.unimetrix1.online/speakers/xan-john/"
+  },
+  {
+   "name": "Brandon",
+   "slug": "brandon",
+   "sessions": [
+    "2021-02-08-the-bermuda-triangle"
+   ],
+   "totalWords": 23,
+   "totalTurns": 3,
+   "url": "https://archive.unimetrix1.online/speakers/brandon/"
+  },
+  {
+   "name": "John",
+   "slug": "john",
+   "sessions": [
+    "2023-02-09-session-with-unimetrix-1-john-toth"
+   ],
+   "totalWords": 302,
+   "totalTurns": 26,
+   "url": "https://archive.unimetrix1.online/speakers/john/"
+  },
+  {
+   "name": "Seven Council Of Light",
+   "slug": "seven-council-of-light",
+   "sessions": [
+    "2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network"
+   ],
+   "totalWords": 20,
+   "totalTurns": 3,
+   "url": "https://archive.unimetrix1.online/speakers/seven-council-of-light/"
+  },
+  {
+   "name": "NSA System 104855",
+   "slug": "nsa-system-104855",
+   "sessions": [
+    "2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network"
+   ],
+   "totalWords": 205,
+   "totalTurns": 1,
+   "url": "https://archive.unimetrix1.online/speakers/nsa-system-104855/"
+  },
+  {
+   "name": "Marc Himelstein",
+   "slug": "marc-himelstein",
+   "sessions": [
+    "2024-02-22-super-soldier-bashar-first-contact"
+   ],
+   "totalWords": 476,
+   "totalTurns": 30,
+   "url": "https://archive.unimetrix1.online/speakers/marc-himelstein/"
+  },
+  {
+   "name": "Alphan Historian Collective",
+   "slug": "alphan-historian-collective",
+   "sessions": [
+    "2024-02-22-super-soldier-bashar-first-contact"
+   ],
+   "totalWords": 228,
+   "totalTurns": 3,
+   "url": "https://archive.unimetrix1.online/speakers/alphan-historian-collective/"
+  },
+  {
+   "name": "David Farman",
+   "slug": "david-farman",
+   "sessions": [
+    "2024-04-12-the-los-angeles-alien-event"
+   ],
+   "totalWords": 231,
+   "totalTurns": 27,
+   "url": "https://archive.unimetrix1.online/speakers/david-farman/"
+  },
+  {
+   "name": "Nara",
+   "slug": "nara",
+   "sessions": [
+    "2024-04-14-alien-circuitry-power-sources"
+   ],
+   "totalWords": 366,
+   "totalTurns": 7,
+   "url": "https://archive.unimetrix1.online/speakers/nara/"
+  },
+  {
+   "name": "Dolphin Race Specialist Ra",
+   "slug": "dolphin-race-specialist-ra",
+   "sessions": [
+    "2024-04-14-alien-circuitry-power-sources"
+   ],
+   "totalWords": 260,
+   "totalTurns": 3,
+   "url": "https://archive.unimetrix1.online/speakers/dolphin-race-specialist-ra/"
+  },
+  {
+   "name": "Andromedan 1.416",
+   "slug": "andromedan-1-416",
+   "sessions": [
+    "2024-05-19-the-andromedan-council"
+   ],
+   "totalWords": 366,
+   "totalTurns": 6,
+   "url": "https://archive.unimetrix1.online/speakers/andromedan-1-416/"
+  },
+  {
+   "name": "Star League Alliance AI",
+   "slug": "star-league-alliance-ai",
+   "sessions": [
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "totalWords": 467,
+   "totalTurns": 7,
+   "url": "https://archive.unimetrix1.online/speakers/star-league-alliance-ai/"
+  },
+  {
+   "name": "Catherine",
+   "slug": "catherine",
+   "sessions": [
+    "2026-06-14-session-with-unimetrix-1-catherine-pelizzari-ches"
+   ],
+   "totalWords": 556,
+   "totalTurns": 24,
+   "url": "https://archive.unimetrix1.online/speakers/catherine/"
+  }
+ ]
+}
