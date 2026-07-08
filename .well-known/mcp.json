@@ -1,7 +1,7 @@
 {
   "name": "unimetrix1-archive",
   "version": "1.0.0",
-  "description": "Read-only MCP server over the Unimetrix 1 session archive — search the record, fetch sessions as speaker turns or markdown, query Codex entities, speakers, and the timeline. Archival record: statements are presented as spoken and are not independently verified.",
+  "description": "Read-only MCP server over the Unimetrix 1 session archive — search the record, fetch sessions as speaker turns or markdown, query Codex entities, speakers, the timeline, and the changelog. Archival record: statements are faithfully preserved from the spoken record, with light transcription and formatting cleanup, and are not independently verified.",
   "endpoint": "https://book.redbull1956.workers.dev/mcp",
   "transport": "streamable-http",
   "protocolVersion": "2025-03-26",
@@ -11,7 +11,7 @@
   "llms": "https://archive.unimetrix1.online/llms.txt",
   "tools": [
     "get_overview", "list_sessions", "get_session", "search_sessions",
-    "list_entities", "get_entity", "get_speakers", "get_timeline"
+    "list_entities", "get_entity", "get_speakers", "get_timeline", "get_changelog"
   ],
   "license": "CC-BY-4.0",
   "attribution": "archive.unimetrix1.online"
