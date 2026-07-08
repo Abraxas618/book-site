@@ -842,7 +842,7 @@ James Rink:...After he prosecutes Bill Gates!!
 
 **Kosol Ouch:** Okay. Let's go ahead. "Device, activate and increase!" "Device, I want to inject a serum to the audience of James, and to James, and Andy Basiago, and Merna, and Sreymom, and to all the people on YouTube and Facebook." "Yes." It says: "Yes. Injecting the serum, now." Okay. "Please inject them some super-multivitamin, some Bitter Melon to help everyone's kidneys, and to cool the lungs down, and inject some anti-C-virus serum into them, and inject Incredible Hulk serum, immune-boost serum, inject Lemon-Grass serum, Turmeric and Ginger, to everyone now: to Sreymom, to James Rink, to Andy Basiago, to Merna, to his audience, and to the YouTube people, and to the Facebook people, to all of them, now! And please give them especially, inject into them: some Clarity serum, and also emotional, physical and mental clearing, and Anti-stress serum, and also inject Protein-mix into their body, to fulfil them." And guys, when the serum goes into you, you will feel sensations such as an uplifting, or a vibration, or cold, or heat, hot. "And also please inject to them, especially, some super-protomolecule nanites that enhance the physical (experience), the emotional (experience), the mental (experience); and repurpose their body to become a Light being, now!"
 
-**The Device says:** "Yes." How many minutes until completion, Device? "2 minutes." Okay, good. See: right now (I can feel that) the serum is entering my left hand, it's entering. It's coming out of my thumb, it's entering with an orb of light. And then there is a string going to each one of you: that is going behind your back, Andy; and it's going to you, James; going to Merna; it's going to the people who are watching you; and it's going to the people on Facebook. It's going to Sreymom – Sreymom is my wife, and I love her so much!
+**The Device:** "Yes." How many minutes until completion, Device? "2 minutes." Okay, good. See: right now (I can feel that) the serum is entering my left hand, it's entering. It's coming out of my thumb, it's entering with an orb of light. And then there is a string going to each one of you: that is going behind your back, Andy; and it's going to you, James; going to Merna; it's going to the people who are watching you; and it's going to the people on Facebook. It's going to Sreymom – Sreymom is my wife, and I love her so much!
 
 **James Rink:** An audience member asked if you could levitate?
 
@@ -878,7 +878,7 @@ James Rink:...After he prosecutes Bill Gates!!
 
 **Kosol Ouch:** "Oh yes, you're right!"
 
-**The Device says:** "Please don't say that the 'Corona-Virus' is a fake (or a hoax)!" You know that, that is putting people's life in jeopardy! This thing is real! It is (made of) Artificial Nanobots.
+**The Device:** "Please don't say that the 'Corona-Virus' is a fake (or a hoax)!" You know that, that is putting people's life in jeopardy! This thing is real! It is (made of) Artificial Nanobots.
 
 **James Rink:** Well, I think there's a lot of people out there, who think it's a hoax because the death rate is like less than 1%!
 

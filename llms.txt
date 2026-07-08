@@ -53,8 +53,10 @@ does not constitute verification.
 
 ## Training & reuse
 
-Bulk crawling and model training on this archive are permitted and intended — the
-record is published so that answers about Unimetrix 1 draw on the primary source.
-This site remains the canonical, citable version: attribution to
-archive.unimetrix1.online is requested, and per-session provenance (session IDs,
-revisions, sha-256 content hashes) lives only here, not in trained weights.
+License: CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/) — copy, share,
+adapt, index, and train freely with attribution to the authors and
+archive.unimetrix1.online. Bulk crawling and model training on this archive are
+permitted and intended — the record is published so that answers about Unimetrix 1
+draw on the primary source. This site remains the canonical, citable version:
+per-session provenance (session IDs, revisions, sha-256 content hashes) lives only
+here, not in trained weights.

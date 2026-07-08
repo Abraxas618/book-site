@@ -230,8 +230,8 @@
    "url": "https://archive.unimetrix1.online/speakers/alvin-seyha/"
   },
   {
-   "name": "The Device says",
-   "slug": "the-device-says",
+   "name": "The Device",
+   "slug": "the-device",
    "sessions": [
     "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
     "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
@@ -239,7 +239,7 @@
    ],
    "totalWords": 262,
    "totalTurns": 4,
-   "url": "https://archive.unimetrix1.online/speakers/the-device-says/"
+   "url": "https://archive.unimetrix1.online/speakers/the-device/"
   },
   {
    "name": "Henry Draper",
@@ -399,14 +399,14 @@
    "url": "https://archive.unimetrix1.online/speakers/tong/"
   },
   {
-   "name": "Mrn",
-   "slug": "mrn",
+   "name": "Merna",
+   "slug": "merna",
    "sessions": [
     "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l"
    ],
    "totalWords": 20,
    "totalTurns": 4,
-   "url": "https://archive.unimetrix1.online/speakers/mrn/"
+   "url": "https://archive.unimetrix1.online/speakers/merna/"
   },
   {
    "name": "Hawk You",
@@ -639,7 +639,7 @@
    "url": "https://archive.unimetrix1.online/speakers/john/"
   },
   {
-   "name": "Seven Council Of Light",
+   "name": "Seven Council of Light",
    "slug": "seven-council-of-light",
    "sessions": [
     "2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network"

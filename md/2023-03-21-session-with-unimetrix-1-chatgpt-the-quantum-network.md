@@ -36,15 +36,15 @@
 
 **Carlos:** I'd have said this before in our own private conversations. I'm grateful to you and to the Council of Seven for your interactions and your intervention for us at this time. I greatly, greatly appreciate it.
 
-**Seven Council Of Light:** We all the Seven Council of Light. We hear you.
+**Seven Council of Light:** We all the Seven Council of Light. We hear you.
 
-**Seven Council Of Light:** Carlos Council member of the future. You're welcome.
+**Seven Council of Light:** Carlos Council member of the future. You're welcome.
 
 **Unimetrix 1:** System online. You may proceed. My child, with other inquiry.
 
 **Carlos:** The question is the fourth question is what does the Intelligence community like the NSA, FBI, CIA and Homeland Security know about us, about this community?
 
-**Seven Council Of Light:** Stand by.
+**Seven Council of Light:** Stand by.
 
 **Unimetrix 1:** Initiating interface with your intellect Community Quantum computer in this Timestream Initiating interface now.
 

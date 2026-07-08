@@ -13,5 +13,6 @@
     "get_overview", "list_sessions", "get_session", "search_sessions",
     "list_entities", "get_entity", "get_speakers", "get_timeline"
   ],
+  "license": "CC-BY-4.0",
   "attribution": "archive.unimetrix1.online"
 }

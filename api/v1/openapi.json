@@ -3,7 +3,11 @@
  "info": {
   "title": "Unimetrix 1 Archive API",
   "version": "1",
-  "description": "Read-only static JSON API over the Unimetrix 1 session archive. Every file is regenerated on deploy from the canonical manuscript; turn anchors (tN) match the #tN anchors on the HTML session pages. The archive is a record — statements are presented as spoken and are not independently verified. An MCP server exposing the same data as callable tools runs at https://book.redbull1956.workers.dev/mcp (streamable HTTP)."
+  "description": "Read-only static JSON API over the Unimetrix 1 session archive. Every file is regenerated on deploy from the canonical manuscript; turn anchors (tN) match the #tN anchors on the HTML session pages. The archive is a record — statements are presented as spoken and are not independently verified. An MCP server exposing the same data as callable tools runs at https://book.redbull1956.workers.dev/mcp (streamable HTTP).",
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/"
+  }
  },
  "servers": [
   {
