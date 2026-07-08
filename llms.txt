@@ -27,6 +27,7 @@ stable and shared between HTML, JSON, and citation links. Each session carries p
 - [Codex articles](https://archive.unimetrix1.online/api/v1/lore.json): all 91 encyclopedia entries with full markdown bodies (per-article: `/api/v1/lore/{slug}.json`)
 - [Speakers](https://archive.unimetrix1.online/api/v1/speakers.json): every voice with sessions, word and turn counts
 - [Timeline](https://archive.unimetrix1.online/api/v1/timeline.json) · [Session abstracts](https://archive.unimetrix1.online/api/v1/summaries.json) · [Verified videos](https://archive.unimetrix1.online/api/v1/videos.json) · [Editions + hashes](https://archive.unimetrix1.online/api/v1/downloads.json)
+- [Changelog](https://archive.unimetrix1.online/api/v1/changelog.json): dated history of additions and fixes, newest first — check entries[0].date to see if anything changed since a prior read, without re-fetching the corpus
 
 ## MCP server (for agentic AI)
 
@@ -44,6 +45,7 @@ stable and shared between HTML, JSON, and citation links. Each session carries p
 - [Timeline](https://archive.unimetrix1.online/timeline/): the record's chronology, with source links
 - [The Corpus](https://archive.unimetrix1.online/stats/): archive statistics
 - [Who Is Unimetrix 1?](https://archive.unimetrix1.online/who-is-unimetrix/): orientation for newcomers
+- [Changelog](https://archive.unimetrix1.online/changelog/): dated history of what's been added or changed
 
 ## Citing
 

@@ -201,6 +201,19 @@
     }
    }
   },
+  "/api/v1/changelog.json": {
+   "get": {
+    "summary": "Dated history of what's been added or changed, newest first",
+    "responses": {
+     "200": {
+      "description": "Changelog",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
   "/llms-full.txt": {
    "get": {
     "summary": "The complete corpus as one markdown file",

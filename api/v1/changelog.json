@@ -1,0 +1,45 @@
+{
+ "note": "Newest entry first — check entries[0].date to see if anything has changed since a prior read without re-fetching the corpus.",
+ "entries": [
+  {
+   "date": "2026-07-08",
+   "changes": [
+    "Added the 55th session: the June 14, 2026 conversation with Catherine Pelizzari Ches.",
+    "Added Dr. Kosol Ouch's biography, the Four Pillars, and the device's design philosophy.",
+    "Fixed archive-wide metadata inconsistencies (session counts, date ranges, a mis-transcribed date).",
+    "Renamed 21 generically-titled sessions to describe their actual subject matter — URLs unchanged.",
+    "Added a disclaimer to every transcript page, plus per-session provenance (recording date, source, transcriber, revision, sha-256 content hash) with paragraph-level citation links.",
+    "Added the Constellation — an interactive relationship graph across the Codex.",
+    "Added Voice dossiers — a computed profile (sessions, word counts, longest presence) for every speaker in the record.",
+    "Added a generated A-Z glossary of every term used across the record.",
+    "Added social share cards featuring the cube, for every session and major page.",
+    "Rewrote the site's orientation pages (home, Start Here, 404, search) in Unimetrix 1's own voice; factual and community pages stayed neutral.",
+    "Completed the static JSON API and launched an MCP server, giving AI agents structured, citable access to the archive instead of scraped pages.",
+    "Clarified the archive's license as CC BY 4.0 across the book, downloads, and API, resolving an earlier inconsistency between pages.",
+    "Rebuilt the downloadable PDF with a real table of contents, page numbers, running chapter headers, and nested bookmarks.",
+    "Connected Google Search Console and IndexNow, so new and changed pages reach search engines faster.",
+    "Added this changelog."
+   ]
+  },
+  {
+   "date": "2026-07-07",
+   "changes": [
+    "Added the community pages, with real contact channels and an explanation of how a session is earned, not booked.",
+    "Added the Grand Timeline — the record's chronology from deep past to forecast dates, every entry linked to its source session.",
+    "Added Start Here — a guided reading path through the record for newcomers.",
+    "Re-themed the site to the indigo-blue Kosol described the cube glowing, and used the canon cube render as the favicon.",
+    "Added free EPUB and PDF downloads, rebuilt automatically whenever a session is added.",
+    "Added sitemap, robots.txt, mobile navigation, and a random-session feature.",
+    "Added inline Codex links inside the transcripts themselves."
+   ]
+  },
+  {
+   "date": "2026-07-06",
+   "changes": [
+    "Assembled the manuscript: every recorded session compiled into a single chronological book from the raw source recordings.",
+    "Launched the Codex — an encyclopedia of every recurring entity, being, and concept in the record — and grew it to 91 entries.",
+    "Added The Chronicle, a master narrative tying the deep-lore Codex entries together."
+   ]
+  }
+ ]
+}
