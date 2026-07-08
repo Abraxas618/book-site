@@ -214,6 +214,19 @@
     }
    }
   },
+  "/version.json": {
+   "get": {
+    "summary": "Deploy marker — commit, build time, session count — to confirm which deploy a cached or proxied response is showing",
+    "responses": {
+     "200": {
+      "description": "Version",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
   "/llms-full.txt": {
    "get": {
     "summary": "The complete corpus as one markdown file",

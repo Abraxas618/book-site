@@ -28,6 +28,7 @@ stable and shared between HTML, JSON, and citation links. Each session carries p
 - [Speakers](https://archive.unimetrix1.online/api/v1/speakers.json): every voice with sessions, word and turn counts
 - [Timeline](https://archive.unimetrix1.online/api/v1/timeline.json) · [Session abstracts](https://archive.unimetrix1.online/api/v1/summaries.json) · [Verified videos](https://archive.unimetrix1.online/api/v1/videos.json) · [Editions + hashes](https://archive.unimetrix1.online/api/v1/downloads.json)
 - [Changelog](https://archive.unimetrix1.online/api/v1/changelog.json): dated history of additions and fixes, newest first — check entries[0].date to see if anything changed since a prior read, without re-fetching the corpus
+- [Version](https://archive.unimetrix1.online/version.json): the exact commit and build time this response was generated from — compare it if a cached or proxied copy of the archive looks stale
 
 ## MCP server (for agentic AI)
 
