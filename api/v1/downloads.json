@@ -1,0 +1,25 @@
+{
+ "title": "Unimetrix 1 \u2014 The Complete Transcripts",
+ "authors": [
+  "Dr. Kosol Ouch",
+  "Michael MacDonald"
+ ],
+ "sessionCount": 55,
+ "latestSession": "2026-06-14",
+ "formats": [
+  {
+   "format": "EPUB",
+   "file": "/downloads/unimetrix1-complete-transcripts.epub",
+   "bytes": 508773,
+   "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.epub",
+   "sha256": "80caff1a2386c2acd480088f35b96ac0b53944f1c99d0a0856f9e8608cc5ca73"
+  },
+  {
+   "format": "PDF",
+   "file": "/downloads/unimetrix1-complete-transcripts.pdf",
+   "bytes": 4308759,
+   "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.pdf",
+   "sha256": "819e26aceb38168f40686f2bb643f568b9a8dfaaf1bf1e4c4133dc81e50c7df3"
+  }
+ ]
+}

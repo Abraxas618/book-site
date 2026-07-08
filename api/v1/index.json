@@ -1,0 +1,26 @@
+{
+ "archive": "Unimetrix 1 — The Complete Transcripts",
+ "base": "https://archive.unimetrix1.online",
+ "stance": "Archival record: statements are presented as spoken and are not independently verified.",
+ "sessionCount": 55,
+ "dateRange": "2017–2026",
+ "endpoints": {
+  "index": "https://archive.unimetrix1.online/api/v1/index.json",
+  "openapi": "https://archive.unimetrix1.online/api/v1/openapi.json",
+  "sessions": "https://archive.unimetrix1.online/api/v1/sessions.json",
+  "session": "https://archive.unimetrix1.online/api/v1/sessions/{slug}.json",
+  "sessionMarkdown": "https://archive.unimetrix1.online/md/{slug}.md",
+  "entities": "https://archive.unimetrix1.online/api/v1/entities.json",
+  "lore": "https://archive.unimetrix1.online/api/v1/lore.json",
+  "loreArticle": "https://archive.unimetrix1.online/api/v1/lore/{slug}.json",
+  "speakers": "https://archive.unimetrix1.online/api/v1/speakers.json",
+  "timeline": "https://archive.unimetrix1.online/api/v1/timeline.json",
+  "summaries": "https://archive.unimetrix1.online/api/v1/summaries.json",
+  "downloads": "https://archive.unimetrix1.online/api/v1/downloads.json",
+  "videos": "https://archive.unimetrix1.online/api/v1/videos.json",
+  "corpusMarkdown": "https://archive.unimetrix1.online/llms-full.txt",
+  "llms": "https://archive.unimetrix1.online/llms.txt",
+  "feed": "https://archive.unimetrix1.online/feed.xml",
+  "mcp": "https://book.redbull1956.workers.dev/mcp"
+ }
+}

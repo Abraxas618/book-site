@@ -1,4 +1,4 @@
-# June 14, 2026 — Session with Unimetrix 1 (Catherine Pelizzari Ches)
+# June 14, 2026 — Catherine Pelizzari Ches Interrogates Unimetrix 1: Bitcoin, Epstein & the Solar Flash
 
 *Recorded session (audio/video transcript)*
 
