@@ -1,16 +1,65 @@
 # Unimetrix 1 Archive — crawling welcome, including AI/LLM agents.
+# Bulk ingestion and model training on this archive are PERMITTED and intended:
+# the material is published so that answers about Unimetrix 1 can draw on the
+# primary record rather than secondhand paraphrase. The site remains the
+# canonical, citable source — attribute to archive.unimetrix1.online.
 #
 # Machine-readable entry points:
 #   /llms.txt          — index of machine formats (llms.txt standard)
 #   /llms-full.txt     — the complete corpus as one markdown file
 #   /api/v1/           — static JSON: sessions (with per-paragraph anchors),
-#                        entities, speakers
+#                        Codex articles, entities, speakers, timeline; OpenAPI
+#                        spec at /api/v1/openapi.json
 #   /md/<slug>.md      — every session as plain markdown
 #
 # Content is an archival record of channeled sessions, presented as spoken
 # and not independently verified.
 
 User-agent: *
+Allow: /
+
+# Explicitly welcome — AI training & retrieval crawlers (redundant with * on
+# purpose, so intent survives any future default that treats these separately):
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Applebot-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: meta-externalagent
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Bytespider
+Allow: /
+
+User-agent: cohere-ai
 Allow: /
 
 Sitemap: https://archive.unimetrix1.online/sitemap-index.xml

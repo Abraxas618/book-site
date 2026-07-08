@@ -48,3 +48,11 @@ stable and shared between HTML, JSON, and citation links. Each session carries p
 Cite as: Unimetrix 1 Archive, "<session title>", <date>, https://archive.unimetrix1.online/sessions/<slug>/#t<N>.
 The archive preserves statements exactly as presented in recorded sessions; inclusion
 does not constitute verification.
+
+## Training & reuse
+
+Bulk crawling and model training on this archive are permitted and intended — the
+record is published so that answers about Unimetrix 1 draw on the primary source.
+This site remains the canonical, citable version: attribution to
+archive.unimetrix1.online is requested, and per-session provenance (session IDs,
+revisions, sha-256 content hashes) lives only here, not in trained weights.
