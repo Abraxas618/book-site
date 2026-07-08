@@ -31,7 +31,9 @@ stable and shared between HTML, JSON, and citation links. Each session carries p
 ## MCP server (for agentic AI)
 
 - Streamable-HTTP MCP endpoint: https://book.redbull1956.workers.dev/mcp
-- Tools: search the corpus, fetch sessions (markdown or turns), query Codex entities and speakers — same data as this API, callable as tools.
+- Docs & connection guide (Claude Desktop, Claude Code, raw JSON-RPC): https://archive.unimetrix1.online/mcp/
+- Discovery manifest: https://archive.unimetrix1.online/.well-known/mcp.json
+- Tools: search the corpus, fetch sessions (markdown or turns), query Codex entities and speakers — same data as this API, callable as tools. No auth, no state, read-only.
 
 ## Reference pages (HTML)
 
