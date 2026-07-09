@@ -9,7 +9,7 @@
     "Added content notes to six sessions that concern real, identifiable people or events (including the passing of James Rink and the George Soros session) — a heads-up on the session page and a marker on its card, so readers can self-pace. Notes also appear in the JSON API.",
     "Added /version.json — a deploy marker (commit, build time, session count) so readers, scripts, and AI agents can confirm they are seeing the current deployment rather than a cached copy.",
     "Expanded the Codex after a deep re-read of the corpus: new entries for The Over Goal (the master objective invoked across 22 sessions) and The Sega (the dream-world teachers Kosol credits with starting his mission), and enriched the Secret Space Program entry to name the Solar Warden fleet. Codex counts across the site are now computed automatically.",
-    "Added verified original recordings for eight more sessions (April 2024 through December 2025), each oEmbed-checked against YouTube and linked to jump straight to the Unimetrix 1 segment. Verified-video coverage is now 13 of 55 sessions."
+    "Added verified original recordings for nine more sessions (April 2024 through December 2025), each oEmbed-checked against YouTube and linked to jump straight to the Unimetrix 1 segment. Verified-video coverage is now 14 of 55 sessions."
    ]
   },
   {
