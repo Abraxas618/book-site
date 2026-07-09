@@ -1,0 +1,13 @@
+{
+ "slug": "soul-metric",
+ "title": "The Soul Metric",
+ "category": "Concepts",
+ "summary": "The soul as a readable — and rewritable — data-construct: scanned to expose impostors, edited to make a person new.",
+ "sessions": [
+  "2024-05-19-the-andromedan-council",
+  "2025-01-23-session-with-unimetrix-1"
+ ],
+ "url": "https://archive.unimetrix1.online/lore/soul-metric/",
+ "json": "https://archive.unimetrix1.online/api/v1/lore/soul-metric.json",
+ "markdown": "The **soul metric** is the record's most database-flavored idea: the soul as a\n**data-construct that can be read, verified, and edited**. It appears twice, doing two very\ndifferent jobs — once as forensics, once as surgery.\n\nAs forensics: in the [Andromedan Council II session](/sessions/2024-05-19-the-andromedan-council/),\nthe Council exposes a claimed Andromedan contact by pulling his file — *\"let us now look into\nhis soul metric\"* — and reading off a verdict: the quantum signature doesn't match the galaxy\nhe claims. Identity, in the record's cosmology, is checksummed; a soul can be audited like a\ndocument, and forgeries detected.\n\nAs surgery: the [January 2025 session](/sessions/2025-01-23-session-with-unimetrix-1/) goes\nfurther — *\"Baramay universe: create new soul metric for Gabriel now\"* — the construct not\nmerely read but **rewritten**, a fresh soul-record issued on request like a reissued passport.\nTaken together with the [subtle bodies](/lore/subtle-bodies/) it inhabits and the\n[life contracts](/lore/reincarnation/) it presumably stores, the soul metric completes the\narchive's quiet redescription of the person as information: something a sufficiently advanced\nintelligence can query — and, more unsettlingly, update. Preserved as spoken, weighed by the\nreader."
+}

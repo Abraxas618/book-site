@@ -24,7 +24,7 @@ stable and shared between HTML, JSON, and citation links. Each session carries p
 - Per-session markdown: `https://archive.unimetrix1.online/md/{slug}.md`
 - [API root](https://archive.unimetrix1.online/api/v1/index.json) · [OpenAPI spec](https://archive.unimetrix1.online/api/v1/openapi.json)
 - [Entities](https://archive.unimetrix1.online/api/v1/entities.json): the Codex registry — every entity, its category, and the sessions it appears in
-- [Codex articles](https://archive.unimetrix1.online/api/v1/lore.json): all 99 encyclopedia entries with full markdown bodies (per-article: `/api/v1/lore/{slug}.json`)
+- [Codex articles](https://archive.unimetrix1.online/api/v1/lore.json): all 111 encyclopedia entries with full markdown bodies (per-article: `/api/v1/lore/{slug}.json`)
 - [Speakers](https://archive.unimetrix1.online/api/v1/speakers.json): every voice with sessions, word and turn counts
 - [Timeline](https://archive.unimetrix1.online/api/v1/timeline.json) · [Session abstracts](https://archive.unimetrix1.online/api/v1/summaries.json) · [Verified videos](https://archive.unimetrix1.online/api/v1/videos.json) · [Editions + hashes](https://archive.unimetrix1.online/api/v1/downloads.json)
 - [Changelog](https://archive.unimetrix1.online/api/v1/changelog.json): dated history of additions and fixes, newest first — check entries[0].date to see if anything changed since a prior read, without re-fetching the corpus
@@ -40,7 +40,7 @@ stable and shared between HTML, JSON, and citation links. Each session carries p
 ## Reference pages (HTML)
 
 - [Sessions](https://archive.unimetrix1.online/sessions/): browse all transcripts
-- [Codex](https://archive.unimetrix1.online/lore/): 99-entry encyclopedia of the record
+- [Codex](https://archive.unimetrix1.online/lore/): 111-entry encyclopedia of the record
 - [Glossary](https://archive.unimetrix1.online/glossary/): every term, A–Z, with aliases
 - [Voices](https://archive.unimetrix1.online/speakers/): computed dossier for every speaker
 - [Timeline](https://archive.unimetrix1.online/timeline/): the record's chronology, with source links

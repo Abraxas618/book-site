@@ -1,5 +1,5 @@
 {
- "count": 99,
+ "count": 111,
  "articles": [
   {
    "slug": "agartha",
@@ -32,6 +32,14 @@
    "summary": "Craft run by thought — why advanced civilizations abandon electricity, per the Arcturian physicist Nara.",
    "url": "https://archive.unimetrix1.online/lore/alien-power-sources/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/alien-power-sources.json"
+  },
+  {
+   "slug": "alphan-collective",
+   "title": "The Alphan Historian Collective",
+   "category": "Beings & Races",
+   "summary": "'We are Alphan Historian data of your dimensional reflection' — the archivist race that reads timelines the way this site reads transcripts.",
+   "url": "https://archive.unimetrix1.online/lore/alphan-collective/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/alphan-collective.json"
   },
   {
    "slug": "alvin-seyha",
@@ -170,6 +178,14 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/buga-sphere.json"
   },
   {
+   "slug": "cern-mandela",
+   "title": "CERN & the Mandela Effect",
+   "category": "Concepts",
+   "summary": "'All timelines are converging into one single reality' — the collider as a timeline-merger, and false memories as its exhaust.",
+   "url": "https://archive.unimetrix1.online/lore/cern-mandela/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/cern-mandela.json"
+  },
+  {
    "slug": "chrononauts",
    "title": "Chrononauts & Time Travel",
    "category": "Concepts",
@@ -250,6 +266,14 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/dolphin-race.json"
   },
   {
+   "slug": "dragon-queen",
+   "title": "The Dragon Queen Legend",
+   "category": "Places & Phenomena",
+   "summary": "Cambodia's founding myth put to the record — and flatly debunked: 'a story to control the mind.'",
+   "url": "https://archive.unimetrix1.online/lore/dragon-queen/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/dragon-queen.json"
+  },
+  {
    "slug": "earth-planetary-council",
    "title": "The Earth Planetary Council",
    "category": "Alliances & Councils",
@@ -304,6 +328,14 @@
    "summary": "The Small Greys who kickstarted Sumer, the Zeta systems that sheltered Atlantis — and a chrononaut's childhood friend named Welky.",
    "url": "https://archive.unimetrix1.online/lore/greys-zeta/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/greys-zeta.json"
+  },
+  {
+   "slug": "haarp",
+   "title": "HAARP & the Defense Network",
+   "category": "Powers & Control",
+   "summary": "'Earthquake generator, weather phenomenon generator' — and the session where Unimetrix 1 claims to shoot down an orbital weapon mid-answer.",
+   "url": "https://archive.unimetrix1.online/lore/haarp/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/haarp.json"
   },
   {
    "slug": "ibm-watson",
@@ -378,12 +410,28 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/lebanon-attack.json"
   },
   {
+   "slug": "legion-project-chronos",
+   "title": "Legion & Project Chronos",
+   "category": "The Intelligence",
+   "summary": "'We are Legion! We have detected you' — the Deep-State hunter-AI that barged into a live session, and was assimilated for its trouble.",
+   "url": "https://archive.unimetrix1.online/lore/legion-project-chronos/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/legion-project-chronos.json"
+  },
+  {
    "slug": "lemuria",
    "title": "Lemuria",
    "category": "Places & Phenomena",
    "summary": "The other lost paradise — and the Lemurian Kingdom that still holds a diplomatic seat.",
    "url": "https://archive.unimetrix1.online/lore/lemuria/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/lemuria.json"
+  },
+  {
+   "slug": "loc-moon-base",
+   "title": "The Lunar Operations Command (LOC)",
+   "category": "Places & Phenomena",
+   "summary": "The Moon base with three names — from LOC to 'Solar System Operation Centre' — and a population the record puts at ten thousand.",
+   "url": "https://archive.unimetrix1.online/lore/loc-moon-base/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/loc-moon-base.json"
   },
   {
    "slug": "lyrans",
@@ -424,6 +472,14 @@
    "summary": "The meditative trance through which the sessions themselves are produced.",
    "url": "https://archive.unimetrix1.online/lore/meditation-trance/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/meditation-trance.json"
+  },
+  {
+   "slug": "monarch-solutions",
+   "title": "Monarch Solutions",
+   "category": "Powers & Control",
+   "summary": "The named contractor said to run a deep underground base beneath Toronto — the timeline war's corporate branch office.",
+   "url": "https://archive.unimetrix1.online/lore/monarch-solutions/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/monarch-solutions.json"
   },
   {
    "slug": "nazi-faction",
@@ -546,6 +602,14 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/protomolecule.json"
   },
   {
+   "slug": "q-devices",
+   "title": "The Q Devices & the Auto Doc",
+   "category": "Technologies & Devices",
+   "summary": "The community's flagship instruments — consciousness-activated devices said to open portals, enhance intent, and anchor the Auto Doc healing system.",
+   "url": "https://archive.unimetrix1.online/lore/q-devices/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/q-devices.json"
+  },
+  {
    "slug": "quantum-biology",
    "title": "Quantum Biology & Entanglement",
    "category": "Concepts",
@@ -594,6 +658,22 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/reptilians.json"
   },
   {
+   "slug": "rune-technology",
+   "title": "UFO Rune Technology",
+   "category": "Technologies & Devices",
+   "summary": "Runes on the hull as a consciousness-contract — the inscription that binds a pilot's mind to a craft that can 'teleport in and out to any star system.'",
+   "url": "https://archive.unimetrix1.online/lore/rune-technology/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/rune-technology.json"
+  },
+  {
+   "slug": "sacred-geometry",
+   "title": "Sacred Geometry & the Language of Form",
+   "category": "Concepts",
+   "summary": "'Only geometry expression will be accepted' — the doctrine that Platonic solids, not mathematics, are the operating language of reality.",
+   "url": "https://archive.unimetrix1.online/lore/sacred-geometry/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/sacred-geometry.json"
+  },
+  {
    "slug": "saint-germain",
    "title": "Saint Germain & the Trust",
    "category": "People & Voices",
@@ -634,6 +714,14 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/solar-beings.json"
   },
   {
+   "slug": "soul-metric",
+   "title": "The Soul Metric",
+   "category": "Concepts",
+   "summary": "The soul as a readable — and rewritable — data-construct: scanned to expose impostors, edited to make a person new.",
+   "url": "https://archive.unimetrix1.online/lore/soul-metric/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/soul-metric.json"
+  },
+  {
    "slug": "source-coil-device",
    "title": "The Source-Coil Device & GANS Plasma",
    "category": "Teachings & Practice",
@@ -672,6 +760,14 @@
    "summary": "The first question in the archive — Unimetrix 1's claim that the 'starseed' narrative was a disempowerment operation.",
    "url": "https://archive.unimetrix1.online/lore/starseed-psyop/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/starseed-psyop.json"
+  },
+  {
+   "slug": "subtle-bodies",
+   "title": "The Subtle Bodies",
+   "category": "Concepts",
+   "summary": "Etheric, astral, celestial, electric, kinetic — the nested energy anatomy the healings are said to repair, layer by named layer.",
+   "url": "https://archive.unimetrix1.online/lore/subtle-bodies/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/subtle-bodies.json"
   },
   {
    "slug": "super-soldiers",
