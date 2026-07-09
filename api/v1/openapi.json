@@ -102,7 +102,7 @@
   },
   "/api/v1/lore.json": {
    "get": {
-    "summary": "Codex article index (94 encyclopedia entries)",
+    "summary": "Codex article index (99 encyclopedia entries)",
     "responses": {
      "200": {
       "description": "Article index",

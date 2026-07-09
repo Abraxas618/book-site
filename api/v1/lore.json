@@ -1,5 +1,5 @@
 {
- "count": 94,
+ "count": 99,
  "articles": [
   {
    "slug": "agartha",
@@ -594,6 +594,14 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/reptilians.json"
   },
   {
+   "slug": "saint-germain",
+   "title": "Saint Germain & the Trust",
+   "category": "People & Voices",
+   "summary": "The ascended master the record credits with the abundance program — and the trust said to open twice a year, on Christmas and Easter.",
+   "url": "https://archive.unimetrix1.online/lore/saint-germain/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/saint-germain.json"
+  },
+  {
    "slug": "secret-space-program",
    "title": "The Secret Space Program & Dark Fleet",
    "category": "Powers & Control",
@@ -608,6 +616,22 @@
    "summary": "The Sirius lineage — its Council of 9, its dolphin people, and the leaders the sessions trace to its bloodline.",
    "url": "https://archive.unimetrix1.online/lore/sirians/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/sirians.json"
+  },
+  {
+   "slug": "skinwalker-ranch",
+   "title": "Skinwalker Ranch & the Portal Triangles",
+   "category": "Places & Phenomena",
+   "summary": "The Utah ranch as one grid-point in a planetary polyhedron of portals — the Dragon, Seattle, Alberta, Antarctica, and Arctic Triangles.",
+   "url": "https://archive.unimetrix1.online/lore/skinwalker-ranch/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/skinwalker-ranch.json"
+  },
+  {
+   "slug": "solar-beings",
+   "title": "The Solar Beings & the Morphogenetic Field",
+   "category": "Concepts",
+   "summary": "'The Solar Beings are what you will become' — the Sun as an upgrade mechanism, acting on the body-field the record calls morphogenetic.",
+   "url": "https://archive.unimetrix1.online/lore/solar-beings/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/solar-beings.json"
   },
   {
    "slug": "source-coil-device",
@@ -690,6 +714,14 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/the-chronicle.json"
   },
   {
+   "slug": "the-churning",
+   "title": "The Churning",
+   "category": "Concepts",
+   "summary": "'From greater order come a greater chaos' — the doctrine that engineered upheaval is the required passage to a new world, told through a cup of water.",
+   "url": "https://archive.unimetrix1.online/lore/the-churning/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/the-churning.json"
+  },
+  {
    "slug": "the-moon",
    "title": "The Moon",
    "category": "Places & Phenomena",
@@ -704,6 +736,14 @@
    "summary": "The conical-helmeted beings Kosol Ouch says trained him across a 32-year dream at Angkor Wat — the origin of his mission and his devices.",
    "url": "https://archive.unimetrix1.online/lore/the-sega/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/the-sega.json"
+  },
+  {
+   "slug": "the-serums",
+   "title": "The Serums",
+   "category": "Teachings & Practice",
+   "summary": "M-21, Immortal, anti-viral, 'Incredible Hulk' — the named energetic serums injected by voice, across ten sessions and any distance.",
+   "url": "https://archive.unimetrix1.online/lore/the-serums/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/the-serums.json"
   },
   {
    "slug": "the-upgrade",
