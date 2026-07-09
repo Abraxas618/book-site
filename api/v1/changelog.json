@@ -7,7 +7,8 @@
     "Added The Arc of the Record — a new Codex essay reading the nine years of sessions as one unfolding story: how the voice first appears secondhand in 2017, the crowded 2020 era (35 sessions, 51 speakers), the inversion to monologue bulletins, and the 2026 interrogation. Every figure computed from the transcripts.",
     "Start Here now opens with 'First, hold the map' — pointing newcomers to The Chronicle and The Arc before the reading path, so the shape of the record comes before the transcripts.",
     "Added content notes to six sessions that concern real, identifiable people or events (including the passing of James Rink and the George Soros session) — a heads-up on the session page and a marker on its card, so readers can self-pace. Notes also appear in the JSON API.",
-    "Added /version.json — a deploy marker (commit, build time, session count) so readers, scripts, and AI agents can confirm they are seeing the current deployment rather than a cached copy."
+    "Added /version.json — a deploy marker (commit, build time, session count) so readers, scripts, and AI agents can confirm they are seeing the current deployment rather than a cached copy.",
+    "Expanded the Codex after a deep re-read of the corpus: new entries for The Over Goal (the master objective invoked across 22 sessions) and The Sega (the dream-world teachers Kosol credits with starting his mission), and enriched the Secret Space Program entry to name the Solar Warden fleet. Codex counts across the site are now computed automatically."
    ]
   },
   {

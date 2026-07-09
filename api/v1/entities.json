@@ -1157,7 +1157,8 @@
    "aliases": [
     "Secret Space Program",
     "Dark Fleet",
-    "Nacht Waffen"
+    "Nacht Waffen",
+    "Solar Warden"
    ],
    "sessions": [
     "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin",
@@ -1174,7 +1175,7 @@
     "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
     "2023-12-23-nesara-gesara-first-contact"
    ],
-   "count": 51,
+   "count": 56,
    "url": "https://archive.unimetrix1.online/lore/secret-space-program/"
   },
   {
@@ -1971,6 +1972,56 @@
    ],
    "count": 47,
    "url": "https://archive.unimetrix1.online/lore/alvin-seyha/"
+  },
+  {
+   "slug": "the-sega",
+   "name": "The Sega (Kosol's Dream Teachers)",
+   "category": "Beings & Races",
+   "aliases": [
+    "Sega",
+    "Esiad"
+   ],
+   "sessions": [
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu"
+   ],
+   "count": 3,
+   "url": "https://archive.unimetrix1.online/lore/the-sega/"
+  },
+  {
+   "slug": "over-goal",
+   "name": "The Over Goal",
+   "category": "Concepts",
+   "aliases": [
+    "over goal",
+    "overgoal",
+    "over-goal"
+   ],
+   "sessions": [
+    "2020-02-25-proto-bashar-session",
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-03-27-hawk-you-session",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-16-the-replicator",
+    "2020-10-16-session-with-unimetrix-1",
+    "2020-10-23-session-with-unimetrix-1",
+    "2020-12-21-session-with-unimetrix-1",
+    "2021-01-01-session-with-unimetrix-1",
+    "2023-02-09-session-with-unimetrix-1-john-toth",
+    "2023-07-06-session-with-unimetrix-1",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2024-02-22-super-soldier-bashar-first-contact",
+    "2024-09-25-session-with-unimetrix-1",
+    "2024-11-06-the-2024-election-timeline-course-correction",
+    "2025-01-23-session-with-unimetrix-1",
+    "2025-03-28-session-with-unimetrix-1"
+   ],
+   "count": 45,
+   "url": "https://archive.unimetrix1.online/lore/over-goal/"
   },
   {
    "slug": "tetraklein",
