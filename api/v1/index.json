@@ -19,6 +19,7 @@
   "downloads": "https://archive.unimetrix1.online/api/v1/downloads.json",
   "videos": "https://archive.unimetrix1.online/api/v1/videos.json",
   "changelog": "https://archive.unimetrix1.online/api/v1/changelog.json",
+  "trails": "https://archive.unimetrix1.online/api/v1/trails.json",
   "corpusMarkdown": "https://archive.unimetrix1.online/llms-full.txt",
   "llms": "https://archive.unimetrix1.online/llms.txt",
   "feed": "https://archive.unimetrix1.online/feed.xml",

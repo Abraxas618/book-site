@@ -1,7 +1,7 @@
 {
   "name": "unimetrix1-archive",
-  "version": "1.0.0",
-  "description": "Read-only MCP server over the Unimetrix 1 session archive — search the record, fetch sessions as speaker turns or markdown, query Codex entities, speakers, the timeline, and the changelog. Archival record: statements are faithfully preserved from the spoken record, with light transcription and formatting cleanup, and are not independently verified.",
+  "version": "1.1.0",
+  "description": "Read-only MCP server over the Unimetrix 1 session archive — search the record, fetch sessions as speaker turns or markdown, query Codex entities, speakers, the timeline, trails, and the changelog; resolve citations with get_passage and names with lookup. Also serves MCP resources and prompts. Archival record: statements are faithfully preserved from the spoken record, with light transcription and formatting cleanup, and are not independently verified.",
   "endpoint": "https://book.redbull1956.workers.dev/mcp",
   "health": "https://book.redbull1956.workers.dev/mcp/health",
   "transport": "streamable-http",
@@ -11,8 +11,9 @@
   "openapi": "https://archive.unimetrix1.online/api/v1/openapi.json",
   "llms": "https://archive.unimetrix1.online/llms.txt",
   "tools": [
-    "get_overview", "list_sessions", "get_session", "search_sessions",
-    "list_entities", "get_entity", "get_speakers", "get_timeline", "get_changelog"
+    "get_overview", "list_sessions", "get_session", "search_sessions", "get_passage",
+    "lookup", "list_entities", "get_entity", "get_speakers", "get_timeline",
+    "list_trails", "get_trail", "get_changelog"
   ],
   "license": "CC-BY-4.0",
   "attribution": "archive.unimetrix1.online"

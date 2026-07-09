@@ -214,6 +214,19 @@
     }
    }
   },
+  "/api/v1/trails.json": {
+   "get": {
+    "summary": "Curated reading paths through the record (themed session sequences)",
+    "responses": {
+     "200": {
+      "description": "Trails",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
   "/version.json": {
    "get": {
     "summary": "Deploy marker — commit, build time, session count — to confirm which deploy a cached or proxied response is showing",
