@@ -57,10 +57,11 @@
   "quantum-biology",
   "the-moon"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-03-14",
   "recordingDate": "2020-03-14",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "interview",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -68,7 +69,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:741a5c61d826c22b0e2646017910f3dc03bfda0d863dada260dd5be8c23ee00b"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p/",

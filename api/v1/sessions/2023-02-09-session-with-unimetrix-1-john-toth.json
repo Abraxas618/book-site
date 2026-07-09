@@ -34,10 +34,11 @@
   "assimilation",
   "eternal-now"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2023-02-09",
   "recordingDate": "2023-02-09",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -45,7 +46,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:ec2f63b463671c2f95f33860ec4fcc6418f4a0884b93a7abe4327143b4c0fb58"
  },
  "url": "https://archive.unimetrix1.online/sessions/2023-02-09-session-with-unimetrix-1-john-toth/",

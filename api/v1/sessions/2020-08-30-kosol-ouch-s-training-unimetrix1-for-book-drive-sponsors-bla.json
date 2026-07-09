@@ -39,10 +39,11 @@
   "stargate",
   "quantum-biology"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-08-30",
   "recordingDate": "2020-08-30",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "interview",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -50,7 +51,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:2ddb932e61d8b96fac405b3d8f87291c2e16cb560ba8f42f7e2574c84e5c033e"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla/",

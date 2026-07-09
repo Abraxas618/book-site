@@ -23,10 +23,11 @@
   "elohim",
   "manifestation"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-09-20",
   "recordingDate": "2020-09-20",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -34,7 +35,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:5236c97b73ae9f7158b5dcc396935df9f70e9e9af5b9d4ac5c4f439a3ae365c1"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-09-20-session-with-unimetrix-1/",

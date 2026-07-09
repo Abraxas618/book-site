@@ -28,10 +28,11 @@
   "the-moon",
   "nibiru-marduk"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2024-09-25",
   "recordingDate": "2024-09-25",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -39,7 +40,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:59f01e71074d934892d82b7131052c1f4f3c5db51832f0b49916c712d9d74945"
  },
  "url": "https://archive.unimetrix1.online/sessions/2024-09-25-session-with-unimetrix-1/",

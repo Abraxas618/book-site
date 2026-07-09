@@ -21,10 +21,11 @@
   "first-contact",
   "the-upgrade"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-09-16",
   "recordingDate": "2020-09-16",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -32,7 +33,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:138e9859d9eafabbb9ef988c5d508c56bce3fd42f317cfb8f9c91afca4012859"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-09-16-the-replicator/",

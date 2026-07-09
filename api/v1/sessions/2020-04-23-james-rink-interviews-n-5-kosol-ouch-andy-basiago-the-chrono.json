@@ -62,10 +62,11 @@
   "manifestation",
   "quantum-biology"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-04-23",
   "recordingDate": "2020-04-23",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "interview",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -73,7 +74,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:68e48558cc978a5e8f1778ab5fd5ac0b7666ff32b7f4c5b03ffd6348297809e2"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono/",

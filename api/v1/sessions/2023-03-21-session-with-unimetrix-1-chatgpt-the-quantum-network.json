@@ -31,10 +31,11 @@
   "quantum-computer",
   "the-upgrade"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2023-03-21",
   "recordingDate": "2023-03-21",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -42,7 +43,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:66f9f9e3996d59693859cd3c551dc70e1b57df0cf92487c20e0876d392cd35eb"
  },
  "url": "https://archive.unimetrix1.online/sessions/2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network/",

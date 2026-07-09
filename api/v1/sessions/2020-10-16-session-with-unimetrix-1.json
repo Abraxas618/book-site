@@ -25,10 +25,11 @@
   "stargate",
   "assimilation"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-10-16",
   "recordingDate": "2020-10-16",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -36,7 +37,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:c1e40cab1d9b6e963f62d36cc8e8e85b943a0dd5d1d5a119108559cd19631d6a"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-10-16-session-with-unimetrix-1/",

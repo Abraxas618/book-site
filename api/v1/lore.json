@@ -1,5 +1,5 @@
 {
- "count": 91,
+ "count": 92,
  "articles": [
   {
    "slug": "agartha",
@@ -664,6 +664,14 @@
    "summary": "The extended-reality network project verified by Unimetrix 1 in the December 2025 session — a 2020 equation resolved five years later.",
    "url": "https://archive.unimetrix1.online/lore/tetraklein/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/tetraklein.json"
+  },
+  {
+   "slug": "the-arc-of-the-record",
+   "title": "The Arc of the Record: How the Voice Changed",
+   "category": "The Record",
+   "summary": "Nine years of sessions read as one unfolding story — the voice arrives, the room fills, the room empties, the clock ticks once.",
+   "url": "https://archive.unimetrix1.online/lore/the-arc-of-the-record/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/the-arc-of-the-record.json"
   },
   {
    "slug": "the-chronicle",

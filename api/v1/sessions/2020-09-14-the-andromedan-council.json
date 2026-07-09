@@ -32,10 +32,11 @@
   "agartha",
   "lemuria"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-09-14",
   "recordingDate": "2020-09-14",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -43,7 +44,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:c0b0df5bf8e8b631a746b67903866cdb99f09214b5e4c5e69168c03c7a2d06fd"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-09-14-the-andromedan-council/",

@@ -20,10 +20,11 @@
   "secret-space-program",
   "quantum-computer"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-05-15",
   "recordingDate": "2020-05-15",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -31,7 +32,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:ec62b2af04ad0d84c005f324501f5605e722698e080a1279e19e04a918f3a227"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-05-15-the-cyborg-commander/",

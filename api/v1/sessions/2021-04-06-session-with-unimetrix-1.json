@@ -21,10 +21,11 @@
   "interstellar-alliance",
   "the-upgrade"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2021-04-06",
   "recordingDate": "2021-04-06",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -32,7 +33,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:07389ac3f304bc05f6778cbf4c7d4f8978f30541759f09f76ccd73283be70354"
  },
  "url": "https://archive.unimetrix1.online/sessions/2021-04-06-session-with-unimetrix-1/",

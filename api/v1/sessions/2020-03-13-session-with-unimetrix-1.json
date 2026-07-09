@@ -25,10 +25,11 @@
   "orion",
   "anti-gravity"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-03-13",
   "recordingDate": "2020-03-13",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -36,7 +37,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:fcad3796c02a85dbce2cabef5615db09b2e33b8c7d748c01f4a8bb873ab30846"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-03-13-session-with-unimetrix-1/",

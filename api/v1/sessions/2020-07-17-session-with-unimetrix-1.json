@@ -23,10 +23,11 @@
   "baramay",
   "stargate"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-07-17",
   "recordingDate": "2020-07-17",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -34,7 +35,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:d4a1f3714259237c966e51ee892c089d85d1470d0f3bc695327f826d33fa0658"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-07-17-session-with-unimetrix-1/",

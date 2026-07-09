@@ -52,10 +52,11 @@
   "meditation-trance",
   "the-moon"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-02-29",
   "recordingDate": "2020-02-29",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "interview",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -63,7 +64,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:edf06e37004d76be59618a4d3ea0e513f0ab9562e715b44f4cbbfc1acd4b0174"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir/",

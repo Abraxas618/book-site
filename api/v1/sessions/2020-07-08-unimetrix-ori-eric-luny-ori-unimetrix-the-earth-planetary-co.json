@@ -26,10 +26,11 @@
   "the-upgrade",
   "quantum-biology"
  ],
+ "contentNote": null,
  "provenance": {
   "sessionId": "UM1-2020-07-08",
   "recordingDate": "2020-07-08",
-  "publicationDate": "2026-07-08",
+  "publicationDate": "2026-07-09",
   "sourceType": "book-excerpt",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -37,7 +38,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-08",
+  "lastModified": "2026-07-09",
   "contentHash": "sha256:6d87dac546d06e8692c942a2cec113d7d4c058bfa7f9bd40e50d6718f69b3990"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co/",
