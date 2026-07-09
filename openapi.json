@@ -1,0 +1,244 @@
+{
+ "openapi": "3.1.0",
+ "info": {
+  "title": "Unimetrix 1 Archive API",
+  "version": "1",
+  "description": "Read-only static JSON API over the Unimetrix 1 session archive. Every file is regenerated on deploy from the canonical manuscript; turn anchors (tN) match the #tN anchors on the HTML session pages. The archive is a record — statements are presented as spoken and are not independently verified. An MCP server exposing the same data as callable tools runs at https://book.redbull1956.workers.dev/mcp (streamable HTTP).",
+  "license": {
+   "name": "CC BY 4.0",
+   "url": "https://creativecommons.org/licenses/by/4.0/"
+  }
+ },
+ "servers": [
+  {
+   "url": "https://archive.unimetrix1.online"
+  }
+ ],
+ "paths": {
+  "/api/v1/index.json": {
+   "get": {
+    "summary": "API root: all endpoints",
+    "responses": {
+     "200": {
+      "description": "Endpoint directory",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/sessions.json": {
+   "get": {
+    "summary": "All sessions with metadata, topics, and per-session JSON/markdown URLs",
+    "responses": {
+     "200": {
+      "description": "Session index",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/sessions/{slug}.json": {
+   "get": {
+    "summary": "One session: metadata, provenance, and the full transcript as speaker turns with stable anchors",
+    "parameters": [
+     {
+      "name": "slug",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "Session with turns",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/md/{slug}.md": {
+   "get": {
+    "summary": "One session as plain markdown (verbatim manuscript chapter)",
+    "parameters": [
+     {
+      "name": "slug",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "Markdown",
+      "content": {
+       "text/markdown": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/entities.json": {
+   "get": {
+    "summary": "Codex entity registry: every entity, aliases, category, and the sessions it appears in",
+    "responses": {
+     "200": {
+      "description": "Entity registry",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/lore.json": {
+   "get": {
+    "summary": "Codex article index (111 encyclopedia entries)",
+    "responses": {
+     "200": {
+      "description": "Article index",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/lore/{slug}.json": {
+   "get": {
+    "summary": "One Codex article: summary, full markdown body, and session backlinks",
+    "parameters": [
+     {
+      "name": "slug",
+      "in": "path",
+      "required": true,
+      "schema": {
+       "type": "string"
+      }
+     }
+    ],
+    "responses": {
+     "200": {
+      "description": "Article",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/speakers.json": {
+   "get": {
+    "summary": "Every voice with sessions, word and turn counts",
+    "responses": {
+     "200": {
+      "description": "Speaker stats",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/timeline.json": {
+   "get": {
+    "summary": "The Grand Timeline: eras and events with type (history/session/forecast) and source-session links",
+    "responses": {
+     "200": {
+      "description": "Timeline",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/summaries.json": {
+   "get": {
+    "summary": "Hand-written one-paragraph abstract for every session",
+    "responses": {
+     "200": {
+      "description": "Abstracts",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/downloads.json": {
+   "get": {
+    "summary": "Downloadable EPUB/PDF editions with sizes and sha-256 hashes",
+    "responses": {
+     "200": {
+      "description": "Editions",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/videos.json": {
+   "get": {
+    "summary": "Verified original recordings (YouTube) per session",
+    "responses": {
+     "200": {
+      "description": "Videos",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/api/v1/changelog.json": {
+   "get": {
+    "summary": "Dated history of what's been added or changed, newest first",
+    "responses": {
+     "200": {
+      "description": "Changelog",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/version.json": {
+   "get": {
+    "summary": "Deploy marker — commit, build time, session count — to confirm which deploy a cached or proxied response is showing",
+    "responses": {
+     "200": {
+      "description": "Version",
+      "content": {
+       "application/json": {}
+      }
+     }
+    }
+   }
+  },
+  "/llms-full.txt": {
+   "get": {
+    "summary": "The complete corpus as one markdown file",
+    "responses": {
+     "200": {
+      "description": "Markdown",
+      "content": {
+       "text/markdown": {}
+      }
+     }
+    }
+   }
+  }
+ }
+}

@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Read-only MCP server over the Unimetrix 1 session archive — search the record, fetch sessions as speaker turns or markdown, query Codex entities, speakers, the timeline, and the changelog. Archival record: statements are faithfully preserved from the spoken record, with light transcription and formatting cleanup, and are not independently verified.",
   "endpoint": "https://book.redbull1956.workers.dev/mcp",
+  "health": "https://book.redbull1956.workers.dev/mcp/health",
   "transport": "streamable-http",
   "protocolVersion": "2025-03-26",
   "authentication": "none",
