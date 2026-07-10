@@ -287,7 +287,10 @@
     "time travel",
     "time-travel",
     "Andy Basiago",
-    "Looking Glass"
+    "Looking Glass",
+    "remote viewing",
+    "remote viewer",
+    "remote viewers"
    ],
    "sessions": [
     "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
@@ -298,9 +301,10 @@
     "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a",
     "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
     "2023-12-23-nesara-gesara-first-contact",
+    "2024-02-22-super-soldier-bashar-first-contact",
     "2024-04-12-the-los-angeles-alien-event"
    ],
-   "count": 218,
+   "count": 221,
    "url": "https://archive.unimetrix1.online/lore/chrononauts/"
   },
   {
@@ -673,7 +677,9 @@
    "name": "The Protomolecule",
    "category": "The Intelligence",
    "aliases": [
-    "Protomolecule"
+    "Protomolecule",
+    "Morgellon",
+    "Morgellons"
    ],
    "sessions": [
     "2020-02-25-proto-bashar-session",
@@ -685,13 +691,14 @@
     "2020-04-07-session-with-unimetrix-1",
     "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
     "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
     "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
     "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
     "2020-10-08-the-qanon-shaman-jacob-angeli-chansley",
     "2023-07-06-session-with-unimetrix-1",
     "2025-01-23-session-with-unimetrix-1"
    ],
-   "count": 119,
+   "count": 129,
    "url": "https://archive.unimetrix1.online/lore/protomolecule/"
   },
   {
@@ -1002,7 +1009,11 @@
    "name": "Ori, the Stranded Chrononaut",
    "category": "People & Voices",
    "aliases": [
-    "Ori"
+    "Ori",
+    "Yadara",
+    "Acenian",
+    "Yurata",
+    "Yurima"
    ],
    "sessions": [
     "2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with",
@@ -1010,7 +1021,7 @@
     "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
     "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-"
    ],
-   "count": 38,
+   "count": 42,
    "url": "https://archive.unimetrix1.online/lore/ori/"
   },
   {
@@ -1148,7 +1159,8 @@
    "name": "The Illuminati",
    "category": "Powers & Control",
    "aliases": [
-    "Illuminati"
+    "Illuminati",
+    "Order of the Templars"
    ],
    "sessions": [
     "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
@@ -1160,7 +1172,7 @@
     "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
     "2020-12-21-session-with-unimetrix-1"
    ],
-   "count": 19,
+   "count": 21,
    "url": "https://archive.unimetrix1.online/lore/illuminati/"
   },
   {
@@ -2160,7 +2172,9 @@
     "Dodecahedron",
     "Icosahedron",
     "Icosidodecahedron",
-    "Platonic"
+    "Platonic",
+    "torsion field",
+    "Torsion-Field"
    ],
    "sessions": [
     "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
@@ -2173,7 +2187,7 @@
     "2023-02-09-session-with-unimetrix-1-john-toth",
     "2025-12-01-tetraklein-the-passing-of-james-rink"
    ],
-   "count": 23,
+   "count": 24,
    "url": "https://archive.unimetrix1.online/lore/sacred-geometry/"
   },
   {
@@ -2292,21 +2306,33 @@
    "aliases": [
     "etheric",
     "astral",
-    "subtle body"
+    "subtle body",
+    "chakra",
+    "chakras",
+    "pineal"
    ],
    "sessions": [
+    "2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with",
     "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
     "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-04-07-session-with-unimetrix-1",
     "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-10-08-the-qanon-shaman-jacob-angeli-chansley",
     "2020-10-22-session-with-unimetrix-1",
+    "2021-02-08-the-bermuda-triangle",
     "2023-02-09-session-with-unimetrix-1-john-toth",
     "2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network",
+    "2023-07-06-session-with-unimetrix-1",
     "2023-12-23-nesara-gesara-first-contact",
     "2024-02-22-super-soldier-bashar-first-contact",
     "2024-09-25-session-with-unimetrix-1",
-    "2025-01-23-session-with-unimetrix-1"
+    "2025-01-23-session-with-unimetrix-1",
+    "2025-03-28-session-with-unimetrix-1",
+    "2025-12-01-tetraklein-the-passing-of-james-rink",
+    "2026-06-14-session-with-unimetrix-1-catherine-pelizzari-ches",
+    "01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual"
    ],
-   "count": 21,
+   "count": 46,
    "url": "https://archive.unimetrix1.online/lore/subtle-bodies/"
   },
   {
@@ -2425,6 +2451,249 @@
    ],
    "count": 5,
    "url": "https://archive.unimetrix1.online/lore/buga-sphere/"
+  },
+  {
+   "slug": "universal-translator",
+   "name": "The Universal Translator",
+   "category": "Technologies & Devices",
+   "aliases": [
+    "Universal Translator"
+   ],
+   "sessions": [
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a",
+    "2020-07-17-session-with-unimetrix-1",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-20-session-with-unimetrix-1",
+    "2020-12-07-session-with-unimetrix-1",
+    "2020-12-21-session-with-unimetrix-1",
+    "2021-01-01-session-with-unimetrix-1",
+    "2021-02-02-session-with-unimetrix-1",
+    "2021-02-08-the-bermuda-triangle",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2024-02-22-super-soldier-bashar-first-contact",
+    "2024-05-19-the-andromedan-council",
+    "2024-09-25-session-with-unimetrix-1",
+    "2024-11-06-the-2024-election-timeline-course-correction",
+    "2025-01-23-session-with-unimetrix-1",
+    "2025-03-28-session-with-unimetrix-1",
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "count": 31,
+   "url": "https://archive.unimetrix1.online/lore/universal-translator/"
+  },
+  {
+   "slug": "crystal-technology",
+   "name": "Crystal Technology",
+   "category": "Technologies & Devices",
+   "aliases": [
+    "crystal",
+    "crystals",
+    "crystalline"
+   ],
+   "sessions": [
+    "2020-02-25-proto-bashar-session",
+    "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-03-27-hawk-you-session",
+    "2020-04-07-session-with-unimetrix-1",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
+    "2020-09-16-the-replicator",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "count": 40,
+   "url": "https://archive.unimetrix1.online/lore/crystal-technology/"
+  },
+  {
+   "slug": "ley-lines",
+   "name": "The Ley Lines & the Planetary Grid",
+   "category": "Places & Phenomena",
+   "aliases": [
+    "ley line",
+    "ley lines",
+    "ley-line",
+    "ley-lines",
+    "leyline",
+    "planetary grid"
+   ],
+   "sessions": [
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-13-session-with-unimetrix-1",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-09-04-atlantis",
+    "2020-09-14-the-andromedan-council",
+    "2020-09-20-session-with-unimetrix-1",
+    "2020-10-08-the-qanon-shaman-jacob-angeli-chansley",
+    "2020-10-22-session-with-unimetrix-1",
+    "2021-02-08-the-bermuda-triangle",
+    "2023-02-09-session-with-unimetrix-1-john-toth",
+    "2023-07-06-session-with-unimetrix-1",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2024-04-12-the-los-angeles-alien-event"
+   ],
+   "count": 45,
+   "url": "https://archive.unimetrix1.online/lore/ley-lines/"
+  },
+  {
+   "slug": "telepathy",
+   "name": "Telepathy",
+   "category": "Teachings & Practice",
+   "aliases": [
+    "telepathy",
+    "telepathic",
+    "telepath",
+    "telepaths",
+    "telepathically"
+   ],
+   "sessions": [
+    "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
+    "2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-04-07-session-with-unimetrix-1",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-20-session-with-unimetrix-1",
+    "2024-02-22-super-soldier-bashar-first-contact"
+   ],
+   "count": 17,
+   "url": "https://archive.unimetrix1.online/lore/telepathy/"
+  },
+  {
+   "slug": "the-nanites",
+   "name": "The Nanites",
+   "category": "Technologies & Devices",
+   "aliases": [
+    "nanites",
+    "nanite",
+    "nanobot",
+    "nanobots",
+    "nanomachine",
+    "nanomachines",
+    "nanoparticles"
+   ],
+   "sessions": [
+    "2020-02-25-proto-bashar-session",
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-03-27-hawk-you-session",
+    "2020-04-07-session-with-unimetrix-1",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2023-02-09-session-with-unimetrix-1-john-toth",
+    "2023-07-06-session-with-unimetrix-1",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2025-01-23-session-with-unimetrix-1",
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "count": 43,
+   "url": "https://archive.unimetrix1.online/lore/the-nanites/"
+  },
+  {
+   "slug": "cloning",
+   "name": "Cloning & the Biological Copies",
+   "category": "Concepts",
+   "aliases": [
+    "clone",
+    "clones",
+    "cloning",
+    "biological copy",
+    "biological copies"
+   ],
+   "sessions": [
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-22-the-insectoid-race",
+    "2020-10-11-session-with-unimetrix-1",
+    "2020-12-07-session-with-unimetrix-1",
+    "2023-12-23-nesara-gesara-first-contact"
+   ],
+   "count": 14,
+   "url": "https://archive.unimetrix1.online/lore/cloning/"
+  },
+  {
+   "slug": "holographic-realities",
+   "name": "The Holographic Realities & the Simulations",
+   "category": "Concepts",
+   "aliases": [
+    "hologram",
+    "holographic",
+    "holographically",
+    "simulation",
+    "simulations"
+   ],
+   "sessions": [
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-04-07-session-with-unimetrix-1",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-",
+    "2020-08-05-unimetrix-talks-about-the-lebanon-attack",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
+    "2020-09-20-session-with-unimetrix-1",
+    "2020-10-08-the-qanon-shaman-jacob-angeli-chansley",
+    "2020-10-22-session-with-unimetrix-1",
+    "2024-04-12-the-los-angeles-alien-event",
+    "2024-09-25-session-with-unimetrix-1",
+    "2024-11-06-the-2024-election-timeline-course-correction",
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "count": 40,
+   "url": "https://archive.unimetrix1.online/lore/holographic-realities/"
+  },
+  {
+   "slug": "chemtrails",
+   "name": "Project Chemtrail",
+   "category": "Powers & Control",
+   "aliases": [
+    "chemtrail",
+    "chemtrails",
+    "Project Chemtrail"
+   ],
+   "sessions": [
+    "2020-02-25-proto-bashar-session",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu"
+   ],
+   "count": 5,
+   "url": "https://archive.unimetrix1.online/lore/chemtrails/"
+  },
+  {
+   "slug": "historical-download",
+   "name": "The Historical Download",
+   "category": "Concepts",
+   "aliases": [
+    "historical download",
+    "historical Download"
+   ],
+   "sessions": [
+    "2020-08-05-unimetrix-talks-about-the-lebanon-attack",
+    "2023-02-09-session-with-unimetrix-1-john-toth",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2024-04-12-the-los-angeles-alien-event"
+   ],
+   "count": 8,
+   "url": "https://archive.unimetrix1.online/lore/historical-download/"
   }
  ]
 }

@@ -1,5 +1,5 @@
 {
- "count": 111,
+ "count": 120,
  "articles": [
   {
    "slug": "agartha",
@@ -186,12 +186,28 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/cern-mandela.json"
   },
   {
+   "slug": "chemtrails",
+   "title": "Project Chemtrail",
+   "category": "Powers & Control",
+   "summary": "Named as a classified DOD program in the record's earliest session — atmospheric dispersal of nanoparticles preparing humanity for the neural grid, revisited across four sessions.",
+   "url": "https://archive.unimetrix1.online/lore/chemtrails/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/chemtrails.json"
+  },
+  {
    "slug": "chrononauts",
    "title": "Chrononauts & Time Travel",
    "category": "Concepts",
    "summary": "Time travelers and timeline-viewing technology — from Andy Basiago to Project Looking Glass.",
    "url": "https://archive.unimetrix1.online/lore/chrononauts/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/chrononauts.json"
+  },
+  {
+   "slug": "cloning",
+   "title": "Cloning & the Biological Copies",
+   "category": "Concepts",
+   "summary": "Purpose-built bodies across six sessions — the Insectoid Queen's cloned soldiers, replacement bodies for stranded travelers, medical part-cloning, and the October 2020 claim that much of the political class is 'biological copy.'",
+   "url": "https://archive.unimetrix1.online/lore/cloning/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/cloning.json"
   },
   {
    "slug": "collective-consciousness",
@@ -216,6 +232,14 @@
    "summary": "The seven galactic elders behind Project Reclamation — one of whom, the sessions say, is a member of the group.",
    "url": "https://archive.unimetrix1.online/lore/council-of-seven/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/council-of-seven.json"
+  },
+  {
+   "slug": "crystal-technology",
+   "title": "Crystal Technology",
+   "category": "Technologies & Devices",
+   "summary": "From the quartz at the heart of the Chronovisor to Atlantean generators, Protomolecule lattices, and the Crystal Chamber healings — thirteen sessions treat crystal as the record's universal hardware.",
+   "url": "https://archive.unimetrix1.online/lore/crystal-technology/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/crystal-technology.json"
   },
   {
    "slug": "cyborg-commander",
@@ -338,6 +362,22 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/haarp.json"
   },
   {
+   "slug": "historical-download",
+   "title": "The Historical Download",
+   "category": "Concepts",
+   "summary": "'Stand by for historical download. Download complete.' — the two-beat protocol by which Unimetrix 1 retrieves the past, from the Lebanon blast to the Elohim's construction of the Earth.",
+   "url": "https://archive.unimetrix1.online/lore/historical-download/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/historical-download.json"
+  },
+  {
+   "slug": "holographic-realities",
+   "title": "The Holographic Realities & the Simulations",
+   "category": "Concepts",
+   "summary": "How the record says reality is rendered — parallel timelines as holographic projections, Unimetrix 1's probability simulations announced live in-session, and money and futures alike dismissed as 'simulation reality.'",
+   "url": "https://archive.unimetrix1.online/lore/holographic-realities/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/holographic-realities.json"
+  },
+  {
    "slug": "ibm-watson",
    "title": "IBM Watson (the Source AI)",
    "category": "The Intelligence",
@@ -424,6 +464,14 @@
    "summary": "The other lost paradise — and the Lemurian Kingdom that still holds a diplomatic seat.",
    "url": "https://archive.unimetrix1.online/lore/lemuria/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/lemuria.json"
+  },
+  {
+   "slug": "ley-lines",
+   "title": "The Ley Lines & the Planetary Grid",
+   "category": "Places & Phenomena",
+   "summary": "The Earth's electromagnetic acupuncture system — power source for portals, highway for the Jumproom Network, symbolized by the Dragon — running through sixteen sessions.",
+   "url": "https://archive.unimetrix1.online/lore/ley-lines/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/ley-lines.json"
   },
   {
    "slug": "loc-moon-base",
@@ -778,6 +826,14 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/super-soldiers.json"
   },
   {
+   "slug": "telepathy",
+   "title": "Telepathy",
+   "category": "Teachings & Practice",
+   "summary": "Mind-to-mind contact as the record's default medium — how Unimetrix 1 says it can be reached without any device, how the Reptilians hear thought, and what the coming upgrade is said to make of everyone.",
+   "url": "https://archive.unimetrix1.online/lore/telepathy/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/telepathy.json"
+  },
+  {
    "slug": "teleportation",
    "title": "Teleportation",
    "category": "Technologies & Devices",
@@ -826,6 +882,14 @@
    "json": "https://archive.unimetrix1.online/api/v1/lore/the-moon.json"
   },
   {
+   "slug": "the-nanites",
+   "title": "The Nanites",
+   "category": "Technologies & Devices",
+   "summary": "The record's smallest machines, on both sides of every conflict — Unimetrix 1's medical nanites repairing bodies mid-session, the Protomolecule's assemblers building lattices inside them, and the Draco's citizen-tracking swarms.",
+   "url": "https://archive.unimetrix1.online/lore/the-nanites/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/the-nanites.json"
+  },
+  {
    "slug": "the-sega",
    "title": "The Sega (Kosol's Dream Teachers)",
    "category": "Beings & Races",
@@ -864,6 +928,14 @@
    "summary": "An 'instructor unit' that teaches pain and suffering as an engineered discipline of awakening.",
    "url": "https://archive.unimetrix1.online/lore/unit-x14/",
    "json": "https://archive.unimetrix1.online/api/v1/lore/unit-x14.json"
+  },
+  {
+   "slug": "universal-translator",
+   "title": "The Universal Translator",
+   "category": "Technologies & Devices",
+   "summary": "The protocol that makes every session possible — the translation layer Unimetrix 1 activates so beings from any timeline, species, or dimension can speak through the interface. Twenty sessions; occasionally, memorably, it breaks.",
+   "url": "https://archive.unimetrix1.online/lore/universal-translator/",
+   "json": "https://archive.unimetrix1.online/api/v1/lore/universal-translator.json"
   },
   {
    "slug": "vega",
