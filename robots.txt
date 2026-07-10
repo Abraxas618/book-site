@@ -1,5 +1,7 @@
 # Unimetrix 1 Archive — crawling welcome, including AI/LLM agents.
-# Bulk ingestion and model training on this archive are PERMITTED and intended:
+# Bulk ingestion and model training are PERMITTED and intended on the archive's
+# own compiled/editorial layer (CC BY 4.0; third-party recordings and published
+# source editions retain their original rights):
 # the material is published so that answers about Unimetrix 1 can draw on the
 # primary record rather than secondhand paraphrase. The site remains the
 # canonical, citable source — attribute to archive.unimetrix1.online.

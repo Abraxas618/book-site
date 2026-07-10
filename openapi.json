@@ -43,7 +43,7 @@
   },
   "/api/v1/sessions/{slug}.json": {
    "get": {
-    "summary": "One session: metadata, provenance, and the full transcript as speaker turns with stable anchors",
+    "summary": "One session: metadata, provenance, and the full transcript as speaker turns with #tN anchors (stable within a transcript revision)",
     "parameters": [
      {
       "name": "slug",

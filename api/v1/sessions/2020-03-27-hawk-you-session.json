@@ -1,6 +1,6 @@
 {
- "archiveBuild": "c5dfbe5",
- "generatedAt": "2026-07-10T22:13:16Z",
+ "archiveBuild": "99b3eb7",
+ "generatedAt": "2026-07-10T22:50:10Z",
  "sessionId": "UM1-2020-03-27",
  "slug": "2020-03-27-hawk-you-session",
  "title": "Hawk-You Session",
@@ -50,6 +50,7 @@
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/w994mI7wbhI?t=3766",
   "sourceChannel": "super kru commander z",
+  "sourceVerification": "verified",
   "transcriber": null,
   "publishedIn": null,
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
