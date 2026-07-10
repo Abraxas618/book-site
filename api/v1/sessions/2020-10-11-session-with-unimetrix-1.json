@@ -1,4 +1,6 @@
 {
+ "archiveBuild": "2b8726e",
+ "generatedAt": "2026-07-10T21:10:28Z",
  "sessionId": "UM1-2020-10-11",
  "slug": "2020-10-11-session-with-unimetrix-1",
  "title": "Political Clones (Bee's Q&A)",
@@ -30,7 +32,7 @@
   "transcriber": null,
   "publishedIn": null,
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
-  "transcriptStatus": "reviewed",
+  "transcriptStatus": "reviewed-with-known-limitations",
   "revision": 1,
   "lastModified": "2026-07-10",
   "contentHash": "sha256:daaec5fdf19533e9daa77baa710146e7807e538f20a5b14ddfb6c792ee52285c"
