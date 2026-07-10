@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-04-07",
  "slug": "2020-04-07-session-with-unimetrix-1",
  "title": "Morocco's Future, Post-Covid Powers & the Baramay Protocol (Salim)",
@@ -75,7 +75,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:223d6e95bc977add215f361a11e10b26f7ac1673ee70393a794ea8b0e1944fc9"
+  "contentHash": "sha256:223d6e95bc977add215f361a11e10b26f7ac1673ee70393a794ea8b0e1944fc9",
+  "metadataHash": "sha256:3cacbdb194538a71585448bceebcadfe3ed566f849129221ea9cf477af63344b",
+  "recordHash": "sha256:6c59465dd2c5be04b72c3698501dfe2223be30fde30d6a7e81ae83d668e6d00e"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-04-07-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-04-07-session-with-unimetrix-1.md",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-04-23",
  "slug": "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
  "title": "James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut – Coronavirus Operation Lusterkill",
@@ -106,7 +106,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:68e48558cc978a5e8f1778ab5fd5ac0b7666ff32b7f4c5b03ffd6348297809e2"
+  "contentHash": "sha256:68e48558cc978a5e8f1778ab5fd5ac0b7666ff32b7f4c5b03ffd6348297809e2",
+  "metadataHash": "sha256:cd2ebe9cb93e8c87b189dbfb5c63678115065141a476b0d336c642efd0d69404",
+  "recordHash": "sha256:50bd87ead42d375d552da2d6d85771749a3ee94f0118a6f8932c624f81a89933"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono/",
  "markdown": "https://archive.unimetrix1.online/md/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono.md",

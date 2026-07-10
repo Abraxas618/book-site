@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-07-17",
  "slug": "2020-07-17-session-with-unimetrix-1",
  "title": "Sexual Identity, Life Contracts & the Cosmic Council's Warning",
@@ -42,7 +42,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:d4a1f3714259237c966e51ee892c089d85d1470d0f3bc695327f826d33fa0658"
+  "contentHash": "sha256:d4a1f3714259237c966e51ee892c089d85d1470d0f3bc695327f826d33fa0658",
+  "metadataHash": "sha256:ecb9a5d6c1faf4a04177dca6f3673c2c736896f35ab1005e0ae7594199e3d795",
+  "recordHash": "sha256:f981ff04f34d5e6e39ebf7a6495bc6fd7161836f7c74ac112fae3740cd6ea56f"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-07-17-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-07-17-session-with-unimetrix-1.md",

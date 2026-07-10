@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-10-11",
  "slug": "2020-10-11-session-with-unimetrix-1",
  "title": "Political Clones (Bee's Q&A)",
@@ -38,7 +38,9 @@
   "transcriptStatus": "reviewed-with-known-limitations",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:daaec5fdf19533e9daa77baa710146e7807e538f20a5b14ddfb6c792ee52285c"
+  "contentHash": "sha256:daaec5fdf19533e9daa77baa710146e7807e538f20a5b14ddfb6c792ee52285c",
+  "metadataHash": "sha256:9312edb6ee9636debbc6e151b09fc095583171bcdaf2f750ce3406cea60da5c3",
+  "recordHash": "sha256:bf37e6e612b415c8b3c29a8e729d75268d30554cbf5ee8113ba4aee437ae20ad"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-10-11-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-10-11-session-with-unimetrix-1.md",

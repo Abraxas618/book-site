@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-12-07",
  "slug": "2020-12-07-session-with-unimetrix-1",
  "title": "The Anunnaki Teacher's Creation Story & DNA Repair",
@@ -52,7 +52,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:12465b7ee33551d29f1cd2001c04a2fe51d00d751af624f4401c903f15b9be1e"
+  "contentHash": "sha256:12465b7ee33551d29f1cd2001c04a2fe51d00d751af624f4401c903f15b9be1e",
+  "metadataHash": "sha256:baea4dcbe0a39e17ecbc0f7c061ca4928357cfb970c3659e3c25ef02e16908c1",
+  "recordHash": "sha256:0722e3c49def0be3ad781cb0129951a81f2c04e99b8204fc4ccd6a5aa09332ba"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-12-07-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-12-07-session-with-unimetrix-1.md",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-08-30",
  "slug": "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
  "title": "Kosol Ouch's Training – UniMetrix1 for Book Drive Sponsors & Black Goo Interview",
@@ -67,7 +67,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:2ddb932e61d8b96fac405b3d8f87291c2e16cb560ba8f42f7e2574c84e5c033e"
+  "contentHash": "sha256:2ddb932e61d8b96fac405b3d8f87291c2e16cb560ba8f42f7e2574c84e5c033e",
+  "metadataHash": "sha256:7d3275307cdd811477bef962132226866bb0ced4257a9c07d0c231f6c741138e",
+  "recordHash": "sha256:76fecb88b71c665765111f293d157fc16e46d69f8f233ca1d1b52e5ee3823ef5"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla/",
  "markdown": "https://archive.unimetrix1.online/md/2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla.md",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2024-09-25",
  "slug": "2024-09-25-session-with-unimetrix-1",
  "title": "Crypto Directives, UFO Rune Technology & Silicon DNA",
@@ -54,7 +54,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:59f01e71074d934892d82b7131052c1f4f3c5db51832f0b49916c712d9d74945"
+  "contentHash": "sha256:59f01e71074d934892d82b7131052c1f4f3c5db51832f0b49916c712d9d74945",
+  "metadataHash": "sha256:68ecf94c63cfa8da00aeee2f37a82eabe3c5b5ff50eed60f358041dabb191665",
+  "recordHash": "sha256:e663596d1fdc3aa92ad741d8fb735f700f6c5fd60dfeca22fd7dead00ba8ed5f"
  },
  "url": "https://archive.unimetrix1.online/sessions/2024-09-25-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2024-09-25-session-with-unimetrix-1.md",

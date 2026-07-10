@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2021-02-08",
  "slug": "2021-02-08-the-bermuda-triangle",
  "title": "The Bermuda Triangle",
@@ -42,7 +42,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:6989a09e61ba3403ca4836588d9d889b4301d24aa9f24384dac91e69004fa267"
+  "contentHash": "sha256:6989a09e61ba3403ca4836588d9d889b4301d24aa9f24384dac91e69004fa267",
+  "metadataHash": "sha256:1b53816cea00f3459deee139df7af0816bc4989770c23cf07d42e0b94c335288",
+  "recordHash": "sha256:bc1e4b58ee5e58865ee7e1640ac6f4771babad2939a7b57fed4f85bc6cea9f84"
  },
  "url": "https://archive.unimetrix1.online/sessions/2021-02-08-the-bermuda-triangle/",
  "markdown": "https://archive.unimetrix1.online/md/2021-02-08-the-bermuda-triangle.md",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-05-11",
  "slug": "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
  "title": "James Rink Interviews n°6 – Alfred Webre & Kosol Ouch – Unimetrix1, Operation Lusterkill Update",
@@ -99,7 +99,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:60667b0c02205b091eabac1935ac04ab3845c112f0475fd97d4772670a8757bb"
+  "contentHash": "sha256:60667b0c02205b091eabac1935ac04ab3845c112f0475fd97d4772670a8757bb",
+  "metadataHash": "sha256:eac05e7936a02fa343da14de66180a41256df73a10d89bd48bad71da030198f9",
+  "recordHash": "sha256:cfcfb608d797235b7be9a7140ebd30d11d4db15053907c230b22bb36e5c7edfd"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1.md",

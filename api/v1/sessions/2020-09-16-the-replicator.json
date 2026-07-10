@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-09-16",
  "slug": "2020-09-16-the-replicator",
  "title": "The Replicator",
@@ -43,7 +43,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:138e9859d9eafabbb9ef988c5d508c56bce3fd42f317cfb8f9c91afca4012859"
+  "contentHash": "sha256:138e9859d9eafabbb9ef988c5d508c56bce3fd42f317cfb8f9c91afca4012859",
+  "metadataHash": "sha256:0c993e967fa0ffdf74af0f7a7ae06c622470fce152f49c08a0310f4bf57f641a",
+  "recordHash": "sha256:13413e1bf95a9ea2cff3bad17ffbf58ad5c84028ffc4c1f3429b128961deae39"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-09-16-the-replicator/",
  "markdown": "https://archive.unimetrix1.online/md/2020-09-16-the-replicator.md",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2025-01-23",
  "slug": "2025-01-23-session-with-unimetrix-1",
  "title": "Trump's Birthright Order, North American Union & Project Stargate AI",
@@ -61,7 +61,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:d887173817dec7f78d24ef3c1d355a5a23871699ef89aa7716bb93fc9fc4cb7f"
+  "contentHash": "sha256:d887173817dec7f78d24ef3c1d355a5a23871699ef89aa7716bb93fc9fc4cb7f",
+  "metadataHash": "sha256:740cf37a651cb7c99442899e7984a7959b761f1e1cf1dcf7300aa0b09801f3d9",
+  "recordHash": "sha256:cac62bbeeb1c26d28978fd6fbe7a3b24b47abd12f8ae87eea8a491b77894bfff"
  },
  "url": "https://archive.unimetrix1.online/sessions/2025-01-23-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2025-01-23-session-with-unimetrix-1.md",

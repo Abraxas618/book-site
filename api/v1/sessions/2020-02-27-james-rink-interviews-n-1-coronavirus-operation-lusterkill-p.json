@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-02-27",
  "slug": "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
  "title": "James Rink Interviews n°1 – Coronavirus Operation Lusterkill Part 1",
@@ -70,7 +70,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:d82c3818bc23ff612100995576ea6ededda73a9263bf4bc50568a5da284e62a4"
+  "contentHash": "sha256:d82c3818bc23ff612100995576ea6ededda73a9263bf4bc50568a5da284e62a4",
+  "metadataHash": "sha256:0d73c2804ae93ad5990c4f7b2ba0aca5a5dca89ae0720363bbbb515d13c72ddb",
+  "recordHash": "sha256:8aa73a2ea13e56b4180334d27991dec5b9bf769d266e2729f1a378a334b26c16"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p/",
  "markdown": "https://archive.unimetrix1.online/md/2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p.md",

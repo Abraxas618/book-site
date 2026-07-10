@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-09-14",
  "slug": "2020-09-14-the-andromedan-council",
  "title": "The Andromedan Council",
@@ -53,7 +53,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:c0b0df5bf8e8b631a746b67903866cdb99f09214b5e4c5e69168c03c7a2d06fd"
+  "contentHash": "sha256:c0b0df5bf8e8b631a746b67903866cdb99f09214b5e4c5e69168c03c7a2d06fd",
+  "metadataHash": "sha256:58e010c69d4268f1a0280a9ee789ccf4a38d3e38b92135e96cf927ea3b8de76a",
+  "recordHash": "sha256:e1ef111330363ba3943d9c8fd6793a9519e46447ca4ebe2abb26b54292e139a4"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-09-14-the-andromedan-council/",
  "markdown": "https://archive.unimetrix1.online/md/2020-09-14-the-andromedan-council.md",

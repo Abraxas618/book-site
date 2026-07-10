@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2021-04-06",
  "slug": "2021-04-06-session-with-unimetrix-1",
  "title": "Super Soldier Program Narratives & a Live Healing Demonstration",
@@ -40,7 +40,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:07389ac3f304bc05f6778cbf4c7d4f8978f30541759f09f76ccd73283be70354"
+  "contentHash": "sha256:07389ac3f304bc05f6778cbf4c7d4f8978f30541759f09f76ccd73283be70354",
+  "metadataHash": "sha256:afd249130eb628236056fee2190f357e67b0d40da8e3eb134efc1d3de20ed4ef",
+  "recordHash": "sha256:f78d7a62ca01f074db4201862e934e31db66aabd1dcb948f3adda9b81c84e9aa"
  },
  "url": "https://archive.unimetrix1.online/sessions/2021-04-06-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2021-04-06-session-with-unimetrix-1.md",

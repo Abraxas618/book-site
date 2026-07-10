@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-10-23",
  "slug": "2020-10-23-session-with-unimetrix-1",
  "title": "NESARA/GESARA Debunked & Carlos Meets His Future Self (Council of Seven)",
@@ -48,7 +48,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:2456980b9691bdbb4401d3d536ec703cfc5e86b02ed557344f6dd22c53210e38"
+  "contentHash": "sha256:2456980b9691bdbb4401d3d536ec703cfc5e86b02ed557344f6dd22c53210e38",
+  "metadataHash": "sha256:f86870ab2c435a70671052d2d8bbe797fa247633be5978cf9ddde90b6c935de9",
+  "recordHash": "sha256:a340306f0240474f3e19eadfda0354abeef99115ac151ff613a6c1494b8676f4"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-10-23-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-10-23-session-with-unimetrix-1.md",

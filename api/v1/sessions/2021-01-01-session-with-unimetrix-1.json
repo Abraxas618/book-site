@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2021-01-01",
  "slug": "2021-01-01-session-with-unimetrix-1",
  "title": "Starseed Psyop, the Digital Health Pass & Racial Psychology",
@@ -56,7 +56,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:6c91225afdfc7d86aae93754667711aee976e8a54feba4cf224fa719520d69cc"
+  "contentHash": "sha256:6c91225afdfc7d86aae93754667711aee976e8a54feba4cf224fa719520d69cc",
+  "metadataHash": "sha256:28528bb17037c2630f391a7f1f1338deb7b2463b38a95ee29902b8272d8da928",
+  "recordHash": "sha256:3265424f3f0764441d6fb38665a211d1db80014e5d0824a7ee0f0d4c5811a29f"
  },
  "url": "https://archive.unimetrix1.online/sessions/2021-01-01-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2021-01-01-session-with-unimetrix-1.md",

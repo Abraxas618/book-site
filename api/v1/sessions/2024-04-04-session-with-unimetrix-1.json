@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2024-04-04",
  "slug": "2024-04-04-session-with-unimetrix-1",
  "title": "Robert Kali Interview: Rainbow-Body Humanity & the April 8 Eclipse",
@@ -44,7 +44,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:aea49bacfab10d67e486cc56a307cc37ae6e503f62a99f6da27bb1b976a52d72"
+  "contentHash": "sha256:aea49bacfab10d67e486cc56a307cc37ae6e503f62a99f6da27bb1b976a52d72",
+  "metadataHash": "sha256:85dcd3071c98b002172301b6d83cada96a8b94184f2079cabe16b7b77dd32b3d",
+  "recordHash": "sha256:d8b5a5edde590b3c7b6e0df2e7556354871b26db55bb60545b5fc1504caf1902"
  },
  "url": "https://archive.unimetrix1.online/sessions/2024-04-04-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2024-04-04-session-with-unimetrix-1.md",

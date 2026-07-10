@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-05-15",
  "slug": "2020-05-15-the-cyborg-commander",
  "title": "The Cyborg Commander",
@@ -38,7 +38,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:ec62b2af04ad0d84c005f324501f5605e722698e080a1279e19e04a918f3a227"
+  "contentHash": "sha256:ec62b2af04ad0d84c005f324501f5605e722698e080a1279e19e04a918f3a227",
+  "metadataHash": "sha256:155b147b6c687f27c1b3d18a286de52a4cefb939f06b09df30dfd04757e6e729",
+  "recordHash": "sha256:46241f7bd68fc9e1a26dd3a4101c637a0cf85ba17a15210f517628838bb4dfa1"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-05-15-the-cyborg-commander/",
  "markdown": "https://archive.unimetrix1.online/md/2020-05-15-the-cyborg-commander.md",

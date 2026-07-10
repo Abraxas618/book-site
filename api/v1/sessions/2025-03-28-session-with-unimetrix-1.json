@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2025-03-28",
  "slug": "2025-03-28-session-with-unimetrix-1",
  "title": "North American Union, Panama Canal & Greenland Annexation Update",
@@ -40,7 +40,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:2267bdee87ff2f52af95f77f329b50fdcf153e4ae78d21d35437b1b6d7d4e824"
+  "contentHash": "sha256:2267bdee87ff2f52af95f77f329b50fdcf153e4ae78d21d35437b1b6d7d4e824",
+  "metadataHash": "sha256:9afc29b21a546ef5cd8a5664b03e1047234d4d644204e439a839ee9b5b483662",
+  "recordHash": "sha256:bc8cb48ad37d0a056205aafa01d87fb87b5f01dce032029fb6f379b787ad2d62"
  },
  "url": "https://archive.unimetrix1.online/sessions/2025-03-28-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2025-03-28-session-with-unimetrix-1.md",

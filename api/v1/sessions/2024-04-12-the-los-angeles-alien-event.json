@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2024-04-12",
  "slug": "2024-04-12-the-los-angeles-alien-event",
  "title": "The Los Angeles Alien Event",
@@ -63,7 +63,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:2b28f050f15224c8784b59df8077a014e9d61941733e55555484c16bd15ff8ba"
+  "contentHash": "sha256:2b28f050f15224c8784b59df8077a014e9d61941733e55555484c16bd15ff8ba",
+  "metadataHash": "sha256:f6104655de5552ea1b7e3547bf2cf8526715fe31ae4d3a950ccb490251762138",
+  "recordHash": "sha256:1137aa28db61ef88066f35be2e7344a1e0cba30d872e1556db5af8e369d484c7"
  },
  "url": "https://archive.unimetrix1.online/sessions/2024-04-12-the-los-angeles-alien-event/",
  "markdown": "https://archive.unimetrix1.online/md/2024-04-12-the-los-angeles-alien-event.md",

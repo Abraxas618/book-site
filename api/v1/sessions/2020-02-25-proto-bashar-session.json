@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-02-25",
  "slug": "2020-02-25-proto-bashar-session",
  "title": "Proto-Bashar Session",
@@ -43,7 +43,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:dd1f4d621987781c4cda69b87324b98b4dbab9580b369213bbaef37e82831038"
+  "contentHash": "sha256:dd1f4d621987781c4cda69b87324b98b4dbab9580b369213bbaef37e82831038",
+  "metadataHash": "sha256:c087b9e2cdbd8b18b765f72c0811816ed5dccd8d7f7248d9bb2eafc82b2f43ea",
+  "recordHash": "sha256:a01fffeec1b31c14626af42312a2e00a4bdbe5ba941c9b8ea86ad7d0fe6b2d71"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-02-25-proto-bashar-session/",
  "markdown": "https://archive.unimetrix1.online/md/2020-02-25-proto-bashar-session.md",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-09-04",
  "slug": "2020-09-04-atlantis",
  "title": "Atlantis",
@@ -36,7 +36,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:bccca28de974048074d5529849f3aed041dd0c12080240d87842181934ffb55b"
+  "contentHash": "sha256:bccca28de974048074d5529849f3aed041dd0c12080240d87842181934ffb55b",
+  "metadataHash": "sha256:62474e827fd4ffe6c6eccd334ef93cdd002ae62a971add9728857dada71322ee",
+  "recordHash": "sha256:cd3680c06b200734b94c0a804dae2a55dfbe8c4e2e355ded737b40fb739019af"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-09-04-atlantis/",
  "markdown": "https://archive.unimetrix1.online/md/2020-09-04-atlantis.md",

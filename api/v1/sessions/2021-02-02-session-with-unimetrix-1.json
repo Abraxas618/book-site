@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2021-02-02",
  "slug": "2021-02-02-session-with-unimetrix-1",
  "title": "The Dragon Queen Legend & Why Students Leave the Teaching",
@@ -40,7 +40,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:6d9b56234b4db6961436dc0cae1acd1a5d2affbffa8b0d3a6195f244ff419398"
+  "contentHash": "sha256:6d9b56234b4db6961436dc0cae1acd1a5d2affbffa8b0d3a6195f244ff419398",
+  "metadataHash": "sha256:0b17721557119fa084414078af773b9c5d6240a2e9c02dd48412d5c77b184eb6",
+  "recordHash": "sha256:8565c3c15dd09c98ff4b4094ebdeeb6906038c44177d8775569b5364711135dd"
  },
  "url": "https://archive.unimetrix1.online/sessions/2021-02-02-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2021-02-02-session-with-unimetrix-1.md",

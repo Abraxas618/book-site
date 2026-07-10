@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-08-28",
  "slug": "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
  "title": "Kosol Ouch's Training – UniMetrix1 Assimilates Zen1 System, Surveillance AI from China",
@@ -45,7 +45,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:c21b707ff611aea06166ba055360628275ee644f538c483509eec4dfa72fab1b"
+  "contentHash": "sha256:c21b707ff611aea06166ba055360628275ee644f538c483509eec4dfa72fab1b",
+  "metadataHash": "sha256:0d922f34c3ae87816980ce4f929f29f157854bea39414a1b21b15fa4c3c3e996",
+  "recordHash": "sha256:831cb74adc39bb84a4d6b9a45db931b13dfe58b9d501a7a095326b4fb010045e"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur/",
  "markdown": "https://archive.unimetrix1.online/md/2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur.md",

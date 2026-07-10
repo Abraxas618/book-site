@@ -2,10 +2,10 @@
  "openapi": "3.1.0",
  "info": {
   "title": "Unimetrix 1 Archive API",
-  "version": "1",
-  "description": "Read-only static JSON API over the Unimetrix 1 session archive. Every file is regenerated on deploy from the canonical manuscript; turn anchors (tN) match the #tN anchors on the HTML session pages. The archive is a record — statements are presented as spoken and are not independently verified. An MCP server exposing the same data as callable tools runs at https://book.redbull1956.workers.dev/mcp (streamable HTTP).",
+  "version": "1.1",
+  "description": "Read-only static JSON API over the Unimetrix 1 session archive. Every file is regenerated on deploy from the canonical manuscript and carries archiveBuild/generatedAt stamps; turn anchors (tN) match the #tN anchors on the HTML session pages and are stable within a transcript revision. The archive is a record — statements are presented as spoken and are not independently verified. An MCP server exposing the same data as callable tools runs at https://book.redbull1956.workers.dev/mcp (streamable HTTP).",
   "license": {
-   "name": "CC BY 4.0",
+   "name": "CC BY 4.0 (archive-owned compiled/editorial layer)",
    "url": "https://creativecommons.org/licenses/by/4.0/"
   }
  },
@@ -22,8 +22,15 @@
      "200": {
       "description": "Endpoint directory",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/ApiRoot"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -35,8 +42,15 @@
      "200": {
       "description": "Session index",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/SessionIndex"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -51,15 +65,23 @@
       "required": true,
       "schema": {
        "type": "string"
-      }
+      },
+      "description": "session or article slug, e.g. from the corresponding index endpoint"
      }
     ],
     "responses": {
      "200": {
       "description": "Session with turns",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/SessionRecord"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -81,8 +103,15 @@
      "200": {
       "description": "Markdown",
       "content": {
-       "text/markdown": {}
+       "text/markdown": {
+        "schema": {
+         "type": "string"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -94,8 +123,15 @@
      "200": {
       "description": "Entity registry",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/EntityRegistry"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -107,8 +143,15 @@
      "200": {
       "description": "Article index",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/LoreIndex"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -123,15 +166,23 @@
       "required": true,
       "schema": {
        "type": "string"
-      }
+      },
+      "description": "session or article slug, e.g. from the corresponding index endpoint"
      }
     ],
     "responses": {
      "200": {
       "description": "Article",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/LoreArticle"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -143,8 +194,15 @@
      "200": {
       "description": "Speaker stats",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/SpeakerIndex"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -156,8 +214,15 @@
      "200": {
       "description": "Timeline",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Timeline"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -169,8 +234,15 @@
      "200": {
       "description": "Abstracts",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Summaries"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -182,8 +254,15 @@
      "200": {
       "description": "Editions",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Downloads"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -195,8 +274,15 @@
      "200": {
       "description": "Videos",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Videos"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -208,8 +294,15 @@
      "200": {
       "description": "Changelog",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Changelog"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -221,8 +314,15 @@
      "200": {
       "description": "Trails",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/Trails"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -234,8 +334,15 @@
      "200": {
       "description": "Version",
       "content": {
-       "application/json": {}
+       "application/json": {
+        "schema": {
+         "$ref": "#/components/schemas/VersionMarker"
+        }
+       }
       }
+     },
+     "404": {
+      "description": "Not found — static hosting returns the archive's HTML 404 page, not JSON"
      }
     }
    }
@@ -247,10 +354,988 @@
      "200": {
       "description": "Markdown",
       "content": {
-       "text/markdown": {}
+       "text/markdown": {
+        "schema": {
+         "type": "string"
+        }
+       }
       }
      }
     }
+   }
+  }
+ },
+ "components": {
+  "schemas": {
+   "ArchiveStamp": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string",
+      "description": "short commit of the deploy that generated this artifact"
+     },
+     "generatedAt": {
+      "type": "string",
+      "format": "date-time"
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt"
+    ]
+   },
+   "Provenance": {
+    "type": "object",
+    "properties": {
+     "sessionId": {
+      "type": "string"
+     },
+     "recordingDate": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "publicationDate": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "sourceType": {
+      "type": "string",
+      "enum": [
+       "video",
+       "interview",
+       "book-excerpt",
+       "unknown"
+      ]
+     },
+     "sourceUrl": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "sourceChannel": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "sourceVerification": {
+      "type": "string",
+      "enum": [
+       "verified",
+       "none-located",
+       "n/a"
+      ]
+     },
+     "transcriber": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "publishedIn": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "editor": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "transcriptStatus": {
+      "type": "string",
+      "enum": [
+       "reviewed",
+       "draft",
+       "reviewed-with-known-limitations"
+      ]
+     },
+     "revision": {
+      "type": "integer",
+      "description": "count of source-control revisions touching this transcript"
+     },
+     "lastModified": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "contentHash": {
+      "type": "string",
+      "description": "sha256: over the transcript body text"
+     },
+     "metadataHash": {
+      "type": "string",
+      "description": "sha256: over the canonical archival metadata (excludes git-derived fields)"
+     },
+     "recordHash": {
+      "type": "string",
+      "description": "sha256: binding contentHash + metadataHash — the session record's identity"
+     }
+    },
+    "required": [
+     "sessionId",
+     "sourceType",
+     "transcriptStatus",
+     "revision",
+     "contentHash"
+    ]
+   },
+   "TranscriptTurn": {
+    "type": "object",
+    "properties": {
+     "anchor": {
+      "type": "string",
+      "description": "tN — matches the #tN anchor on the HTML session page; stable within a transcript revision"
+     },
+     "url": {
+      "type": "string"
+     },
+     "speaker": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "text": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "anchor",
+     "url",
+     "text"
+    ]
+   },
+   "SessionIndexEntry": {
+    "type": "object",
+    "properties": {
+     "sessionId": {
+      "type": "string"
+     },
+     "slug": {
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     },
+     "date": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "year": {
+      "type": "string"
+     },
+     "speakers": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "wordCount": {
+      "type": "integer"
+     },
+     "topics": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "url": {
+      "type": "string"
+     },
+     "markdown": {
+      "type": "string"
+     },
+     "json": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "sessionId",
+     "slug",
+     "title",
+     "speakers",
+     "wordCount",
+     "url"
+    ]
+   },
+   "SessionRecord": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "sessionId": {
+      "type": "string"
+     },
+     "slug": {
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     },
+     "fullTitle": {
+      "type": "string"
+     },
+     "date": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "year": {
+      "type": "string"
+     },
+     "speakers": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "source": {
+      "type": "string"
+     },
+     "wordCount": {
+      "type": "integer"
+     },
+     "topics": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "contentNote": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "provenance": {
+      "$ref": "#/components/schemas/Provenance"
+     },
+     "url": {
+      "type": "string"
+     },
+     "markdown": {
+      "type": "string"
+     },
+     "json": {
+      "type": "string"
+     },
+     "turns": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/TranscriptTurn"
+      }
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "sessionId",
+     "slug",
+     "title",
+     "provenance",
+     "turns"
+    ]
+   },
+   "SessionIndex": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "archive": {
+      "type": "string"
+     },
+     "base": {
+      "type": "string"
+     },
+     "sessionCount": {
+      "type": "integer"
+     },
+     "dateRange": {
+      "type": "string"
+     },
+     "sessions": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/SessionIndexEntry"
+      }
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "sessions"
+    ]
+   },
+   "Entity": {
+    "type": "object",
+    "properties": {
+     "slug": {
+      "type": "string"
+     },
+     "name": {
+      "type": "string"
+     },
+     "category": {
+      "type": "string"
+     },
+     "aliases": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "sessions": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "url": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "slug",
+     "name",
+     "category",
+     "sessions"
+    ]
+   },
+   "EntityRegistry": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "categories": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "entities": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/Entity"
+      }
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "entities"
+    ]
+   },
+   "LoreArticle": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "slug": {
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     },
+     "category": {
+      "type": "string"
+     },
+     "summary": {
+      "type": "string"
+     },
+     "sessions": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "url": {
+      "type": "string"
+     },
+     "json": {
+      "type": "string"
+     },
+     "markdown": {
+      "type": "string",
+      "description": "full article body (editorial synthesis, not transcript text)"
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "slug",
+     "title",
+     "category",
+     "markdown"
+    ]
+   },
+   "LoreIndex": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "count": {
+      "type": "integer"
+     },
+     "articles": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "slug": {
+         "type": "string"
+        },
+        "title": {
+         "type": "string"
+        },
+        "category": {
+         "type": "string"
+        },
+        "summary": {
+         "type": "string"
+        },
+        "sessions": {
+         "type": "array",
+         "items": {
+          "type": "string"
+         }
+        },
+        "url": {
+         "type": "string"
+        },
+        "json": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "count",
+     "articles"
+    ]
+   },
+   "Speaker": {
+    "type": "object",
+    "properties": {
+     "name": {
+      "type": "string"
+     },
+     "slug": {
+      "type": "string"
+     },
+     "sessions": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "totalWords": {
+      "type": "integer"
+     },
+     "totalTurns": {
+      "type": "integer"
+     },
+     "url": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "name",
+     "slug",
+     "sessions",
+     "totalWords",
+     "totalTurns"
+    ]
+   },
+   "SpeakerIndex": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "speakers": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/Speaker"
+      }
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "speakers"
+    ]
+   },
+   "TimelineEvent": {
+    "type": "object",
+    "properties": {
+     "date": {
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     },
+     "text": {
+      "type": "string"
+     },
+     "type": {
+      "type": "string",
+      "enum": [
+       "history",
+       "session",
+       "forecast"
+      ]
+     },
+     "sessions": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "slug": {
+         "type": "string"
+        },
+        "url": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "slug",
+        "url"
+       ]
+      }
+     },
+     "codex": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "slug": {
+         "type": "string"
+        },
+        "url": {
+         "type": "string"
+        }
+       },
+       "required": [
+        "slug",
+        "url"
+       ]
+      }
+     }
+    },
+    "required": [
+     "date",
+     "title",
+     "type"
+    ]
+   },
+   "Timeline": {
+    "type": "object",
+    "properties": {
+     "note": {
+      "type": "string"
+     },
+     "eras": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "era": {
+         "type": "string"
+        },
+        "intro": {
+         "type": [
+          "string",
+          "null"
+         ]
+        },
+        "events": {
+         "type": "array",
+         "items": {
+          "$ref": "#/components/schemas/TimelineEvent"
+         }
+        }
+       }
+      }
+     }
+    },
+    "required": [
+     "eras"
+    ]
+   },
+   "Summaries": {
+    "type": "object",
+    "properties": {
+     "count": {
+      "type": "integer"
+     },
+     "summaries": {
+      "type": "object",
+      "additionalProperties": {
+       "type": "object"
+      },
+      "description": "keyed by session slug"
+     }
+    },
+    "required": [
+     "count",
+     "summaries"
+    ]
+   },
+   "DownloadEdition": {
+    "type": "object",
+    "properties": {
+     "format": {
+      "type": "string"
+     },
+     "file": {
+      "type": "string"
+     },
+     "bytes": {
+      "type": "integer"
+     },
+     "url": {
+      "type": "string"
+     },
+     "sha256": {
+      "type": "string",
+      "description": "hex sha-256 of the download file"
+     }
+    },
+    "required": [
+     "format",
+     "file",
+     "bytes"
+    ]
+   },
+   "Downloads": {
+    "type": "object",
+    "properties": {
+     "title": {
+      "type": "string"
+     },
+     "authors": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "sessionCount": {
+      "type": "integer"
+     },
+     "latestSession": {
+      "type": "string"
+     },
+     "formats": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/DownloadEdition"
+      }
+     }
+    },
+    "required": [
+     "formats"
+    ]
+   },
+   "Recording": {
+    "type": "object",
+    "properties": {
+     "url": {
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     },
+     "channel": {
+      "type": "string"
+     },
+     "start": {
+      "type": "integer",
+      "description": "Unimetrix segment start, seconds"
+     },
+     "end": {
+      "type": "integer"
+     },
+     "note": {
+      "type": "string"
+     },
+     "videoId": {
+      "type": "string"
+     },
+     "session": {
+      "type": "string"
+     }
+    },
+    "required": [
+     "url",
+     "title",
+     "channel",
+     "start"
+    ]
+   },
+   "Videos": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "note": {
+      "type": "string"
+     },
+     "videos": {
+      "type": "object",
+      "additionalProperties": {
+       "$ref": "#/components/schemas/Recording"
+      },
+      "description": "keyed by session slug"
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "videos"
+    ]
+   },
+   "ChangelogEntry": {
+    "type": "object",
+    "properties": {
+     "date": {
+      "type": "string"
+     },
+     "changes": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     }
+    },
+    "required": [
+     "date",
+     "changes"
+    ]
+   },
+   "Changelog": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "note": {
+      "type": "string"
+     },
+     "entries": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/ChangelogEntry"
+      }
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "entries"
+    ]
+   },
+   "Trail": {
+    "type": "object",
+    "properties": {
+     "id": {
+      "type": "string"
+     },
+     "title": {
+      "type": "string"
+     },
+     "kicker": {
+      "type": "string"
+     },
+     "intro": {
+      "type": "string"
+     },
+     "url": {
+      "type": "string"
+     },
+     "codex": {
+      "type": "array",
+      "items": {
+       "type": "string"
+      }
+     },
+     "sessions": {
+      "type": "array",
+      "items": {
+       "type": "object",
+       "properties": {
+        "slug": {
+         "type": "string"
+        },
+        "why": {
+         "type": "string"
+        },
+        "title": {
+         "type": "string"
+        },
+        "date": {
+         "type": [
+          "string",
+          "null"
+         ]
+        },
+        "url": {
+         "type": "string"
+        }
+       }
+      }
+     }
+    },
+    "required": [
+     "id",
+     "title",
+     "sessions"
+    ]
+   },
+   "Trails": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "note": {
+      "type": "string"
+     },
+     "trails": {
+      "type": "array",
+      "items": {
+       "$ref": "#/components/schemas/Trail"
+      }
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "trails"
+    ]
+   },
+   "ApiRoot": {
+    "type": "object",
+    "properties": {
+     "archiveBuild": {
+      "type": "string"
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "archive": {
+      "type": "string"
+     },
+     "base": {
+      "type": "string"
+     },
+     "stance": {
+      "type": "string"
+     },
+     "sessionCount": {
+      "type": "integer"
+     },
+     "dateRange": {
+      "type": "string"
+     },
+     "endpoints": {
+      "type": "object",
+      "additionalProperties": {
+       "type": "string"
+      }
+     }
+    },
+    "required": [
+     "archiveBuild",
+     "generatedAt",
+     "endpoints"
+    ]
+   },
+   "VersionMarker": {
+    "type": "object",
+    "properties": {
+     "site": {
+      "type": "string"
+     },
+     "commit": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "commitShort": {
+      "type": [
+       "string",
+       "null"
+      ]
+     },
+     "generatedAt": {
+      "type": "string"
+     },
+     "sessionCount": {
+      "type": "integer"
+     },
+     "dateRange": {
+      "type": "string"
+     },
+     "latestSession": {
+      "type": [
+       "string",
+       "null"
+      ]
+     }
+    },
+    "required": [
+     "commitShort",
+     "generatedAt"
+    ]
    }
   }
  }

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "99b3eb7",
- "generatedAt": "2026-07-10T22:50:10Z",
+ "archiveBuild": "69a5ffa",
+ "generatedAt": "2026-07-10T23:09:43Z",
  "sessionId": "UM1-2020-10-08",
  "slug": "2020-10-08-the-qanon-shaman-jacob-angeli-chansley",
  "title": "The QAnon Shaman (Jacob Angeli Chansley)",
@@ -47,7 +47,9 @@
   "transcriptStatus": "reviewed",
   "revision": 1,
   "lastModified": "2026-07-10",
-  "contentHash": "sha256:cd5f9b6b654c178df71e8dac22c1bc31d5f57153977905fcbbc23285b2f5d60b"
+  "contentHash": "sha256:cd5f9b6b654c178df71e8dac22c1bc31d5f57153977905fcbbc23285b2f5d60b",
+  "metadataHash": "sha256:c9a43d2444cab1204b5ee68d8794818bbb1da55a6b73fd2c2bc7bfb7c25ac106",
+  "recordHash": "sha256:aa7742d823f3f752b9759a2384d6df4aaba158e91f6b480b1d8f3e26ead70a42"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-10-08-the-qanon-shaman-jacob-angeli-chansley/",
  "markdown": "https://archive.unimetrix1.online/md/2020-10-08-the-qanon-shaman-jacob-angeli-chansley.md",
