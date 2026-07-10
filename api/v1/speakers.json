@@ -50,8 +50,8 @@
     "2026-06-14-session-with-unimetrix-1-catherine-pelizzari-ches",
     "01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual"
    ],
-   "totalWords": 68800,
-   "totalTurns": 1115,
+   "totalWords": 63224,
+   "totalTurns": 1112,
    "url": "https://archive.unimetrix1.online/speakers/unimetrix-1/"
   },
   {
@@ -86,7 +86,7 @@
     "2025-03-28-session-with-unimetrix-1",
     "2025-12-01-tetraklein-the-passing-of-james-rink"
    ],
-   "totalWords": 3983,
+   "totalWords": 3960,
    "totalTurns": 253,
    "url": "https://archive.unimetrix1.online/speakers/carlos/"
   },
@@ -108,7 +108,7 @@
     "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
     "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla"
    ],
-   "totalWords": 40462,
+   "totalWords": 35931,
    "totalTurns": 643,
    "url": "https://archive.unimetrix1.online/speakers/kosol-ouch/"
   },
@@ -128,8 +128,8 @@
     "2024-04-12-the-los-angeles-alien-event",
     "01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual"
    ],
-   "totalWords": 41754,
-   "totalTurns": 1072,
+   "totalWords": 33975,
+   "totalTurns": 1076,
    "url": "https://archive.unimetrix1.online/speakers/james-rink/"
   },
   {
@@ -201,9 +201,22 @@
     "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
     "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-"
    ],
-   "totalWords": 1214,
-   "totalTurns": 29,
+   "totalWords": 529,
+   "totalTurns": 30,
    "url": "https://archive.unimetrix1.online/speakers/ori/"
+  },
+  {
+   "name": "Michael MacDonald",
+   "slug": "michael-macdonald",
+   "sessions": [
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-",
+    "2020-08-21-the-anunnaki",
+    "2020-10-23-session-with-unimetrix-1",
+    "2025-12-01-tetraklein-the-passing-of-james-rink"
+   ],
+   "totalWords": 288,
+   "totalTurns": 11,
+   "url": "https://archive.unimetrix1.online/speakers/michael-macdonald/"
   },
   {
    "name": "Maxwell Scott",
@@ -213,8 +226,8 @@
     "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
     "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono"
    ],
-   "totalWords": 1475,
-   "totalTurns": 71,
+   "totalWords": 1389,
+   "totalTurns": 73,
    "url": "https://archive.unimetrix1.online/speakers/maxwell-scott/"
   },
   {
@@ -225,8 +238,8 @@
     "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
     "2020-12-21-session-with-unimetrix-1"
    ],
-   "totalWords": 291,
-   "totalTurns": 13,
+   "totalWords": 2828,
+   "totalTurns": 68,
    "url": "https://archive.unimetrix1.online/speakers/alvin-seyha/"
   },
   {
@@ -252,18 +265,6 @@
    "totalWords": 994,
    "totalTurns": 43,
    "url": "https://archive.unimetrix1.online/speakers/henry-draper/"
-  },
-  {
-   "name": "Michael MacDonald",
-   "slug": "michael-macdonald",
-   "sessions": [
-    "2020-08-21-the-anunnaki",
-    "2020-10-23-session-with-unimetrix-1",
-    "2025-12-01-tetraklein-the-passing-of-james-rink"
-   ],
-   "totalWords": 265,
-   "totalTurns": 10,
-   "url": "https://archive.unimetrix1.online/speakers/michael-macdonald/"
   },
   {
    "name": "Maia",
@@ -389,6 +390,16 @@
    "url": "https://archive.unimetrix1.online/speakers/marky/"
   },
   {
+   "name": "Coronavirus",
+   "slug": "coronavirus",
+   "sessions": [
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir"
+   ],
+   "totalWords": 339,
+   "totalTurns": 22,
+   "url": "https://archive.unimetrix1.online/speakers/coronavirus/"
+  },
+  {
    "name": "Tong",
    "slug": "tong",
    "sessions": [
@@ -397,6 +408,36 @@
    "totalWords": 449,
    "totalTurns": 31,
    "url": "https://archive.unimetrix1.online/speakers/tong/"
+  },
+  {
+   "name": "Robert",
+   "slug": "robert",
+   "sessions": [
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p"
+   ],
+   "totalWords": 547,
+   "totalTurns": 36,
+   "url": "https://archive.unimetrix1.online/speakers/robert/"
+  },
+  {
+   "name": "Drone Technician",
+   "slug": "drone-technician",
+   "sessions": [
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p"
+   ],
+   "totalWords": 19,
+   "totalTurns": 1,
+   "url": "https://archive.unimetrix1.online/speakers/drone-technician/"
+  },
+  {
+   "name": "Beyda Seyha",
+   "slug": "beyda-seyha",
+   "sessions": [
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p"
+   ],
+   "totalWords": 412,
+   "totalTurns": 9,
+   "url": "https://archive.unimetrix1.online/speakers/beyda-seyha/"
   },
   {
    "name": "Merna",
@@ -477,6 +518,86 @@
    "totalWords": 76,
    "totalTurns": 14,
    "url": "https://archive.unimetrix1.online/speakers/liza/"
+  },
+  {
+   "name": "Sarah Schramek",
+   "slug": "sarah-schramek",
+   "sessions": [
+    "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a"
+   ],
+   "totalWords": 26,
+   "totalTurns": 6,
+   "url": "https://archive.unimetrix1.online/speakers/sarah-schramek/"
+  },
+  {
+   "name": "System 1",
+   "slug": "system-1",
+   "sessions": [
+    "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a"
+   ],
+   "totalWords": 26,
+   "totalTurns": 1,
+   "url": "https://archive.unimetrix1.online/speakers/system-1/"
+  },
+  {
+   "name": "Council Member",
+   "slug": "council-member",
+   "sessions": [
+    "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a"
+   ],
+   "totalWords": 148,
+   "totalTurns": 3,
+   "url": "https://archive.unimetrix1.online/speakers/council-member/"
+  },
+  {
+   "name": "Eric Luny",
+   "slug": "eric-luny",
+   "sessions": [
+    "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co"
+   ],
+   "totalWords": 138,
+   "totalTurns": 17,
+   "url": "https://archive.unimetrix1.online/speakers/eric-luny/"
+  },
+  {
+   "name": "Planetary Council",
+   "slug": "planetary-council",
+   "sessions": [
+    "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co"
+   ],
+   "totalWords": 45,
+   "totalTurns": 2,
+   "url": "https://archive.unimetrix1.online/speakers/planetary-council/"
+  },
+  {
+   "name": "Gia",
+   "slug": "gia",
+   "sessions": [
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-"
+   ],
+   "totalWords": 39,
+   "totalTurns": 5,
+   "url": "https://archive.unimetrix1.online/speakers/gia/"
+  },
+  {
+   "name": "Nina Henderson",
+   "slug": "nina-henderson",
+   "sessions": [
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-"
+   ],
+   "totalWords": 43,
+   "totalTurns": 1,
+   "url": "https://archive.unimetrix1.online/speakers/nina-henderson/"
+  },
+  {
+   "name": "Everyone",
+   "slug": "everyone",
+   "sessions": [
+    "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-"
+   ],
+   "totalWords": 2,
+   "totalTurns": 1,
+   "url": "https://archive.unimetrix1.online/speakers/everyone/"
   },
   {
    "name": "Anu",
