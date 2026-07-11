@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-03-13",
  "slug": "2020-03-13-session-with-unimetrix-1",
  "title": "Angkor Wat's Quantum Computer & Meeting Your Celestial Family",
@@ -34,7 +34,7 @@
  "provenance": {
   "sessionId": "UM1-2020-03-13",
   "recordingDate": "2020-03-13",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/I3WZWP9K174?t=642",
   "sourceChannel": "super kru commander z",
@@ -44,7 +44,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:fcad3796c02a85dbce2cabef5615db09b2e33b8c7d748c01f4a8bb873ab30846",
   "metadataHash": "sha256:49bec21d242608554a96d0b0df444c43506d837386aef08c6f38c922f32a4f3b",
   "recordHash": "sha256:dd372efaeef1598b3ffe00b94d15576ed25df8d6a211209e314c3da6fe7f2c6d"

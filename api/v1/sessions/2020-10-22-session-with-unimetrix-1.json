@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-10-22",
  "slug": "2020-10-22-session-with-unimetrix-1",
  "title": "2020 Election, Digital Currency & Universal Basic Income Update",
@@ -43,7 +43,7 @@
  "provenance": {
   "sessionId": "UM1-2020-10-22",
   "recordingDate": "2020-10-22",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=5h--rnOyAT8&t=671s",
   "sourceChannel": "super kru commander z",
@@ -53,7 +53,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:3afa68c7f734b0e6400b3f07ca392449da557b33fa8ece67f34874938631e535",
   "metadataHash": "sha256:5cec598496e24d76b5aa91135a83ce9a0e87a2749b2a1a3b539eedf9464de5a4",
   "recordHash": "sha256:7cb03950434e178441d8cbf95a22e54b3488c9dabed4de2752d3cbe0f9c33c35"

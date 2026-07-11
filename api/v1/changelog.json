@@ -1,8 +1,17 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "note": "Newest entry first — check entries[0].date to see if anything has changed since a prior read without re-fetching the corpus.",
  "entries": [
+  {
+   "date": "2026-07-11",
+   "changes": [
+    "Recovered an entire missing year of the record: fifteen sessions (December 2020 - January 2023, including eleven from 2022, a year the archive previously had none of) reconstructed from photographed pages of the community's typed transcription documents. Each reconstruction was verified mechanically before publication: 58 of 58 photographed pages placed with no duplicates, page joins checked for overlapping text (overlap-locked where the documents preserve it), dates confirmed against in-document headers and, for September 8, 2022, against the real-world event it describes. Every session carries transcriptStatus \"reconstructed\", sourceType \"transcript-document\", and a transcription note stating its specific assembly caveats.",
+    "The new sessions introduce voices heard nowhere else in the record: the Angkor Wat Temple Intelligence, historical-data units Assistant 1 Version 8, Unit T-122 and Unit 008, the Time Guardian Drona 14, the Engineering Drone, Creator Angka, Saha the Demon Teacher, and Professor Roman.",
+    "Verified the original recording of the March 1, 2022 Russia-Ukraine report (oEmbed-checked; the video title confirms the in-document date over the photo filenames' March 3). Verified-video coverage is now 49 of 70 sessions.",
+    "Three additional reconstructions (a post-January-6 fragment, an asteroid/Haiti group session from around October 2022, and a short healing close) remain unpublished pending a recording date."
+   ]
+  },
   {
    "date": "2026-07-09",
    "changes": [

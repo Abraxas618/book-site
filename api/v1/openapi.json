@@ -408,6 +408,7 @@
        "video",
        "interview",
        "book-excerpt",
+       "transcript-document",
        "unknown"
       ]
      },
@@ -454,7 +455,8 @@
       "enum": [
        "reviewed",
        "draft",
-       "reviewed-with-known-limitations"
+       "reviewed-with-known-limitations",
+       "reconstructed"
       ]
      },
      "revision": {

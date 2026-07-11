@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-12-07",
  "slug": "2020-12-07-session-with-unimetrix-1",
  "title": "The Anunnaki Teacher's Creation Story & DNA Repair",
@@ -41,7 +41,7 @@
  "provenance": {
   "sessionId": "UM1-2020-12-07",
   "recordingDate": "2020-12-07",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=DxkePMRLVkU&t=3716s",
   "sourceChannel": "super kru commander z",
@@ -51,7 +51,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:12465b7ee33551d29f1cd2001c04a2fe51d00d751af624f4401c903f15b9be1e",
   "metadataHash": "sha256:baea4dcbe0a39e17ecbc0f7c061ca4928357cfb970c3659e3c25ef02e16908c1",
   "recordHash": "sha256:0722e3c49def0be3ad781cb0129951a81f2c04e99b8204fc4ccd6a5aa09332ba"

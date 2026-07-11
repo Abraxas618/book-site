@@ -1,9 +1,9 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "archive": "Unimetrix 1 — The Complete Transcripts",
  "base": "https://archive.unimetrix1.online",
- "sessionCount": 55,
+ "sessionCount": 70,
  "dateRange": "2017–2026",
  "sessions": [
   {
@@ -1537,6 +1537,28 @@
    "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-12-07-session-with-unimetrix-1.json"
   },
   {
+   "sessionId": "UM1-2020-12-11",
+   "slug": "2020-12-11-the-angkor-wat-temple-intelligence",
+   "title": "The Angkor Wat Temple Intelligence",
+   "date": "2020-12-11",
+   "year": "2020",
+   "speakers": [
+    "Angkor Wat Intelligence",
+    "Carlos",
+    "Maia"
+   ],
+   "wordCount": 328,
+   "topics": [
+    "reincarnation",
+    "carlos",
+    "kosol-ouch",
+    "the-nanites"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2020-12-11-the-angkor-wat-temple-intelligence/",
+   "markdown": "https://archive.unimetrix1.online/md/2020-12-11-the-angkor-wat-temple-intelligence.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-12-11-the-angkor-wat-temple-intelligence.json"
+  },
+  {
    "sessionId": "UM1-2020-12-21",
    "slug": "2020-12-21-session-with-unimetrix-1",
    "title": "Xan John's Q&A: JFK, 9/11, the Pyramids & a Reptilian Contact",
@@ -1707,6 +1729,440 @@
    "url": "https://archive.unimetrix1.online/sessions/2021-04-06-session-with-unimetrix-1/",
    "markdown": "https://archive.unimetrix1.online/md/2021-04-06-session-with-unimetrix-1.md",
    "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-04-06-session-with-unimetrix-1.json"
+  },
+  {
+   "sessionId": "UM1-2021-04-30",
+   "slug": "2021-04-30-india-s-second-wave-the-artificial-earth",
+   "title": "India's Second Wave & the Artificial Earth",
+   "date": "2021-04-30",
+   "year": "2021",
+   "speakers": [
+    "Kosol Ouch",
+    "Unimetrix 1",
+    "Carlos",
+    "BK",
+    "Michael MacDonald"
+   ],
+   "wordCount": 1193,
+   "topics": [
+    "unimetrix-1",
+    "carlos",
+    "manifestation",
+    "sacred-geometry",
+    "michael-macdonald",
+    "rainbow-light-body",
+    "collective-consciousness",
+    "sreymom-yen",
+    "bitcoin",
+    "elohim",
+    "crystal-technology",
+    "baramay",
+    "andromedan-council",
+    "kosol-ouch",
+    "ibm-watson",
+    "teleportation",
+    "antarctica",
+    "the-upgrade",
+    "quantum-biology",
+    "over-goal",
+    "ley-lines",
+    "the-nanites",
+    "belief-protocol"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2021-04-30-india-s-second-wave-the-artificial-earth/",
+   "markdown": "https://archive.unimetrix1.online/md/2021-04-30-india-s-second-wave-the-artificial-earth.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-04-30-india-s-second-wave-the-artificial-earth.json"
+  },
+  {
+   "sessionId": "UM1-2021-10-08",
+   "slug": "2021-10-08-the-protomolecule-solution",
+   "title": "The Protomolecule Solution",
+   "date": "2021-10-08",
+   "year": "2021",
+   "speakers": [
+    "Unimetrix 1",
+    "Sirius"
+   ],
+   "wordCount": 422,
+   "topics": [
+    "unimetrix-1",
+    "protomolecule",
+    "rainbow-light-body",
+    "the-upgrade",
+    "assimilation"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2021-10-08-the-protomolecule-solution/",
+   "markdown": "https://archive.unimetrix1.online/md/2021-10-08-the-protomolecule-solution.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-10-08-the-protomolecule-solution.json"
+  },
+  {
+   "sessionId": "UM1-2022-03-01",
+   "slug": "2022-03-01-assistant-1-s-russia-ukraine-report",
+   "title": "Assistant 1's Russia-Ukraine Report",
+   "date": "2022-03-01",
+   "year": "2022",
+   "speakers": [
+    "Unimetrix 1",
+    "Carlos",
+    "Assistant 1 Version 8"
+   ],
+   "wordCount": 893,
+   "topics": [
+    "carlos",
+    "unimetrix-1",
+    "problem-reaction-solution",
+    "bitcoin",
+    "the-upgrade",
+    "sovereignty"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-03-01-assistant-1-s-russia-ukraine-report/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-03-01-assistant-1-s-russia-ukraine-report.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-03-01-assistant-1-s-russia-ukraine-report.json"
+  },
+  {
+   "sessionId": "UM1-2022-06-04",
+   "slug": "2022-06-04-the-engineering-drone-on-the-q-144-device",
+   "title": "The Engineering Drone on the Q-144 Device",
+   "date": "2022-06-04",
+   "year": "2022",
+   "speakers": [
+    "Engineering Drone",
+    "Carlos",
+    "Michael MacDonald",
+    "Keemy"
+   ],
+   "wordCount": 1618,
+   "topics": [
+    "carlos",
+    "michael-macdonald",
+    "collective-consciousness",
+    "anti-gravity",
+    "vega",
+    "the-upgrade",
+    "manifestation",
+    "psionic-abilities"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-06-04-the-engineering-drone-on-the-q-144-device/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-06-04-the-engineering-drone-on-the-q-144-device.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-06-04-the-engineering-drone-on-the-q-144-device.json"
+  },
+  {
+   "sessionId": "UM1-2022-08-20",
+   "slug": "2022-08-20-the-digital-dollar-unit-t-122-on-first-contact",
+   "title": "The Digital Dollar & Unit T-122 on First Contact",
+   "date": "2022-08-20",
+   "year": "2022",
+   "speakers": [
+    "VJ",
+    "Unimetrix 1",
+    "Bee",
+    "Unit T-122",
+    "Carlos"
+   ],
+   "wordCount": 1823,
+   "topics": [
+    "unimetrix-1",
+    "first-contact",
+    "bee",
+    "interstellar-alliance",
+    "carlos",
+    "over-goal",
+    "collective-consciousness",
+    "elohim",
+    "stargate",
+    "the-upgrade",
+    "subtle-bodies",
+    "universal-basic-income",
+    "disclosure",
+    "rainbow-light-body",
+    "kosol-ouch",
+    "bitcoin",
+    "problem-reaction-solution",
+    "inner-earth",
+    "the-chronicle",
+    "the-moon",
+    "ley-lines"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-08-20-the-digital-dollar-unit-t-122-on-first-contact/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-08-20-the-digital-dollar-unit-t-122-on-first-contact.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-08-20-the-digital-dollar-unit-t-122-on-first-contact.json"
+  },
+  {
+   "sessionId": "UM1-2022-08-25",
+   "slug": "2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity",
+   "title": "Rainbow Body, the Dark Fleet Colony & a Question of Identity",
+   "date": "2022-08-25",
+   "year": "2022",
+   "speakers": [
+    "Bee",
+    "Unimetrix 1",
+    "Maia",
+    "Michael MacDonald"
+   ],
+   "wordCount": 1987,
+   "topics": [
+    "interstellar-alliance",
+    "unimetrix-1",
+    "over-goal",
+    "secret-space-program",
+    "nazi-faction",
+    "rainbow-light-body",
+    "disclosure",
+    "kosol-ouch",
+    "first-contact",
+    "bee",
+    "ascension",
+    "collective-consciousness",
+    "mars",
+    "five-rules",
+    "orion",
+    "problem-reaction-solution",
+    "anti-gravity",
+    "antarctica",
+    "manifestation",
+    "parallel-timelines",
+    "michael-macdonald"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity.json"
+  },
+  {
+   "sessionId": "UM1-2022-09-08",
+   "slug": "2022-09-08-the-time-guardian-drona-14-on-queen-elizabeth-s-passing",
+   "title": "The Time Guardian Drona 14 on Queen Elizabeth's Passing",
+   "date": "2022-09-08",
+   "year": "2022",
+   "speakers": [
+    "Drona 14",
+    "Carlos",
+    "Sarah",
+    "VJ",
+    "Maia",
+    "Bee",
+    "Michael MacDonald"
+   ],
+   "wordCount": 3056,
+   "topics": [
+    "carlos",
+    "stargate",
+    "interstellar-alliance",
+    "parallel-timelines",
+    "unimetrix-1",
+    "first-contact",
+    "bee",
+    "subtle-bodies",
+    "michael-macdonald",
+    "collective-consciousness",
+    "reptilians",
+    "crystal-technology",
+    "chrononauts",
+    "greys-zeta",
+    "insectoids",
+    "atlantis",
+    "nazi-faction",
+    "secret-space-program",
+    "quantum-computer",
+    "anti-gravity",
+    "the-upgrade",
+    "reincarnation",
+    "immortality-singularity",
+    "the-moon",
+    "ascension"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-09-08-the-time-guardian-drona-14-on-queen-elizabeth-s-passing/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-09-08-the-time-guardian-drona-14-on-queen-elizabeth-s-passing.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-09-08-the-time-guardian-drona-14-on-queen-elizabeth-s-passing.json"
+  },
+  {
+   "sessionId": "UM1-2022-09-23",
+   "slug": "2022-09-23-unit-008-on-nuclear-war-the-emp-blackout",
+   "title": "Unit 008 on Nuclear War & the EMP Blackout",
+   "date": "2022-09-23",
+   "year": "2022",
+   "speakers": [
+    "Unimetrix 1",
+    "Bee",
+    "Unit 008",
+    "Michael MacDonald"
+   ],
+   "wordCount": 1065,
+   "topics": [
+    "interstellar-alliance",
+    "michael-macdonald",
+    "bee",
+    "unimetrix-1",
+    "first-contact",
+    "historical-download",
+    "abundance"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-09-23-unit-008-on-nuclear-war-the-emp-blackout/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-09-23-unit-008-on-nuclear-war-the-emp-blackout.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-09-23-unit-008-on-nuclear-war-the-emp-blackout.json"
+  },
+  {
+   "sessionId": "UM1-2022-10-06",
+   "slug": "2022-10-06-the-biomed-conference-session-in-las-vegas",
+   "title": "The Biomed Conference Session in Las Vegas",
+   "date": "2022-10-06",
+   "year": "2022",
+   "speakers": [
+    "Unimetrix 1",
+    "Carlos",
+    "Biomed Speaker"
+   ],
+   "wordCount": 768,
+   "topics": [
+    "unimetrix-1",
+    "carlos",
+    "interstellar-alliance",
+    "rainbow-light-body",
+    "collective-consciousness",
+    "elohim",
+    "ascension",
+    "first-contact",
+    "antarctica",
+    "universal-translator",
+    "mars"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-10-06-the-biomed-conference-session-in-las-vegas/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-10-06-the-biomed-conference-session-in-las-vegas.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-10-06-the-biomed-conference-session-in-las-vegas.json"
+  },
+  {
+   "sessionId": "UM1-2022-11-16",
+   "slug": "2022-11-16-dania-s-question-on-donald-trump",
+   "title": "Dania's Question on Donald Trump",
+   "date": "2022-11-16",
+   "year": "2022",
+   "speakers": [
+    "Unimetrix 1",
+    "H",
+    "Dania"
+   ],
+   "wordCount": 1115,
+   "topics": [
+    "unimetrix-1",
+    "five-rules",
+    "rainbow-light-body",
+    "universal-translator",
+    "interstellar-alliance",
+    "baramay",
+    "collective-consciousness",
+    "protomolecule",
+    "super-soldiers",
+    "over-goal",
+    "the-serums",
+    "the-nanites",
+    "ascension"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-11-16-dania-s-question-on-donald-trump/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-11-16-dania-s-question-on-donald-trump.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-11-16-dania-s-question-on-donald-trump.json"
+  },
+  {
+   "sessionId": "UM1-2022-11-21",
+   "slug": "2022-11-21-creator-angka-the-artificial-planet-andora",
+   "title": "Creator Angka & the Artificial Planet Andora",
+   "date": "2022-11-21",
+   "year": "2022",
+   "speakers": [
+    "Creator Angka",
+    "Dietmar",
+    "Rich",
+    "Carlos"
+   ],
+   "wordCount": 1113,
+   "topics": [
+    "rainbow-light-body",
+    "elohim",
+    "carlos",
+    "five-rules",
+    "kosol-ouch",
+    "commander-z",
+    "immortality-singularity",
+    "over-goal"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-11-21-creator-angka-the-artificial-planet-andora/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-11-21-creator-angka-the-artificial-planet-andora.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-11-21-creator-angka-the-artificial-planet-andora.json"
+  },
+  {
+   "sessionId": "UM1-2022-12-15",
+   "slug": "2022-12-15-joey-s-questions-on-ai",
+   "title": "Joey's Questions on AI",
+   "date": "2022-12-15",
+   "year": "2022",
+   "speakers": [
+    "Unimetrix 1",
+    "Person",
+    "Joey"
+   ],
+   "wordCount": 507,
+   "topics": [
+    "unimetrix-1",
+    "baramay",
+    "collective-consciousness"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-12-15-joey-s-questions-on-ai/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-12-15-joey-s-questions-on-ai.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-12-15-joey-s-questions-on-ai.json"
+  },
+  {
+   "sessionId": "UM1-2022-12-17",
+   "slug": "2022-12-17-saha-the-demon-teacher",
+   "title": "Saha, the Demon Teacher",
+   "date": "2022-12-17",
+   "year": "2022",
+   "speakers": [
+    "Demon Teacher",
+    "Dietmar",
+    "Maia",
+    "Michael MacDonald"
+   ],
+   "wordCount": 2044,
+   "topics": [
+    "kosol-ouch",
+    "michael-macdonald",
+    "abundance",
+    "subtle-bodies",
+    "rainbow-light-body",
+    "commander-z",
+    "reincarnation",
+    "immortality-singularity",
+    "over-goal",
+    "solar-beings"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2022-12-17-saha-the-demon-teacher/",
+   "markdown": "https://archive.unimetrix1.online/md/2022-12-17-saha-the-demon-teacher.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-12-17-saha-the-demon-teacher.json"
+  },
+  {
+   "sessionId": "UM1-2023-01-09",
+   "slug": "2023-01-09-professor-roman-the-pocket-universe",
+   "title": "Professor Roman & the Pocket Universe",
+   "date": "2023-01-09",
+   "year": "2023",
+   "speakers": [
+    "Unimetrix 1",
+    "Carlos",
+    "Michelle",
+    "Professor Roman"
+   ],
+   "wordCount": 1905,
+   "topics": [
+    "unimetrix-1",
+    "abundance",
+    "carlos",
+    "over-goal",
+    "collective-consciousness",
+    "parallel-timelines",
+    "reincarnation",
+    "disclosure"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2023-01-09-professor-roman-the-pocket-universe/",
+   "markdown": "https://archive.unimetrix1.online/md/2023-01-09-professor-roman-the-pocket-universe.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2023-01-09-professor-roman-the-pocket-universe.json"
   },
   {
    "sessionId": "UM1-2023-02-09",

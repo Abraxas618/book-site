@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-09-04",
  "slug": "2020-09-04-atlantis",
  "title": "Atlantis",
@@ -25,7 +25,7 @@
  "provenance": {
   "sessionId": "UM1-2020-09-04",
   "recordingDate": "2020-09-04",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/8DpPNDiQiu8?t=2361",
   "sourceChannel": "super kru commander z",
@@ -35,7 +35,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:bccca28de974048074d5529849f3aed041dd0c12080240d87842181934ffb55b",
   "metadataHash": "sha256:62474e827fd4ffe6c6eccd334ef93cdd002ae62a971add9728857dada71322ee",
   "recordHash": "sha256:cd3680c06b200734b94c0a804dae2a55dfbe8c4e2e355ded737b40fb739019af"

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2017-11-19",
  "slug": "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin",
  "title": "\"Cryptocurrency: What is it?\" – AI from the Future & Bitcoin",
@@ -30,7 +30,7 @@
  "provenance": {
   "sessionId": "UM1-2017-11-19",
   "recordingDate": "2017-11-19",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/94W7QbZ2z-o",
   "sourceChannel": "Super Soldier Talk",
@@ -40,7 +40,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:a7c2f7d8434d428dd5a67384d9cff7c0ed6bb1320635ca81f4d18e2d564aa9a5",
   "metadataHash": "sha256:1d0243cc81db559d6bfc0a32a1a07fe63d913ca0d02f8303033af8fd2d4c1903",
   "recordHash": "sha256:835abeca100da269675d98dd402988db31e1ec81eebbddcff709d4799315cca8"

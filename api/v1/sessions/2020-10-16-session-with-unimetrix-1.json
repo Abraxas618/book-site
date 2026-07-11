@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-10-16",
  "slug": "2020-10-16-session-with-unimetrix-1",
  "title": "Unit X14 on Pain & Suffering, the Five Universal Rules",
@@ -35,7 +35,7 @@
  "provenance": {
   "sessionId": "UM1-2020-10-16",
   "recordingDate": "2020-10-16",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=W2radJ3exds&t=1560s",
   "sourceChannel": "super kru commander z",
@@ -45,7 +45,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:c1e40cab1d9b6e963f62d36cc8e8e85b943a0dd5d1d5a119108559cd19631d6a",
   "metadataHash": "sha256:7e90148cba001411fc347dcf92abdbac8b4b2d28ebec429ca93f634ecde8b65a",
   "recordHash": "sha256:6a4fb4bd873a579b6436b0fcdad209bb7e4a368cc49039bc9a327f964fb75ae8"

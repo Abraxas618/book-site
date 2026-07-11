@@ -4,22 +4,22 @@
   "Dr. Kosol Ouch",
   "Michael MacDonald"
  ],
- "sessionCount": 55,
+ "sessionCount": 70,
  "latestSession": "2026-06-14",
  "formats": [
   {
    "format": "EPUB",
    "file": "/downloads/unimetrix1-complete-transcripts.epub",
-   "bytes": 518950,
+   "bytes": 573520,
    "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.epub",
-   "sha256": "1812fa3332dc5eb20aa8716fc3cf490570ae8faaf2af67fee7f5a3888ed831f4"
+   "sha256": "0088b440551b00a82163eeef92cce02fa98e046b846a862402d3f38b4f326052"
   },
   {
    "format": "PDF",
    "file": "/downloads/unimetrix1-complete-transcripts.pdf",
-   "bytes": 2273078,
+   "bytes": 2503056,
    "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.pdf",
-   "sha256": "6cf9ccfb4fb1a2d231cdbb902c46f223a47d27b599c9d7922b9edd80658571c5"
+   "sha256": "ac5581db6c6ee75fb94d1aa9ee9275f5d43554f1b4e9fe0209b3af9e4dfe62ee"
   }
  ]
 }

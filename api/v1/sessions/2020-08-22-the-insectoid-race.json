@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-08-22",
  "slug": "2020-08-22-the-insectoid-race",
  "title": "The Insectoid Race",
@@ -33,7 +33,7 @@
  "provenance": {
   "sessionId": "UM1-2020-08-22",
   "recordingDate": "2020-08-22",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/-7uDvd6fliI?t=4762",
   "sourceChannel": "super kru commander z",
@@ -43,7 +43,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:effb5f7107fec3f32ab9f8db0a9770a23720303bfbf223d353d8eb3469899f24",
   "metadataHash": "sha256:4af5701a8b5cb55f05e50bdc8d3ab62f0f3d71d66aa03277b3e5cb27031b38ad",
   "recordHash": "sha256:0443f62c60ed4d4464de37cc00a0b6e57a6fde4703660b4c2e9d99bfbc7f14e5"

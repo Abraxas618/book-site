@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-05-16",
  "slug": "2020-05-16-bigfoot-perception-blocks",
  "title": "Bigfoot & Perception Blocks",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2020-05-16",
   "recordingDate": "2020-05-16",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/anwqF5RJSnY?t=5481",
   "sourceChannel": "super kru commander z",
@@ -39,7 +39,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:baf4ee8c1a81ca7bc196d0cb3a14b0fcfe7166baae979fb3069a2c13cee69781",
   "metadataHash": "sha256:f756f5e0eef698d94a278583069e20b78e39afd24d240dcafe7094acf28b0acb",
   "recordHash": "sha256:9639194c4a3b1a1aa7a059b5e63c9fd259360fffef4fd6b07f8e46f48a1d1291"

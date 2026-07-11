@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -478,6 +478,14 @@
    "note": "the Unimetrix 1 segment runs ~9:55–33:32",
    "videoId": "ryuiH_X4EDg",
    "session": "https://archive.unimetrix1.online/sessions/2020-02-25-proto-bashar-session/"
+  },
+  "2022-03-01-assistant-1-s-russia-ukraine-report": {
+   "url": "https://www.youtube.com/watch?v=brrgFnhQNb0",
+   "title": "Super Kru Commander Z's Personal Meeting 03-01-2022",
+   "channel": "super kru commander z",
+   "start": 0,
+   "videoId": "brrgFnhQNb0",
+   "session": "https://archive.unimetrix1.online/sessions/2022-03-01-assistant-1-s-russia-ukraine-report/"
   }
  }
 }

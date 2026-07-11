@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-02-29",
  "slug": "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
  "title": "James Rink Interviews n°2 – Kosol Ouch & Maxwell Scott – Coronavirus Operation Lusterkill Part 2",
@@ -78,7 +78,7 @@
  "provenance": {
   "sessionId": "UM1-2020-02-29",
   "recordingDate": "2020-02-29",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "interview",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -88,7 +88,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:a5631934e3a4e8a2b4780298b66c082d544b8240b677e1d0fe80d68be39c98e4",
   "metadataHash": "sha256:671a4de2497cb84059301411c1fbbf4049f6b7188f1d2af1c6bb425a4a968037",
   "recordHash": "sha256:5e21c2ac5b34e7d5ec937bceba627aff4fd20b533defda68a3d9c15228090d63"

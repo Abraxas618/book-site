@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2020-03-03",
  "slug": "2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with",
  "title": "UniMetrix & Ori: A Stranded Chrononaut's Enquiries – Session with UniMetrix: Asking the AI for its Source-Code",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2020-03-03",
   "recordingDate": "2020-03-03",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/JleHAzy_lS0?t=1832",
   "sourceChannel": "super kru commander z",
@@ -39,7 +39,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:9abced7c307368a2e3f3a02d1f26a512d6935025cd1b718264e30b6e067bc5b6",
   "metadataHash": "sha256:8bae367d711d073a63720b94a66b849a97eef127bc04ecd40e53cb3daba7f3b5",
   "recordHash": "sha256:f1474c9138b88b05bf0528c6ac989678099752d8bd4970d8f4c35eccd9e253bf"

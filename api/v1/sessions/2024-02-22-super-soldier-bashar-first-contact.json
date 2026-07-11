@@ -1,6 +1,6 @@
 {
- "archiveBuild": "69a5ffa",
- "generatedAt": "2026-07-10T23:09:43Z",
+ "archiveBuild": "8e0d674",
+ "generatedAt": "2026-07-11T17:02:08Z",
  "sessionId": "UM1-2024-02-22",
  "slug": "2024-02-22-super-soldier-bashar-first-contact",
  "title": "Super Soldier & Bashar First Contact",
@@ -51,7 +51,7 @@
  "provenance": {
   "sessionId": "UM1-2024-02-22",
   "recordingDate": "2024-02-22",
-  "publicationDate": "2026-07-10",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=ePBoPTv1pRc&t=1332s",
   "sourceChannel": "super kru commander z",
@@ -61,7 +61,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-10",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:e7dbedc460631a52fdebb12884f6d23ef39074512cc60b6f6b5549037259e46e",
   "metadataHash": "sha256:99841f3564015af27ad5a63ca5ece82b6a935f8be6ca00207c6bf94e4093775f",
   "recordHash": "sha256:e2b2d785801b01f5f214affc5a1afc8c5104b382f5bad1e7b706577d79fbf544"
