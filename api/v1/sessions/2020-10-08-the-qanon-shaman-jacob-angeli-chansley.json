@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2020-10-08",
  "slug": "2020-10-08-the-qanon-shaman-jacob-angeli-chansley",
  "title": "The QAnon Shaman (Jacob Angeli Chansley)",
@@ -36,7 +36,7 @@
  "provenance": {
   "sessionId": "UM1-2020-10-08",
   "recordingDate": "2020-10-08",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -46,7 +46,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:cd5f9b6b654c178df71e8dac22c1bc31d5f57153977905fcbbc23285b2f5d60b",
   "metadataHash": "sha256:c9a43d2444cab1204b5ee68d8794818bbb1da55a6b73fd2c2bc7bfb7c25ac106",
   "recordHash": "sha256:aa7742d823f3f752b9759a2384d6df4aaba158e91f6b480b1d8f3e26ead70a42"

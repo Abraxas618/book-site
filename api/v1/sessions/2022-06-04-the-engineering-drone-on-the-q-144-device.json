@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-06-04",
  "slug": "2022-06-04-the-engineering-drone-on-the-q-144-device",
  "title": "The Engineering Drone on the Q-144 Device",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2022-06-04",
   "recordingDate": "2022-06-04",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -39,7 +39,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:ba7ac41d358831202e4798dc3ef18d49df6e217ce5891b0c115800ba6d19b000",
   "metadataHash": "sha256:38b201eada4a88a6e7954e0e43111ccf582b1bbfe532d08e68ae35756db13d4f",
   "recordHash": "sha256:34e6c174c26c729a30010f042e2bb7c1bcb44c3d85f2129af2d61b31672fa598"

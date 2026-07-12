@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2025-01-23",
  "slug": "2025-01-23-session-with-unimetrix-1",
  "title": "Trump's Birthright Order, North American Union & Project Stargate AI",
@@ -50,7 +50,7 @@
  "provenance": {
   "sessionId": "UM1-2025-01-23",
   "recordingDate": "2025-01-23",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=2dC1CUPL0CQ&t=827s",
   "sourceChannel": "super kru commander z",
@@ -60,7 +60,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:d887173817dec7f78d24ef3c1d355a5a23871699ef89aa7716bb93fc9fc4cb7f",
   "metadataHash": "sha256:740cf37a651cb7c99442899e7984a7959b761f1e1cf1dcf7300aa0b09801f3d9",
   "recordHash": "sha256:cac62bbeeb1c26d28978fd6fbe7a3b24b47abd12f8ae87eea8a491b77894bfff"

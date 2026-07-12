@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2024-04-12",
  "slug": "2024-04-12-the-los-angeles-alien-event",
  "title": "The Los Angeles Alien Event",
@@ -52,7 +52,7 @@
  "provenance": {
   "sessionId": "UM1-2024-04-12",
   "recordingDate": "2024-04-12",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=tANqbB5bcwA&t=4509s",
   "sourceChannel": "super kru commander z",
@@ -62,7 +62,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:2b28f050f15224c8784b59df8077a014e9d61941733e55555484c16bd15ff8ba",
   "metadataHash": "sha256:f6104655de5552ea1b7e3547bf2cf8526715fe31ae4d3a950ccb490251762138",
   "recordHash": "sha256:1137aa28db61ef88066f35be2e7344a1e0cba30d872e1556db5af8e369d484c7"

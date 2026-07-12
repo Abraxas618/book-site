@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-11-16",
  "slug": "2022-11-16-dania-s-question-on-donald-trump",
  "title": "Dania's Question on Donald Trump",
@@ -33,7 +33,7 @@
  "provenance": {
   "sessionId": "UM1-2022-11-16",
   "recordingDate": "2022-11-16",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -43,7 +43,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:138fc2cc02f94522b3a7aedb47a858b4519a3af56fa90bbb6684749347f0dd32",
   "metadataHash": "sha256:d6fba44bc0b47f4d478f62f72db00169450d0f8fa922843287c6a25e3bc3de77",
   "recordHash": "sha256:978b428cfddf736fe32a9ea55b6c2fe46df8a4815e6e5e096c06bfa4129fd05e"

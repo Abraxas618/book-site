@@ -249,7 +249,7 @@
   },
   "/api/v1/downloads.json": {
    "get": {
-    "summary": "Downloadable EPUB/PDF editions with sizes and sha-256 hashes",
+    "summary": "Downloadable EPUB, PDF, and Markdown editions with sizes and sha-256 hashes",
     "responses": {
      "200": {
       "description": "Editions",

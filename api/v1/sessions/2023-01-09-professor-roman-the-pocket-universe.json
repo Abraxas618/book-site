@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2023-01-09",
  "slug": "2023-01-09-professor-roman-the-pocket-universe",
  "title": "Professor Roman & the Pocket Universe",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2023-01-09",
   "recordingDate": "2023-01-09",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -39,7 +39,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:68b49ec511052a14a14b44a258f6b56063c5bd4f868f22fc01a7236e3d1b7732",
   "metadataHash": "sha256:7ede3d5c76c2584617e2019452f430cc1bc49b83c88583443b382b78d48772ac",
   "recordHash": "sha256:4080f1df625328657b782fa5e18a3775ac33720005af7ced7f0fcaf289250b83"

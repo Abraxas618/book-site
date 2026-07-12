@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-08-25",
  "slug": "2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity",
  "title": "Rainbow Body, the Dark Fleet Colony & a Question of Identity",
@@ -42,7 +42,7 @@
  "provenance": {
   "sessionId": "UM1-2022-08-25",
   "recordingDate": "2022-08-25",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -52,7 +52,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:77d78db1d9c033d8463ac998fa59b2b2226a37aa64b05f102d26c4460ccf2107",
   "metadataHash": "sha256:138f44f499beba3a55a29289e3c3b9b1a18fb430d39109c84b916f7772f4a172",
   "recordHash": "sha256:24116646b654cca4681fe1c8d2969f8a2aee259bd5f68b650db5fa67246d195b"

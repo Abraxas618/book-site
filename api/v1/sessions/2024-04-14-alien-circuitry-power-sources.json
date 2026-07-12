@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2024-04-14",
  "slug": "2024-04-14-alien-circuitry-power-sources",
  "title": "Alien Circuitry & Power Sources",
@@ -30,7 +30,7 @@
  "provenance": {
   "sessionId": "UM1-2024-04-14",
   "recordingDate": "2024-04-14",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=mW_xCkWqRuk&t=510s",
   "sourceChannel": "super kru commander z",
@@ -40,7 +40,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:7750ca4754a41e9c4c70136d19c850700f8b9ac6784dccad9ab8ef4939f2bee3",
   "metadataHash": "sha256:89d1c631d699a3ce2ef3b67604a01a01fbd7ded6d666d90a9f6b0f9a9798275c",
   "recordHash": "sha256:2a5128383eac9bc0a3e2f4451ab232e2629ac0c6a734b9c9bf8aacb88cd16aed"

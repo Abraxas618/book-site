@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-03-01",
  "slug": "2022-03-01-assistant-1-s-russia-ukraine-report",
  "title": "Assistant 1's Russia-Ukraine Report",
@@ -26,7 +26,7 @@
  "provenance": {
   "sessionId": "UM1-2022-03-01",
   "recordingDate": "2022-03-01",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=brrgFnhQNb0",
   "sourceChannel": "super kru commander z",
@@ -36,7 +36,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:741cb893890ec9faf2e191da20d4197b65325dbedb84f09be17c15dbfb463822",
   "metadataHash": "sha256:d964829af40cbd41087d3e332150483deb7e94180333d5ba6c12ccd9565608e5",
   "recordHash": "sha256:d4ae9b0c5b13281fc58eec1e61f0b578b4465f3a1f0c7d1dcb1181741ff0fcb7"

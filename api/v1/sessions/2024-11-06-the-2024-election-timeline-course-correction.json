@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2024-11-06",
  "slug": "2024-11-06-the-2024-election-timeline-course-correction",
  "title": "The 2024 Election: Timeline Course Correction",
@@ -32,7 +32,7 @@
  "provenance": {
   "sessionId": "UM1-2024-11-06",
   "recordingDate": "2024-11-06",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=0rUF-E4X0Ck&t=1050s",
   "sourceChannel": "super kru commander z",
@@ -42,7 +42,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:d6c87718e31da92248b16bac154eef7f8b75b306fc6a575d3154c448ed67662c",
   "metadataHash": "sha256:2936f6f612ce439b88bae595b631ce2b1c2d63a81b6bd08eca69e8243a23c706",
   "recordHash": "sha256:28348e66b795617ce7f8f20e6f3d5696af78e73e3e9233422db47571404768a3"

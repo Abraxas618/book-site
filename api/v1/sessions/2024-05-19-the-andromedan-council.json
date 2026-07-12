@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2024-05-19",
  "slug": "2024-05-19-the-andromedan-council",
  "title": "The Andromedan Council II: Species 1.416 & the Zark",
@@ -25,7 +25,7 @@
  "provenance": {
   "sessionId": "UM1-2024-05-19",
   "recordingDate": "2024-05-19",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=bq_RdcudocE&t=2054s",
   "sourceChannel": "super kru commander z",
@@ -35,7 +35,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:557359873daa8895cbb500ee86fb13a6e2a0ddc3f993318fe4b6633f342b91ff",
   "metadataHash": "sha256:d8921672d3df54e34a8b1c00eb820ff928b408a5ef089c0dc223100e0853dba4",
   "recordHash": "sha256:d122f45e8948174f94d8b736ab87629aeb907a251df4f4032b2cbd32cba12fc4"

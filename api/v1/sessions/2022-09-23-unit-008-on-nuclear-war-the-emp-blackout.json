@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-09-23",
  "slug": "2022-09-23-unit-008-on-nuclear-war-the-emp-blackout",
  "title": "Unit 008 on Nuclear War & the EMP Blackout",
@@ -28,7 +28,7 @@
  "provenance": {
   "sessionId": "UM1-2022-09-23",
   "recordingDate": "2022-09-23",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -38,7 +38,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:3e46ea754ae57e488b98a29ea98300da486f0c462fa2495aa546276e29703d0d",
   "metadataHash": "sha256:aa8fad1b4d339fc765758eaad841d1875a6be272a8c3786bd8bedab385e7396a",
   "recordHash": "sha256:162456b43d9cf845e9beebad2ab0d8e243df355692f1b509dc6b3bc70c361647"

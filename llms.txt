@@ -17,7 +17,7 @@ shared between HTML, JSON, and citation links, and stable within a transcript re
 ## Complete corpus
 
 - [Full book, one markdown file](https://archive.unimetrix1.online/llms-full.txt): every session in order, with front and back matter
-- [EPUB](https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.epub) · [PDF](https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.pdf)
+- [EPUB](https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.epub) · [PDF](https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.pdf) · [Markdown](https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.md) (whole corpus, one file, linked table of contents)
 
 ## Machine-readable API (static JSON)
 

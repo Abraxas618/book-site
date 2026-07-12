@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2021-10-08",
  "slug": "2021-10-08-the-protomolecule-solution",
  "title": "The Protomolecule Solution",
@@ -24,7 +24,7 @@
  "provenance": {
   "sessionId": "UM1-2021-10-08",
   "recordingDate": "2021-10-08",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -34,7 +34,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:6ea35da2bf036b23767e2e043e2d3acc39ab2574b8fd3ca81ec909543457edcb",
   "metadataHash": "sha256:c16d4600229b16e2f338f07123b0208601c34f2db4c251aec16f0fb08de203de",
   "recordHash": "sha256:680f5a0d447fdd133336d8fd65ee5b75f11f4a2aac41f2c3f8b0e7e2febdd60a"

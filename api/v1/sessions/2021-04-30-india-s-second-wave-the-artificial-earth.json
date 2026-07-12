@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2021-04-30",
  "slug": "2021-04-30-india-s-second-wave-the-artificial-earth",
  "title": "India's Second Wave & the Artificial Earth",
@@ -45,7 +45,7 @@
  "provenance": {
   "sessionId": "UM1-2021-04-30",
   "recordingDate": "2021-04-30",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -55,7 +55,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:a202155f5b4554290ba506b4244d5f658379923aa01cd76e6738159cd417403e",
   "metadataHash": "sha256:f30cd302615b269140d07dc53e03b63c01c15b5b37748e2e9fc9eabb5eb7945b",
   "recordHash": "sha256:1f8ff1f154cc4308cc48b959fe151de7c6c2fda6057a0cd5747dcb270200e4da"

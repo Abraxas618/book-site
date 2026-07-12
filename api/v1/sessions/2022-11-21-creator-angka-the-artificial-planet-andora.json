@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-11-21",
  "slug": "2022-11-21-creator-angka-the-artificial-planet-andora",
  "title": "Creator Angka & the Artificial Planet Andora",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2022-11-21",
   "recordingDate": "2022-11-21",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -39,7 +39,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:e57c13414702350f5f6b01f0a8c31e9dca8fbca39457a9b61dae7066bcc5f90e",
   "metadataHash": "sha256:8f80bb8170dfac6aa0977d48d5be85cfd1c7ae7291840a1bfe005337bfd973a2",
   "recordHash": "sha256:63422e29bd8d364a08742a6ffc3de05d754e13a4af11daa7313a8bb6131c7b79"

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-09-08",
  "slug": "2022-09-08-the-time-guardian-drona-14-on-queen-elizabeth-s-passing",
  "title": "The Time Guardian Drona 14 on Queen Elizabeth's Passing",
@@ -49,7 +49,7 @@
  "provenance": {
   "sessionId": "UM1-2022-09-08",
   "recordingDate": "2022-09-08",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -59,7 +59,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:7853636f0f0887fa1bfdd55216fc835a2dbb9c4f495b0194afbff14890dbe4a0",
   "metadataHash": "sha256:5cb45851dd1bf9fdd8f6979ec603956e99d8be30b5ae03235d39cae2e2f965fb",
   "recordHash": "sha256:3568bbb7651015b2d78c5a409caff7be3148e761e28a414ea5667dbf32879804"

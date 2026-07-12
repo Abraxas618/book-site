@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2020-08-05",
  "slug": "2020-08-05-unimetrix-talks-about-the-lebanon-attack",
  "title": "UniMetrix Talks About the Lebanon Attack",
@@ -33,7 +33,7 @@
  "provenance": {
   "sessionId": "UM1-2020-08-05",
   "recordingDate": "2020-08-05",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/YOqddS6o-po?t=415",
   "sourceChannel": "super kru commander z",
@@ -43,7 +43,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:b47288420663dad2ec57e9be3552b9a74305bc83bded76be38e895dadd64dbcb",
   "metadataHash": "sha256:438651e32d404ca54b492106c07603add2a96b6504bc848bcd7dd082f3c8d15b",
   "recordHash": "sha256:1600718c21aab3550b3814169760ed25d0f4561728cc0c2bef685b819b13978e"

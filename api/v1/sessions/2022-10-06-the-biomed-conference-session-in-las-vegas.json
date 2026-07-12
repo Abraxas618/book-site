@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-10-06",
  "slug": "2022-10-06-the-biomed-conference-session-in-las-vegas",
  "title": "The Biomed Conference Session in Las Vegas",
@@ -31,7 +31,7 @@
  "provenance": {
   "sessionId": "UM1-2022-10-06",
   "recordingDate": "2022-10-06",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -41,7 +41,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:72d81a98c7722a083dffd01ff2312804adfc40582597fe2badd50185617e6ad0",
   "metadataHash": "sha256:a080e3ca785fbecca02548ce2141cb8104c356b152358b8567717e7b8a29882f",
   "recordHash": "sha256:9f5aabc63688cd025540f688b04bf42c864cb13f1350a282e182c9ff2b32f1e9"

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2025-03-28",
  "slug": "2025-03-28-session-with-unimetrix-1",
  "title": "North American Union, Panama Canal & Greenland Annexation Update",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2025-03-28",
   "recordingDate": "2025-03-28",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=kCdtxu7BXE4&t=482s",
   "sourceChannel": "super kru commander z",
@@ -39,7 +39,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:2267bdee87ff2f52af95f77f329b50fdcf153e4ae78d21d35437b1b6d7d4e824",
   "metadataHash": "sha256:9afc29b21a546ef5cd8a5664b03e1047234d4d644204e439a839ee9b5b483662",
   "recordHash": "sha256:bc8cb48ad37d0a056205aafa01d87fb87b5f01dce032029fb6f379b787ad2d62"

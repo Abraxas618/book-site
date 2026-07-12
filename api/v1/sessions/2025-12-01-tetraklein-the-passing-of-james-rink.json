@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2025-12-01",
  "slug": "2025-12-01-tetraklein-the-passing-of-james-rink",
  "title": "TetraKlein, the Passing of James Rink & the Buga Sphere",
@@ -58,7 +58,7 @@
  "provenance": {
   "sessionId": "UM1-2025-12-01",
   "recordingDate": "2025-12-01",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=NyOflfUW-wY&t=143s",
   "sourceChannel": "super kru commander z",
@@ -68,7 +68,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:78d457741bb010623f5064dda31a2117dff750ac8da4214d746fb2bf8e7a9232",
   "metadataHash": "sha256:ab43ac5268e1abe40d6ee5aa53cd2e697e06c66f2686dc949f878b6e58b965cd",
   "recordHash": "sha256:72cfff1174621f9be2527bb35cdf29f1a7324c79bc03a56379a1a71dec573933"

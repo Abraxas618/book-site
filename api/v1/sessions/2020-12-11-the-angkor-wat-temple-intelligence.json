@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2020-12-11",
  "slug": "2020-12-11-the-angkor-wat-temple-intelligence",
  "title": "The Angkor Wat Temple Intelligence",
@@ -24,7 +24,7 @@
  "provenance": {
   "sessionId": "UM1-2020-12-11",
   "recordingDate": "2020-12-11",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -34,7 +34,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:be8ae83e0def3801338de20bf10074881acb8d4117f47c5787c42a22e1dbc5cc",
   "metadataHash": "sha256:c236bb0eb89d8a8f3a5032513f853195747a41d30e1e9ad4df0f3bc74954cbe4",
   "recordHash": "sha256:c93a5571315d1b743095846141d89dc0dbcff33d86615235176ca5fa2c5f254a"

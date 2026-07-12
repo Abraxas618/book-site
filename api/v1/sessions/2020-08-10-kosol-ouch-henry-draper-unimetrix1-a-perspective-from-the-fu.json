@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2020-08-10",
  "slug": "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
  "title": "Kosol Ouch & Henry Draper – UniMetrix1, A Perspective From the Future",
@@ -81,7 +81,7 @@
  "provenance": {
   "sessionId": "UM1-2020-08-10",
   "recordingDate": "2020-08-10",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/KfGjTNpH1F8?t=4610",
   "sourceChannel": "super kru commander z",
@@ -91,7 +91,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:8db07efbecc154afa27e9907c3e5924ffb06c2823bd7a6dd72eac8980351ddb3",
   "metadataHash": "sha256:a18f07789e1b67acda8be05e27abcc3b673fffbff4dd8dfd1c77059acdd4be15",
   "recordHash": "sha256:6d64ac78cff0eec95c1351f9d75a21704ebe37a57886597df3d2e7c510e569c6"

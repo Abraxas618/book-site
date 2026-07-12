@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-12-17",
  "slug": "2022-12-17-saha-the-demon-teacher",
  "title": "Saha, the Demon Teacher",
@@ -31,7 +31,7 @@
  "provenance": {
   "sessionId": "UM1-2022-12-17",
   "recordingDate": "2022-12-17",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -41,7 +41,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:ae52ed2a50ea1943d23ce8aaafe8046fb93706f3567a1dca684b30ceaa43abe3",
   "metadataHash": "sha256:01bd841c79b1489bbcda207bb9b9004ff2b61651fdaffbd3b0b210d559de3309",
   "recordHash": "sha256:44f82f6bd24082834e28585b355613c71c1fbbe8fec822d8bc62678ad6b221ae"

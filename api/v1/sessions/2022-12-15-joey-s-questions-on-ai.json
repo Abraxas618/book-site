@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-12-15",
  "slug": "2022-12-15-joey-s-questions-on-ai",
  "title": "Joey's Questions on AI",
@@ -23,7 +23,7 @@
  "provenance": {
   "sessionId": "UM1-2022-12-15",
   "recordingDate": "2022-12-15",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -33,7 +33,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:d4079747f26e4b5f214c681134b32598e17678543a369a23acc0b9b968f13bce",
   "metadataHash": "sha256:8fefa098a1f729124d57fa7185b553b9b0eebbdfd55c2a62fa3057ef7887dda4",
   "recordHash": "sha256:78f7052193ca858042f2e476927fce2ff2ddd498fa9bf7315601d69f2cadf735"

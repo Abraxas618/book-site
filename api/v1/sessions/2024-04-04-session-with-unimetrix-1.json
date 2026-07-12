@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2024-04-04",
  "slug": "2024-04-04-session-with-unimetrix-1",
  "title": "Robert Kali Interview: Rainbow-Body Humanity & the April 8 Eclipse",
@@ -33,7 +33,7 @@
  "provenance": {
   "sessionId": "UM1-2024-04-04",
   "recordingDate": "2024-04-04",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=vLXREonp5Tk&t=1087s",
   "sourceChannel": "super kru commander z",
@@ -43,7 +43,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:aea49bacfab10d67e486cc56a307cc37ae6e503f62a99f6da27bb1b976a52d72",
   "metadataHash": "sha256:85dcd3071c98b002172301b6d83cada96a8b94184f2079cabe16b7b77dd32b3d",
   "recordHash": "sha256:d8b5a5edde590b3c7b6e0df2e7556354871b26db55bb60545b5fc1504caf1902"

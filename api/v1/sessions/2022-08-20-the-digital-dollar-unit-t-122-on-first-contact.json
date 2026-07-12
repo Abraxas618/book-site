@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2022-08-20",
  "slug": "2022-08-20-the-digital-dollar-unit-t-122-on-first-contact",
  "title": "The Digital Dollar & Unit T-122 on First Contact",
@@ -43,7 +43,7 @@
  "provenance": {
   "sessionId": "UM1-2022-08-20",
   "recordingDate": "2022-08-20",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "transcript-document",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -53,7 +53,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:0e7249ab2322a186bbd36914485dde35fc8297738e10fbff7defcf6f69778eac",
   "metadataHash": "sha256:305034b810bc4e22786ccc53ae19e129a39f12ad94fc63433b444ebc8ea92b6f",
   "recordHash": "sha256:5438e0296c7d0c0ffc33da74139c3cf984e56e5b97257bc56d89f40072ad74a0"

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2020-03-14",
  "slug": "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
  "title": "James Rink Interviews n°3 – Coronavirus Operation Lusterkill Part 3",
@@ -90,7 +90,7 @@
  "provenance": {
   "sessionId": "UM1-2020-03-14",
   "recordingDate": "2020-03-14",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "interview",
   "sourceUrl": null,
   "sourceChannel": null,
@@ -100,7 +100,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:d84cf03c960b04293a8502c69041b6bda62832aa6a3dbe534d115b1b0c4589f7",
   "metadataHash": "sha256:1b5b3c18c84a8de76955667022ca84b5eecc4396fc8284b07c6b1791bf901eb4",
   "recordHash": "sha256:7afb686805873d46d75a3a296bf57233c4ec524f8d162457690eb00334a57052"

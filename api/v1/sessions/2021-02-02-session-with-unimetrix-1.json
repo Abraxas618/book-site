@@ -1,6 +1,6 @@
 {
- "archiveBuild": "56dac98",
- "generatedAt": "2026-07-11T17:49:27Z",
+ "archiveBuild": "66b5104",
+ "generatedAt": "2026-07-12T19:14:34Z",
  "sessionId": "UM1-2021-02-02",
  "slug": "2021-02-02-session-with-unimetrix-1",
  "title": "The Dragon Queen Legend & Why Students Leave the Teaching",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2021-02-02",
   "recordingDate": "2021-02-02",
-  "publicationDate": "2026-07-11",
+  "publicationDate": "2026-07-12",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=wJUe9vcAWRc&t=4054s",
   "sourceChannel": "super kru commander z",
@@ -39,7 +39,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-07-11",
+  "lastModified": "2026-07-12",
   "contentHash": "sha256:6d9b56234b4db6961436dc0cae1acd1a5d2affbffa8b0d3a6195f244ff419398",
   "metadataHash": "sha256:0b17721557119fa084414078af773b9c5d6240a2e9c02dd48412d5c77b184eb6",
   "recordHash": "sha256:8565c3c15dd09c98ff4b4094ebdeeb6906038c44177d8775569b5364711135dd"
