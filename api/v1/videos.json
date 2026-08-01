@@ -1,6 +1,6 @@
 {
- "archiveBuild": "5940e0b",
- "generatedAt": "2026-08-01T16:52:53Z",
+ "archiveBuild": "b04a9ee",
+ "generatedAt": "2026-08-01T17:03:07Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -486,6 +486,16 @@
    "start": 0,
    "videoId": "brrgFnhQNb0",
    "session": "https://archive.unimetrix1.online/sessions/2022-03-01-assistant-1-s-russia-ukraine-report/"
+  },
+  "2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk": {
+   "url": "https://www.youtube.com/watch?v=UlVIceAG-WE",
+   "title": "Super Soldier Talk - Alien Artifacts & Psionics in Mexico with Sean Bond & Kosol Ouch",
+   "channel": "Super Soldier Talk",
+   "start": 2690,
+   "end": 2847,
+   "note": "the crystal-skull channeling segment runs ~44:50-47:27",
+   "videoId": "UlVIceAG-WE",
+   "session": "https://archive.unimetrix1.online/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk/"
   }
  }
 }

@@ -11419,7 +11419,7 @@ Speaker8: The biggest thing on the internet right now is gigantic wave in South 
 
 ## February 28, 2025 — The Nazca Crystal Skull & the Thoth Obelisk
 
-*Interview transcript — Super Soldier Talk, "Alien Artifacts & Psionics in Mexico" with Sean Bond and Kosol Ouch (audio/video recording not yet located)*
+*Interview transcript — Super Soldier Talk, "Alien Artifacts & Psionics in Mexico" with Sean Bond and Kosol Ouch*
 
 *Super Soldier Talk — "Alien Artifacts & Psionics in Mexico" with Sean Bond and Kosol Ouch, James Rink hosting. Sean Bond, an intuitive healer, researcher, and teacher, discusses the alien artifacts he reports discovering in Mexico — ET contact, integration of alters, teleportation, astral travel, elven realms — while Cambodian Super Kru teacher Kosol Ouch translates their inscriptions. A crystal skull recovered at the site is channeled here as the "Nazca Teacher."*
 
@@ -11439,7 +11439,7 @@ Speaker8: The biggest thing on the internet right now is gigantic wave in South 
 
 **Nazca Teacher:** No, Military force located where you found the secret knowledge in that location our military might was given authorized by the The Atlantean Council King Atlas instructed our warrior to base the entire our entire force at that location of the time is known as Atlas military this is the name it was given by King Atlas if you found Our secret knowledge that mean I no longer exist in your reality return Us return Us return return us thank you for your time
 
-*[Follow-up note — March 1, 2025. The next day, Kosol Ouch posted his translation of the stone obelisk pictured above to the Unimetrix 1 book group, in two parts (8:56 a.m. and 9:23 a.m.). It is his own reading of the carving, added here as a follow-up to the session.]*
+*[In the same session, Kosol Ouch turns to the stone obelisk pictured above and translates it.]*
 
 **Kosol Ouch:** [Obelisk translation] I Am Standing Master Son of Atlantis Master of Travel To Higher Dimension Higher Spirituality I Can See All Space I Can See All Time I Know The Future I Know The Path The Eternal Representation Of Our Civilization. End of Translation.
 
