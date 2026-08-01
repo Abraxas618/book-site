@@ -1,6 +1,6 @@
 {
- "archiveBuild": "a3f4410",
- "generatedAt": "2026-08-01T16:38:56Z",
+ "archiveBuild": "5940e0b",
+ "generatedAt": "2026-08-01T16:52:53Z",
  "speakers": [
   {
    "name": "Unimetrix 1",
@@ -128,11 +128,33 @@
     "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
     "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
     "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
-    "2021-04-30-india-s-second-wave-the-artificial-earth"
+    "2021-04-30-india-s-second-wave-the-artificial-earth",
+    "2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk"
    ],
-   "totalWords": 35969,
-   "totalTurns": 644,
+   "totalWords": 36567,
+   "totalTurns": 650,
    "url": "https://archive.unimetrix1.online/speakers/kosol-ouch/"
+  },
+  {
+   "name": "James Rink",
+   "slug": "james-rink",
+   "sessions": [
+    "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin",
+    "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
+    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
+    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
+    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
+    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
+    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
+    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
+    "2023-12-23-nesara-gesara-first-contact",
+    "2024-04-12-the-los-angeles-alien-event",
+    "2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk",
+    "01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual"
+   ],
+   "totalWords": 34081,
+   "totalTurns": 1082,
+   "url": "https://archive.unimetrix1.online/speakers/james-rink/"
   },
   {
    "name": "Bee",
@@ -154,26 +176,6 @@
    "totalWords": 794,
    "totalTurns": 47,
    "url": "https://archive.unimetrix1.online/speakers/bee/"
-  },
-  {
-   "name": "James Rink",
-   "slug": "james-rink",
-   "sessions": [
-    "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin",
-    "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
-    "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
-    "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
-    "2020-03-26-james-rink-interviews-n-4-kosol-ouch-coronavirus-operation-l",
-    "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
-    "2020-05-11-james-rink-interviews-n-6-alfred-webre-kosol-ouch-unimetrix1",
-    "2020-08-10-kosol-ouch-henry-draper-unimetrix1-a-perspective-from-the-fu",
-    "2023-12-23-nesara-gesara-first-contact",
-    "2024-04-12-the-los-angeles-alien-event",
-    "01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual"
-   ],
-   "totalWords": 33975,
-   "totalTurns": 1076,
-   "url": "https://archive.unimetrix1.online/speakers/james-rink/"
   },
   {
    "name": "Michael MacDonald",
@@ -1078,6 +1080,16 @@
    "totalWords": 366,
    "totalTurns": 6,
    "url": "https://archive.unimetrix1.online/speakers/andromedan-1-416/"
+  },
+  {
+   "name": "Nazca Teacher",
+   "slug": "nazca-teacher",
+   "sessions": [
+    "2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk"
+   ],
+   "totalWords": 151,
+   "totalTurns": 5,
+   "url": "https://archive.unimetrix1.online/speakers/nazca-teacher/"
   },
   {
    "name": "Star League Alliance AI",

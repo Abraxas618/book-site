@@ -1,9 +1,9 @@
 {
- "archiveBuild": "a3f4410",
- "generatedAt": "2026-08-01T16:38:56Z",
+ "archiveBuild": "5940e0b",
+ "generatedAt": "2026-08-01T16:52:53Z",
  "archive": "Unimetrix 1 — The Complete Transcripts",
  "base": "https://archive.unimetrix1.online",
- "sessionCount": 70,
+ "sessionCount": 71,
  "dateRange": "2017–2026",
  "sessions": [
   {
@@ -2668,6 +2668,35 @@
    "url": "https://archive.unimetrix1.online/sessions/2025-01-23-session-with-unimetrix-1/",
    "markdown": "https://archive.unimetrix1.online/md/2025-01-23-session-with-unimetrix-1.md",
    "json": "https://archive.unimetrix1.online/api/v1/sessions/2025-01-23-session-with-unimetrix-1.json"
+  },
+  {
+   "sessionId": "UM1-2025-02-28",
+   "slug": "2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk",
+   "title": "The Nazca Crystal Skull & the Thoth Obelisk",
+   "date": "2025-02-28",
+   "year": "2025",
+   "speakers": [
+    "Nazca Teacher",
+    "James Rink",
+    "Kosol Ouch"
+   ],
+   "wordCount": 1011,
+   "topics": [
+    "kosol-ouch",
+    "atlantis",
+    "james-rink",
+    "subtle-bodies",
+    "crystal-technology",
+    "unimetrix-1",
+    "anunnaki",
+    "super-soldiers",
+    "teleportation",
+    "manifestation",
+    "avian-race"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk/",
+   "markdown": "https://archive.unimetrix1.online/md/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk.json"
   },
   {
    "sessionId": "UM1-2025-03-28",
