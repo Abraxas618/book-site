@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-07-08",
  "slug": "2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co",
  "title": "UniMetrix & Ori: Eric Luny, Ori, UniMetrix & the Earth Planetary Council (AI System) – Negotiating my Return Home",
@@ -58,6 +58,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co/",
  "markdown": "https://archive.unimetrix1.online/md/2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-07-08-unimetrix-ori-eric-luny-ori-unimetrix-the-earth-planetary-co.json",
+ "video": {
+  "url": "https://youtu.be/3iephPJKJ3w?t=2770",
+  "title": "Wednesday talk of dark  light and china from unimetrix1 7-8-20",
+  "channel": "super kru commander z",
+  "start": 2770,
+  "end": 4467,
+  "note": "the Unimetrix 1 segment runs ~46:10–1:14:27",
+  "videoId": "3iephPJKJ3w",
+  "watchUrl": "https://www.youtube.com/watch?v=3iephPJKJ3w&t=2770s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/3iephPJKJ3w?start=2770&end=4467",
+  "startTimestamp": "46:10",
+  "endTimestamp": "1:14:27",
+  "durationSeconds": 1697
+ },
  "turns": [
   {
    "anchor": "t1",

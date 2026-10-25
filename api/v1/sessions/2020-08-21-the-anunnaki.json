@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-08-21",
  "slug": "2020-08-21-the-anunnaki",
  "title": "The Anunnaki",
@@ -51,6 +51,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-08-21-the-anunnaki/",
  "markdown": "https://archive.unimetrix1.online/md/2020-08-21-the-anunnaki.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-08-21-the-anunnaki.json",
+ "video": {
+  "url": "https://youtu.be/GdSI9jJMzpA?t=5194",
+  "title": "doing training in khmer 1st and english 2nd 8-21-20",
+  "channel": "super kru commander z",
+  "start": 5194,
+  "end": 6395,
+  "note": "the Unimetrix 1 segment runs ~1:26:34–1:46:35",
+  "videoId": "GdSI9jJMzpA",
+  "watchUrl": "https://www.youtube.com/watch?v=GdSI9jJMzpA&t=5194s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/GdSI9jJMzpA?start=5194&end=6395",
+  "startTimestamp": "1:26:34",
+  "endTimestamp": "1:46:35",
+  "durationSeconds": 1201
+ },
  "turns": [
   {
    "anchor": "t1",

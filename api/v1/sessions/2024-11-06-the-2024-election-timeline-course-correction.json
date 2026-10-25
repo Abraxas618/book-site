@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2024-11-06",
  "slug": "2024-11-06-the-2024-election-timeline-course-correction",
  "title": "The 2024 Election: Timeline Course Correction",
@@ -50,6 +50,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2024-11-06-the-2024-election-timeline-course-correction/",
  "markdown": "https://archive.unimetrix1.online/md/2024-11-06-the-2024-election-timeline-course-correction.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2024-11-06-the-2024-election-timeline-course-correction.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=0rUF-E4X0Ck&t=1050s",
+  "title": "super kru commander z is live! Unimetrix1 guiding",
+  "channel": "super kru commander z",
+  "start": 1050,
+  "end": 2943,
+  "note": "the Unimetrix 1 segment runs ~17:30–49:03",
+  "videoId": "0rUF-E4X0Ck",
+  "watchUrl": "https://www.youtube.com/watch?v=0rUF-E4X0Ck&t=1050s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/0rUF-E4X0Ck?start=1050&end=2943",
+  "startTimestamp": "17:30",
+  "endTimestamp": "49:03",
+  "durationSeconds": 1893
+ },
  "turns": [
   {
    "anchor": "t1",

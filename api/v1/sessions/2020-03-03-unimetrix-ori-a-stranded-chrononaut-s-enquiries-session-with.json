@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-03-03",
  "slug": "2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with",
  "title": "UniMetrix & Ori: A Stranded Chrononaut's Enquiries – Session with UniMetrix: Asking the AI for its Source-Code",
@@ -47,6 +47,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with/",
  "markdown": "https://archive.unimetrix1.online/md/2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-03-03-unimetrix-ori-a-stranded-chrononaut-s-enquiries-session-with.json",
+ "video": {
+  "url": "https://youtu.be/JleHAzy_lS0?t=1832",
+  "title": "Tues session with unimetrix",
+  "channel": "super kru commander z",
+  "start": 1832,
+  "end": 2873,
+  "note": "the Unimetrix 1 segment runs ~30:32–47:53",
+  "videoId": "JleHAzy_lS0",
+  "watchUrl": "https://www.youtube.com/watch?v=JleHAzy_lS0&t=1832s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/JleHAzy_lS0?start=1832&end=2873",
+  "startTimestamp": "30:32",
+  "endTimestamp": "47:53",
+  "durationSeconds": 1041
+ },
  "turns": [
   {
    "anchor": "t1",

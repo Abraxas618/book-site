@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2023-12-23",
  "slug": "2023-12-23-nesara-gesara-first-contact",
  "title": "NESARA / GESARA & First Contact",
@@ -85,6 +85,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2023-12-23-nesara-gesara-first-contact/",
  "markdown": "https://archive.unimetrix1.online/md/2023-12-23-nesara-gesara-first-contact.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2023-12-23-nesara-gesara-first-contact.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=OKDtQw-YTcQ&t=2555s",
+  "title": "super kru commander z is talking on Nasara & Gsara on AutoDoctoken",
+  "channel": "super kru commander z",
+  "start": 2555,
+  "end": 6149,
+  "note": "the Unimetrix 1 segment runs ~42:35–1:42:29",
+  "videoId": "OKDtQw-YTcQ",
+  "watchUrl": "https://www.youtube.com/watch?v=OKDtQw-YTcQ&t=2555s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/OKDtQw-YTcQ?start=2555&end=6149",
+  "startTimestamp": "42:35",
+  "endTimestamp": "1:42:29",
+  "durationSeconds": 3594
+ },
  "turns": [
   {
    "anchor": "t1",

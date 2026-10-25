@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2021-02-08",
  "slug": "2021-02-08-the-bermuda-triangle",
  "title": "The Bermuda Triangle",
@@ -49,6 +49,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2021-02-08-the-bermuda-triangle/",
  "markdown": "https://archive.unimetrix1.online/md/2021-02-08-the-bermuda-triangle.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-02-08-the-bermuda-triangle.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=GAz2zwOZvyg&t=6401s",
+  "title": "English/Khmer training-4,medbed and stunn gun 02-08-21",
+  "channel": "super kru commander z",
+  "start": 6401,
+  "end": 6747,
+  "note": "the Unimetrix 1 segment runs ~1:46:41–1:52:27",
+  "videoId": "GAz2zwOZvyg",
+  "watchUrl": "https://www.youtube.com/watch?v=GAz2zwOZvyg&t=6401s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/GAz2zwOZvyg?start=6401&end=6747",
+  "startTimestamp": "1:46:41",
+  "endTimestamp": "1:52:27",
+  "durationSeconds": 346
+ },
  "turns": [
   {
    "anchor": "t1",

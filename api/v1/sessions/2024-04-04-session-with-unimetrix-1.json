@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2024-04-04",
  "slug": "2024-04-04-session-with-unimetrix-1",
  "title": "Robert Kali Interview: Rainbow-Body Humanity & the April 8 Eclipse",
@@ -51,6 +51,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2024-04-04-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2024-04-04-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2024-04-04-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=vLXREonp5Tk&t=1087s",
+  "title": "super kru commander super soldier talk 04-04-2024",
+  "channel": "super kru commander z",
+  "start": 1087,
+  "end": 1610,
+  "note": "the Unimetrix 1 segment runs ~18:07–26:50",
+  "videoId": "vLXREonp5Tk",
+  "watchUrl": "https://www.youtube.com/watch?v=vLXREonp5Tk&t=1087s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/vLXREonp5Tk?start=1087&end=1610",
+  "startTimestamp": "18:07",
+  "endTimestamp": "26:50",
+  "durationSeconds": 523
+ },
  "turns": [
   {
    "anchor": "t1",

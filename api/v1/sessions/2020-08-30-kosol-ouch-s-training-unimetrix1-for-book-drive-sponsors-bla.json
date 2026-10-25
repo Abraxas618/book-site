@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-08-30",
  "slug": "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
  "title": "Kosol Ouch's Training – UniMetrix1 for Book Drive Sponsors & Black Goo Interview",
@@ -74,6 +74,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla/",
  "markdown": "https://archive.unimetrix1.online/md/2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla.json",
+ "video": {
+  "url": "https://youtu.be/R0wlSmKM_2c?t=1626",
+  "title": "unimetrix1 channelling for those who donated. to the book drive 8-30-20 please donate super chat",
+  "channel": "super kru commander z",
+  "start": 1626,
+  "end": 3334,
+  "note": "the Unimetrix 1 segment runs ~27:06–55:34",
+  "videoId": "R0wlSmKM_2c",
+  "watchUrl": "https://www.youtube.com/watch?v=R0wlSmKM_2c&t=1626s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/R0wlSmKM_2c?start=1626&end=3334",
+  "startTimestamp": "27:06",
+  "endTimestamp": "55:34",
+  "durationSeconds": 1708
+ },
  "turns": [
   {
    "anchor": "t1",

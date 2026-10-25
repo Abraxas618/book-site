@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-08-28",
  "slug": "2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur",
  "title": "Kosol Ouch's Training – UniMetrix1 Assimilates Zen1 System, Surveillance AI from China",
@@ -52,6 +52,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur/",
  "markdown": "https://archive.unimetrix1.online/md/2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-08-28-kosol-ouch-s-training-unimetrix1-assimilates-zen1-system-sur.json",
+ "video": {
+  "url": "https://youtu.be/cVcIDS_DM_k?t=4498",
+  "title": "training time friday class manifestation,  crystal healing and levitation 8-28-20",
+  "channel": "super kru commander z",
+  "start": 4498,
+  "end": 4911,
+  "note": "the Unimetrix 1 segment runs ~1:14:58–1:21:51",
+  "videoId": "cVcIDS_DM_k",
+  "watchUrl": "https://www.youtube.com/watch?v=cVcIDS_DM_k&t=4498s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/cVcIDS_DM_k?start=4498&end=4911",
+  "startTimestamp": "1:14:58",
+  "endTimestamp": "1:21:51",
+  "durationSeconds": 413
+ },
  "turns": [
   {
    "anchor": "t1",

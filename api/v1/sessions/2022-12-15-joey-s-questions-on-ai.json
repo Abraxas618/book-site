@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-12-15",
  "slug": "2022-12-15-joey-s-questions-on-ai",
  "title": "Joey's Questions on AI",
@@ -41,6 +41,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-12-15-joey-s-questions-on-ai/",
  "markdown": "https://archive.unimetrix1.online/md/2022-12-15-joey-s-questions-on-ai.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-12-15-joey-s-questions-on-ai.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=y6WPYSmX3f0",
+  "title": "Super kru commander Z reading ,healing and channelling 12-15-2022",
+  "channel": "super kru commander z",
+  "start": 900,
+  "end": 1297,
+  "note": "the Unimetrix 1 / Joey segment runs ~15:00-21:37",
+  "videoId": "y6WPYSmX3f0",
+  "watchUrl": "https://www.youtube.com/watch?v=y6WPYSmX3f0&t=900s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/y6WPYSmX3f0?start=900&end=1297",
+  "startTimestamp": "15:00",
+  "endTimestamp": "21:37",
+  "durationSeconds": 397
+ },
  "turns": [
   {
    "anchor": "t1",

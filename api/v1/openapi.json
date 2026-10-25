@@ -637,6 +637,17 @@
      "json": {
       "type": "string"
      },
+     "video": {
+      "anyOf": [
+       {
+        "$ref": "#/components/schemas/Recording"
+       },
+       {
+        "type": "null"
+       }
+      ],
+      "description": "verified original recording cued to this session, with ready-to-use clip links; null when none is verified"
+     },
      "turns": {
       "type": "array",
       "items": {
@@ -1103,6 +1114,26 @@
      },
      "session": {
       "type": "string"
+     },
+     "watchUrl": {
+      "type": "string",
+      "description": "YouTube watch URL that opens at the session segment (t=)"
+     },
+     "embedUrl": {
+      "type": "string",
+      "description": "youtube-nocookie embed URL cued to the segment (start=/end=)"
+     },
+     "startTimestamp": {
+      "type": "string",
+      "description": "segment start as [H:]MM:SS"
+     },
+     "endTimestamp": {
+      "type": "string",
+      "description": "segment end as [H:]MM:SS, when known"
+     },
+     "durationSeconds": {
+      "type": "integer",
+      "description": "segment length in seconds, when the end is known"
      }
     },
     "required": [

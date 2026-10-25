@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2021-04-30",
  "slug": "2021-04-30-india-s-second-wave-the-artificial-earth",
  "title": "India's Second Wave & the Artificial Earth",
@@ -63,6 +63,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2021-04-30-india-s-second-wave-the-artificial-earth/",
  "markdown": "https://archive.unimetrix1.online/md/2021-04-30-india-s-second-wave-the-artificial-earth.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-04-30-india-s-second-wave-the-artificial-earth.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=7MuoX1h1GFU",
+  "title": "Super soldier training and talk 04-30-21",
+  "channel": "super kru commander z",
+  "start": 1529,
+  "end": 2503,
+  "note": "the India's Second Wave / Artificial Earth segment runs ~25:29-41:43",
+  "videoId": "7MuoX1h1GFU",
+  "watchUrl": "https://www.youtube.com/watch?v=7MuoX1h1GFU&t=1529s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/7MuoX1h1GFU?start=1529&end=2503",
+  "startTimestamp": "25:29",
+  "endTimestamp": "41:43",
+  "durationSeconds": 974
+ },
  "turns": [
   {
    "anchor": "t1",

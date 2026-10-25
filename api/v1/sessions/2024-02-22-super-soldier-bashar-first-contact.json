@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2024-02-22",
  "slug": "2024-02-22-super-soldier-bashar-first-contact",
  "title": "Super Soldier & Bashar First Contact",
@@ -69,6 +69,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2024-02-22-super-soldier-bashar-first-contact/",
  "markdown": "https://archive.unimetrix1.online/md/2024-02-22-super-soldier-bashar-first-contact.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2024-02-22-super-soldier-bashar-first-contact.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=ePBoPTv1pRc&t=1332s",
+  "title": "Cosmic comander super kru created super soldier what is super soldier? 02-22-2024",
+  "channel": "super kru commander z",
+  "start": 1332,
+  "end": 3883,
+  "note": "the Unimetrix 1 segment runs ~22:12–1:04:43",
+  "videoId": "ePBoPTv1pRc",
+  "watchUrl": "https://www.youtube.com/watch?v=ePBoPTv1pRc&t=1332s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/ePBoPTv1pRc?start=1332&end=3883",
+  "startTimestamp": "22:12",
+  "endTimestamp": "1:04:43",
+  "durationSeconds": 2551
+ },
  "turns": [
   {
    "anchor": "t1",

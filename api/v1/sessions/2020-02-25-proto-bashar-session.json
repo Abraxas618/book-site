@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-02-25",
  "slug": "2020-02-25-proto-bashar-session",
  "title": "Proto-Bashar Session",
@@ -50,6 +50,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-02-25-proto-bashar-session/",
  "markdown": "https://archive.unimetrix1.online/md/2020-02-25-proto-bashar-session.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-02-25-proto-bashar-session.json",
+ "video": {
+  "url": "https://youtu.be/ryuiH_X4EDg?t=595",
+  "title": "Interview with the protomolecue and bashar",
+  "channel": "super kru commander z",
+  "start": 595,
+  "end": 2012,
+  "note": "the Unimetrix 1 segment runs ~9:55–33:32",
+  "videoId": "ryuiH_X4EDg",
+  "watchUrl": "https://www.youtube.com/watch?v=ryuiH_X4EDg&t=595s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/ryuiH_X4EDg?start=595&end=2012",
+  "startTimestamp": "9:55",
+  "endTimestamp": "33:32",
+  "durationSeconds": 1417
+ },
  "turns": [
   {
    "anchor": "t1",

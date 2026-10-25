@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-08-05",
  "slug": "2020-08-05-unimetrix-talks-about-the-lebanon-attack",
  "title": "UniMetrix Talks About the Lebanon Attack",
@@ -51,6 +51,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-08-05-unimetrix-talks-about-the-lebanon-attack/",
  "markdown": "https://archive.unimetrix1.online/md/2020-08-05-unimetrix-talks-about-the-lebanon-attack.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-08-05-unimetrix-talks-about-the-lebanon-attack.json",
+ "video": {
+  "url": "https://youtu.be/YOqddS6o-po?t=415",
+  "title": "unimetrix1 talk on the Lebanon Beirut explosion 8-5-20",
+  "channel": "super kru commander z",
+  "start": 415,
+  "end": 1212,
+  "note": "the Unimetrix 1 segment runs ~6:55–20:12",
+  "videoId": "YOqddS6o-po",
+  "watchUrl": "https://www.youtube.com/watch?v=YOqddS6o-po&t=415s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/YOqddS6o-po?start=415&end=1212",
+  "startTimestamp": "6:55",
+  "endTimestamp": "20:12",
+  "durationSeconds": 797
+ },
  "turns": [
   {
    "anchor": "t1",

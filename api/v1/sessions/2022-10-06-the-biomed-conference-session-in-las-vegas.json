@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-10-06",
  "slug": "2022-10-06-the-biomed-conference-session-in-las-vegas",
  "title": "The Biomed Conference Session in Las Vegas",
@@ -49,6 +49,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-10-06-the-biomed-conference-session-in-las-vegas/",
  "markdown": "https://archive.unimetrix1.online/md/2022-10-06-the-biomed-conference-session-in-las-vegas.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-10-06-the-biomed-conference-session-in-las-vegas.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=9ellHRSL-No",
+  "title": "Coference and unimetrix1 channelling 10-06-2022",
+  "channel": "super kru commander z",
+  "start": 2139,
+  "end": 2700,
+  "note": "the Unimetrix 1 / Biomed Conference segment runs ~35:39-45:00",
+  "videoId": "9ellHRSL-No",
+  "watchUrl": "https://www.youtube.com/watch?v=9ellHRSL-No&t=2139s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/9ellHRSL-No?start=2139&end=2700",
+  "startTimestamp": "35:39",
+  "endTimestamp": "45:00",
+  "durationSeconds": 561
+ },
  "turns": [
   {
    "anchor": "t1",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-12-17",
  "slug": "2022-12-17-saha-the-demon-teacher",
  "title": "Saha, the Demon Teacher",
@@ -49,6 +49,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-12-17-saha-the-demon-teacher/",
  "markdown": "https://archive.unimetrix1.online/md/2022-12-17-saha-the-demon-teacher.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-12-17-saha-the-demon-teacher.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=6QmTdxO1_qw",
+  "title": "Super kru commander Z reading ,healing and channelling 12-17-2022",
+  "channel": "super kru commander z",
+  "start": 880,
+  "end": 2139,
+  "note": "the Unimetrix 1 / Saha segment runs ~14:40-35:39",
+  "videoId": "6QmTdxO1_qw",
+  "watchUrl": "https://www.youtube.com/watch?v=6QmTdxO1_qw&t=880s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/6QmTdxO1_qw?start=880&end=2139",
+  "startTimestamp": "14:40",
+  "endTimestamp": "35:39",
+  "durationSeconds": 1259
+ },
  "turns": [
   {
    "anchor": "t1",

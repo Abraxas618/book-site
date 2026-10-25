@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-03-27",
  "slug": "2020-03-27-hawk-you-session",
  "title": "Hawk-You Session",
@@ -64,6 +64,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-03-27-hawk-you-session/",
  "markdown": "https://archive.unimetrix1.online/md/2020-03-27-hawk-you-session.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-03-27-hawk-you-session.json",
+ "video": {
+  "url": "https://youtu.be/w994mI7wbhI?t=3766",
+  "title": "Friday Interview With Hawk You with unimetrix",
+  "channel": "super kru commander z",
+  "start": 3766,
+  "end": 4807,
+  "note": "the Unimetrix 1 segment runs ~1:02:46–1:20:07",
+  "videoId": "w994mI7wbhI",
+  "watchUrl": "https://www.youtube.com/watch?v=w994mI7wbhI&t=3766s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/w994mI7wbhI?start=3766&end=4807",
+  "startTimestamp": "1:02:46",
+  "endTimestamp": "1:20:07",
+  "durationSeconds": 1041
+ },
  "turns": [
   {
    "anchor": "t1",

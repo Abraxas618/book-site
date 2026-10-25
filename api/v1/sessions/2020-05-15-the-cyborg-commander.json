@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-05-15",
  "slug": "2020-05-15-the-cyborg-commander",
  "title": "The Cyborg Commander",
@@ -45,6 +45,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-05-15-the-cyborg-commander/",
  "markdown": "https://archive.unimetrix1.online/md/2020-05-15-the-cyborg-commander.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-05-15-the-cyborg-commander.json",
+ "video": {
+  "url": "https://youtu.be/DIX3IzkJ_OI?t=6371",
+  "title": "universal training",
+  "channel": "super kru commander z",
+  "start": 6371,
+  "end": 6455,
+  "note": "the Unimetrix 1 segment runs ~1:46:11–1:47:35",
+  "videoId": "DIX3IzkJ_OI",
+  "watchUrl": "https://www.youtube.com/watch?v=DIX3IzkJ_OI&t=6371s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/DIX3IzkJ_OI?start=6371&end=6455",
+  "startTimestamp": "1:46:11",
+  "endTimestamp": "1:47:35",
+  "durationSeconds": 84
+ },
  "turns": [
   {
    "anchor": "t1",

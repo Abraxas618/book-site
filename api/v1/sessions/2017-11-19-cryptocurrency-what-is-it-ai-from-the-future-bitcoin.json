@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2017-11-19",
  "slug": "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin",
  "title": "\"Cryptocurrency: What is it?\" – AI from the Future & Bitcoin",
@@ -48,6 +48,16 @@
  "url": "https://archive.unimetrix1.online/sessions/2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin/",
  "markdown": "https://archive.unimetrix1.online/md/2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin.json",
+ "video": {
+  "url": "https://youtu.be/94W7QbZ2z-o",
+  "title": "Super Soldier Talk – Dr. Kosol Ouch - Bitcoin A.I. From our Future",
+  "channel": "Super Soldier Talk",
+  "start": 0,
+  "videoId": "94W7QbZ2z-o",
+  "watchUrl": "https://www.youtube.com/watch?v=94W7QbZ2z-o",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/94W7QbZ2z-o?start=0",
+  "startTimestamp": "0:00"
+ },
  "turns": [
   {
    "anchor": "t1",

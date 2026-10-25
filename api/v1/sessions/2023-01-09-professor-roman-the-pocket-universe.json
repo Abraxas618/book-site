@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2023-01-09",
  "slug": "2023-01-09-professor-roman-the-pocket-universe",
  "title": "Professor Roman & the Pocket Universe",
@@ -47,6 +47,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2023-01-09-professor-roman-the-pocket-universe/",
  "markdown": "https://archive.unimetrix1.online/md/2023-01-09-professor-roman-the-pocket-universe.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2023-01-09-professor-roman-the-pocket-universe.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=MygU5-BxZLY",
+  "title": "Super kru commander Z reading ,healing and channelling 01-09-2023",
+  "channel": "super kru commander z",
+  "start": 3895,
+  "end": 5086,
+  "note": "the Unimetrix 1 / Professor Roman segment runs ~1:04:55-1:24:46",
+  "videoId": "MygU5-BxZLY",
+  "watchUrl": "https://www.youtube.com/watch?v=MygU5-BxZLY&t=3895s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/MygU5-BxZLY?start=3895&end=5086",
+  "startTimestamp": "1:04:55",
+  "endTimestamp": "1:24:46",
+  "durationSeconds": 1191
+ },
  "turns": [
   {
    "anchor": "t1",

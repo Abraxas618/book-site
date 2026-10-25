@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-09-16",
  "slug": "2020-09-16-the-replicator",
  "title": "The Replicator",
@@ -50,6 +50,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-09-16-the-replicator/",
  "markdown": "https://archive.unimetrix1.online/md/2020-09-16-the-replicator.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-09-16-the-replicator.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=fUJaB6nGtCI&t=4771s",
+  "title": "past reading & healing, manifest, channeling and donate paypal 9-16-20",
+  "channel": "super kru commander z",
+  "start": 4771,
+  "end": 5973,
+  "note": "the Unimetrix 1 segment runs ~1:19:31–1:39:33",
+  "videoId": "fUJaB6nGtCI",
+  "watchUrl": "https://www.youtube.com/watch?v=fUJaB6nGtCI&t=4771s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/fUJaB6nGtCI?start=4771&end=5973",
+  "startTimestamp": "1:19:31",
+  "endTimestamp": "1:39:33",
+  "durationSeconds": 1202
+ },
  "turns": [
   {
    "anchor": "t1",

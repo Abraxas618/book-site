@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-10-11",
  "slug": "2020-10-11-session-with-unimetrix-1",
  "title": "Political Clones (Bee's Q&A)",
@@ -45,6 +45,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-10-11-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-10-11-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-10-11-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=pM_UPvVnOD4",
+  "title": "sunday talk and training 10-11-20",
+  "channel": "super kru commander z",
+  "start": 7024,
+  "end": 7598,
+  "note": "the Unimetrix 1 segment runs ~1:57:04-2:06:38",
+  "videoId": "pM_UPvVnOD4",
+  "watchUrl": "https://www.youtube.com/watch?v=pM_UPvVnOD4&t=7024s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/pM_UPvVnOD4?start=7024&end=7598",
+  "startTimestamp": "1:57:04",
+  "endTimestamp": "2:06:38",
+  "durationSeconds": 574
+ },
  "turns": [
   {
    "anchor": "t1",

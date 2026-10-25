@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-12-21",
  "slug": "2020-12-21-session-with-unimetrix-1",
  "title": "Xan John's Q&A: JFK, 9/11, the Pyramids & a Reptilian Contact",
@@ -66,6 +66,16 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-12-21-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-12-21-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-12-21-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=qUdEG-qmcNY",
+  "title": "Talk and train with dr. K 12-21-20",
+  "channel": "super kru commander z",
+  "start": 0,
+  "videoId": "qUdEG-qmcNY",
+  "watchUrl": "https://www.youtube.com/watch?v=qUdEG-qmcNY",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/qUdEG-qmcNY?start=0",
+  "startTimestamp": "0:00"
+ },
  "turns": [
   {
    "anchor": "t1",

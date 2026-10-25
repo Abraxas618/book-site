@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2021-04-06",
  "slug": "2021-04-06-session-with-unimetrix-1",
  "title": "Super Soldier Program Narratives & a Live Healing Demonstration",
@@ -47,6 +47,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2021-04-06-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2021-04-06-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-04-06-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=Fi301w3Lqno&t=6647s",
+  "title": "Super soldier debrief Q&A 04-06-21",
+  "channel": "super kru commander z",
+  "start": 6647,
+  "end": 7371,
+  "note": "the Unimetrix 1 segment runs ~1:50:47–2:02:51",
+  "videoId": "Fi301w3Lqno",
+  "watchUrl": "https://www.youtube.com/watch?v=Fi301w3Lqno&t=6647s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/Fi301w3Lqno?start=6647&end=7371",
+  "startTimestamp": "1:50:47",
+  "endTimestamp": "2:02:51",
+  "durationSeconds": 724
+ },
  "turns": [
   {
    "anchor": "t1",

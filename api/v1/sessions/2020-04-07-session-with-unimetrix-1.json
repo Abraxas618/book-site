@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-04-07",
  "slug": "2020-04-07-session-with-unimetrix-1",
  "title": "Morocco's Future, Post-Covid Powers & the Baramay Protocol (Salim)",
@@ -82,6 +82,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-04-07-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-04-07-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-04-07-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://youtu.be/VoFLXKl65HA?t=3932",
+  "title": "Tuesday Interview",
+  "channel": "super kru commander z",
+  "start": 3932,
+  "end": 5902,
+  "note": "the Unimetrix 1 segment runs ~1:05:32–1:38:22",
+  "videoId": "VoFLXKl65HA",
+  "watchUrl": "https://www.youtube.com/watch?v=VoFLXKl65HA&t=3932s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/VoFLXKl65HA?start=3932&end=5902",
+  "startTimestamp": "1:05:32",
+  "endTimestamp": "1:38:22",
+  "durationSeconds": 1970
+ },
  "turns": [
   {
    "anchor": "t1",

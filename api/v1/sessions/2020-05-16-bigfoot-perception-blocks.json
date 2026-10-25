@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-05-16",
  "slug": "2020-05-16-bigfoot-perception-blocks",
  "title": "Bigfoot & Perception Blocks",
@@ -47,6 +47,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-05-16-bigfoot-perception-blocks/",
  "markdown": "https://archive.unimetrix1.online/md/2020-05-16-bigfoot-perception-blocks.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-05-16-bigfoot-perception-blocks.json",
+ "video": {
+  "url": "https://youtu.be/anwqF5RJSnY?t=5481",
+  "title": "Talking to big foot and the sucker",
+  "channel": "super kru commander z",
+  "start": 5481,
+  "end": 6238,
+  "note": "the Unimetrix 1 segment runs ~1:31:21–1:43:58",
+  "videoId": "anwqF5RJSnY",
+  "watchUrl": "https://www.youtube.com/watch?v=anwqF5RJSnY&t=5481s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/anwqF5RJSnY?start=5481&end=6238",
+  "startTimestamp": "1:31:21",
+  "endTimestamp": "1:43:58",
+  "durationSeconds": 757
+ },
  "turns": [
   {
    "anchor": "t1",

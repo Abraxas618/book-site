@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-03-01",
  "slug": "2022-03-01-assistant-1-s-russia-ukraine-report",
  "title": "Assistant 1's Russia-Ukraine Report",
@@ -44,6 +44,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-03-01-assistant-1-s-russia-ukraine-report/",
  "markdown": "https://archive.unimetrix1.online/md/2022-03-01-assistant-1-s-russia-ukraine-report.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-03-01-assistant-1-s-russia-ukraine-report.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=brrgFnhQNb0",
+  "title": "Super Kru Commander Z's Personal Meeting 03-01-2022",
+  "channel": "super kru commander z",
+  "start": 2361,
+  "end": 3597,
+  "note": "the Assistant 1 Russia-Ukraine report runs ~39:21-59:57",
+  "videoId": "brrgFnhQNb0",
+  "watchUrl": "https://www.youtube.com/watch?v=brrgFnhQNb0&t=2361s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/brrgFnhQNb0?start=2361&end=3597",
+  "startTimestamp": "39:21",
+  "endTimestamp": "59:57",
+  "durationSeconds": 1236
+ },
  "turns": [
   {
    "anchor": "t1",

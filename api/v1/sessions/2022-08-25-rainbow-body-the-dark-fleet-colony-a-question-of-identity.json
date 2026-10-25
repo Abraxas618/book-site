@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-08-25",
  "slug": "2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity",
  "title": "Rainbow Body, the Dark Fleet Colony & a Question of Identity",
@@ -60,6 +60,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity/",
  "markdown": "https://archive.unimetrix1.online/md/2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=Uc-EExExTiw",
+  "title": "Super kru commander z English unimetrix1 show 08-25-2022",
+  "channel": "super kru commander z",
+  "start": 3465,
+  "end": 5158,
+  "note": "the Unimetrix 1 segment runs ~57:45-1:25:58",
+  "videoId": "Uc-EExExTiw",
+  "watchUrl": "https://www.youtube.com/watch?v=Uc-EExExTiw&t=3465s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/Uc-EExExTiw?start=3465&end=5158",
+  "startTimestamp": "57:45",
+  "endTimestamp": "1:25:58",
+  "durationSeconds": 1693
+ },
  "turns": [
   {
    "anchor": "t1",

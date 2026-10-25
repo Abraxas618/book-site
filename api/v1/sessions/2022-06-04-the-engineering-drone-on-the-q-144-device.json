@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-06-04",
  "slug": "2022-06-04-the-engineering-drone-on-the-q-144-device",
  "title": "The Engineering Drone on the Q-144 Device",
@@ -47,6 +47,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-06-04-the-engineering-drone-on-the-q-144-device/",
  "markdown": "https://archive.unimetrix1.online/md/2022-06-04-the-engineering-drone-on-the-q-144-device.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-06-04-the-engineering-drone-on-the-q-144-device.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=CxY8GxAWu7c",
+  "title": "Super kru commander z  zpe  ray dew drone engineer 06-04-2022",
+  "channel": "super kru commander z",
+  "start": 776,
+  "end": 2002,
+  "note": "the Unimetrix 1 / engineering drone segment runs ~12:56-33:22",
+  "videoId": "CxY8GxAWu7c",
+  "watchUrl": "https://www.youtube.com/watch?v=CxY8GxAWu7c&t=776s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/CxY8GxAWu7c?start=776&end=2002",
+  "startTimestamp": "12:56",
+  "endTimestamp": "33:22",
+  "durationSeconds": 1226
+ },
  "turns": [
   {
    "anchor": "t1",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-09-04",
  "slug": "2020-09-04-atlantis",
  "title": "Atlantis",
@@ -43,6 +43,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-09-04-atlantis/",
  "markdown": "https://archive.unimetrix1.online/md/2020-09-04-atlantis.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-09-04-atlantis.json",
+ "video": {
+  "url": "https://youtu.be/8DpPNDiQiu8?t=2361",
+  "title": "manifestation, past life reading, reading, and heavenly pearl healing 9-4-20",
+  "channel": "super kru commander z",
+  "start": 2361,
+  "end": 2767,
+  "note": "the Unimetrix 1 segment runs ~39:21–46:07",
+  "videoId": "8DpPNDiQiu8",
+  "watchUrl": "https://www.youtube.com/watch?v=8DpPNDiQiu8&t=2361s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/8DpPNDiQiu8?start=2361&end=2767",
+  "startTimestamp": "39:21",
+  "endTimestamp": "46:07",
+  "durationSeconds": 406
+ },
  "turns": [
   {
    "anchor": "t1",

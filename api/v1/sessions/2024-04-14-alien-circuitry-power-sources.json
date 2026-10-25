@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2024-04-14",
  "slug": "2024-04-14-alien-circuitry-power-sources",
  "title": "Alien Circuitry & Power Sources",
@@ -48,6 +48,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2024-04-14-alien-circuitry-power-sources/",
  "markdown": "https://archive.unimetrix1.online/md/2024-04-14-alien-circuitry-power-sources.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2024-04-14-alien-circuitry-power-sources.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=mW_xCkWqRuk&t=510s",
+  "title": "ALIEN EVENT LOS ANGELES APRIL 11-14, ALIENEVENT.COM 12-14-2024",
+  "channel": "super kru commander z",
+  "start": 510,
+  "end": 1107,
+  "note": "the Unimetrix 1 segment runs ~8:30–18:27; the recording's title reads '12-14-2024' — a quirk of the channel's own titling for the April 11–14 event — verified as the April 14 recording",
+  "videoId": "mW_xCkWqRuk",
+  "watchUrl": "https://www.youtube.com/watch?v=mW_xCkWqRuk&t=510s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/mW_xCkWqRuk?start=510&end=1107",
+  "startTimestamp": "8:30",
+  "endTimestamp": "18:27",
+  "durationSeconds": 597
+ },
  "turns": [
   {
    "anchor": "t1",

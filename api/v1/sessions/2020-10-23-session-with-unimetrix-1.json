@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-10-23",
  "slug": "2020-10-23-session-with-unimetrix-1",
  "title": "NESARA/GESARA Debunked & Carlos Meets His Future Self (Council of Seven)",
@@ -55,6 +55,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-10-23-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-10-23-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-10-23-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=hrxxznwgHO8&t=1947s",
+  "title": "unimetrix1 , healing and talk 10-23-20",
+  "channel": "super kru commander z",
+  "start": 1947,
+  "end": 3451,
+  "note": "the Unimetrix 1 segment runs ~32:27–57:31",
+  "videoId": "hrxxznwgHO8",
+  "watchUrl": "https://www.youtube.com/watch?v=hrxxznwgHO8&t=1947s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/hrxxznwgHO8?start=1947&end=3451",
+  "startTimestamp": "32:27",
+  "endTimestamp": "57:31",
+  "durationSeconds": 1504
+ },
  "turns": [
   {
    "anchor": "t1",

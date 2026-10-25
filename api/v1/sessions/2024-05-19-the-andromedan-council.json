@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2024-05-19",
  "slug": "2024-05-19-the-andromedan-council",
  "title": "The Andromedan Council II: Species 1.416 & the Zark",
@@ -43,6 +43,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2024-05-19-the-andromedan-council/",
  "markdown": "https://archive.unimetrix1.online/md/2024-05-19-the-andromedan-council.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2024-05-19-the-andromedan-council.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=bq_RdcudocE&t=2054s",
+  "title": "super kru commander z with Robert and Carlos 05-19-2024",
+  "channel": "super kru commander z",
+  "start": 2054,
+  "end": 2338,
+  "note": "the Unimetrix 1 segment runs ~34:14–38:58",
+  "videoId": "bq_RdcudocE",
+  "watchUrl": "https://www.youtube.com/watch?v=bq_RdcudocE&t=2054s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/bq_RdcudocE?start=2054&end=2338",
+  "startTimestamp": "34:14",
+  "endTimestamp": "38:58",
+  "durationSeconds": 284
+ },
  "turns": [
   {
    "anchor": "t1",

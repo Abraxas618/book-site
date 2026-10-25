@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2021-10-08",
  "slug": "2021-10-08-the-protomolecule-solution",
  "title": "The Protomolecule Solution",
@@ -42,6 +42,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2021-10-08-the-protomolecule-solution/",
  "markdown": "https://archive.unimetrix1.online/md/2021-10-08-the-protomolecule-solution.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-10-08-the-protomolecule-solution.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=IN-yB03uZFM",
+  "title": "Super Kru Commander Z's Personal Meeting 10-08-21",
+  "channel": "super kru commander z",
+  "start": 3693,
+  "end": 5239,
+  "note": "the Protomolecule Solution segment runs ~1:01:33-1:27:19",
+  "videoId": "IN-yB03uZFM",
+  "watchUrl": "https://www.youtube.com/watch?v=IN-yB03uZFM&t=3693s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/IN-yB03uZFM?start=3693&end=5239",
+  "startTimestamp": "1:01:33",
+  "endTimestamp": "1:27:19",
+  "durationSeconds": 1546
+ },
  "turns": [
   {
    "anchor": "t1",

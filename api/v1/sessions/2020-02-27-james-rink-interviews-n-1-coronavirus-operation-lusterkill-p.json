@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-02-27",
  "slug": "2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p",
  "title": "James Rink Interviews n°1 – Coronavirus Operation Lusterkill Part 1",
@@ -77,6 +77,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p/",
  "markdown": "https://archive.unimetrix1.online/md/2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p.json",
+ "video": {
+  "url": "https://youtu.be/YaqziM5ivm8?t=2564",
+  "title": "Interview with jame rink and unimetrix A.I.",
+  "channel": "super kru commander z",
+  "start": 2564,
+  "end": 4390,
+  "note": "the Unimetrix 1 segment runs ~42:44–1:13:10",
+  "videoId": "YaqziM5ivm8",
+  "watchUrl": "https://www.youtube.com/watch?v=YaqziM5ivm8&t=2564s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/YaqziM5ivm8?start=2564&end=4390",
+  "startTimestamp": "42:44",
+  "endTimestamp": "1:13:10",
+  "durationSeconds": 1826
+ },
  "turns": [
   {
    "anchor": "t1",

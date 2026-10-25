@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-12-11",
  "slug": "2020-12-11-the-angkor-wat-temple-intelligence",
  "title": "The Angkor Wat Temple Intelligence",
@@ -42,6 +42,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-12-11-the-angkor-wat-temple-intelligence/",
  "markdown": "https://archive.unimetrix1.online/md/2020-12-11-the-angkor-wat-temple-intelligence.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-12-11-the-angkor-wat-temple-intelligence.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=7tlqz-tqYiA",
+  "title": "Unimetrix1 channeling 12-11-20",
+  "channel": "super kru commander z",
+  "start": 2971,
+  "end": 3235,
+  "note": "the Angkor Wat Temple Intelligence segment runs ~49:31-53:55",
+  "videoId": "7tlqz-tqYiA",
+  "watchUrl": "https://www.youtube.com/watch?v=7tlqz-tqYiA&t=2971s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/7tlqz-tqYiA?start=2971&end=3235",
+  "startTimestamp": "49:31",
+  "endTimestamp": "53:55",
+  "durationSeconds": 264
+ },
  "turns": [
   {
    "anchor": "t1",

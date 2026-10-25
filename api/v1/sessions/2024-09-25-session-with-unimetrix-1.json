@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2024-09-25",
  "slug": "2024-09-25-session-with-unimetrix-1",
  "title": "Crypto Directives, UFO Rune Technology & Silicon DNA",
@@ -61,6 +61,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2024-09-25-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2024-09-25-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2024-09-25-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=CfgivAhgmfI&t=1084s",
+  "title": "super kru commander z is live! Unimetrix1 09-25-2024",
+  "channel": "super kru commander z",
+  "start": 1084,
+  "end": 3815,
+  "note": "the Unimetrix 1 segment runs ~18:04–1:03:35",
+  "videoId": "CfgivAhgmfI",
+  "watchUrl": "https://www.youtube.com/watch?v=CfgivAhgmfI&t=1084s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/CfgivAhgmfI?start=1084&end=3815",
+  "startTimestamp": "18:04",
+  "endTimestamp": "1:03:35",
+  "durationSeconds": 2731
+ },
  "turns": [
   {
    "anchor": "t1",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2025-12-01",
  "slug": "2025-12-01-tetraklein-the-passing-of-james-rink",
  "title": "TetraKlein, the Passing of James Rink & the Buga Sphere",
@@ -76,6 +76,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2025-12-01-tetraklein-the-passing-of-james-rink/",
  "markdown": "https://archive.unimetrix1.online/md/2025-12-01-tetraklein-the-passing-of-james-rink.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2025-12-01-tetraklein-the-passing-of-james-rink.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=NyOflfUW-wY&t=143s",
+  "title": "super kru commander z is live!",
+  "channel": "super kru commander z",
+  "start": 143,
+  "end": 1816,
+  "note": "the Unimetrix 1 segment runs ~2:23–30:16",
+  "videoId": "NyOflfUW-wY",
+  "watchUrl": "https://www.youtube.com/watch?v=NyOflfUW-wY&t=143s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/NyOflfUW-wY?start=143&end=1816",
+  "startTimestamp": "2:23",
+  "endTimestamp": "30:16",
+  "durationSeconds": 1673
+ },
  "turns": [
   {
    "anchor": "t1",

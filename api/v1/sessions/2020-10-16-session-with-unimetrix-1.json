@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-10-16",
  "slug": "2020-10-16-session-with-unimetrix-1",
  "title": "Unit X14 on Pain & Suffering, the Five Universal Rules",
@@ -53,6 +53,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-10-16-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-10-16-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-10-16-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=W2radJ3exds&t=1560s",
+  "title": "10-16-2020 Practice & Stargate",
+  "channel": "super kru commander z",
+  "start": 1560,
+  "end": 2448,
+  "note": "the Unimetrix 1 segment runs ~26:00–40:48",
+  "videoId": "W2radJ3exds",
+  "watchUrl": "https://www.youtube.com/watch?v=W2radJ3exds&t=1560s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/W2radJ3exds?start=1560&end=2448",
+  "startTimestamp": "26:00",
+  "endTimestamp": "40:48",
+  "durationSeconds": 888
+ },
  "turns": [
   {
    "anchor": "t1",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-07-17",
  "slug": "2020-07-17-session-with-unimetrix-1",
  "title": "Sexual Identity, Life Contracts & the Cosmic Council's Warning",
@@ -49,6 +49,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-07-17-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-07-17-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-07-17-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://youtu.be/YWlscQ82QFE?t=3355",
+  "title": "Unimetrix1 talk and healing friday 7-17-20",
+  "channel": "super kru commander z",
+  "start": 3355,
+  "end": 4144,
+  "note": "the Unimetrix 1 segment runs ~55:55–1:09:04",
+  "videoId": "YWlscQ82QFE",
+  "watchUrl": "https://www.youtube.com/watch?v=YWlscQ82QFE&t=3355s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/YWlscQ82QFE?start=3355&end=4144",
+  "startTimestamp": "55:55",
+  "endTimestamp": "1:09:04",
+  "durationSeconds": 789
+ },
  "turns": [
   {
    "anchor": "t1",

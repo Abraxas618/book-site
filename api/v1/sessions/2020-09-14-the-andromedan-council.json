@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-09-14",
  "slug": "2020-09-14-the-andromedan-council",
  "title": "The Andromedan Council",
@@ -60,6 +60,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-09-14-the-andromedan-council/",
  "markdown": "https://archive.unimetrix1.online/md/2020-09-14-the-andromedan-council.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-09-14-the-andromedan-council.json",
+ "video": {
+  "url": "https://youtu.be/DUi-ea39Tww?t=4804",
+  "title": "past life read & healing, unimetrix & donate super chat  9-14-20",
+  "channel": "super kru commander z",
+  "start": 4804,
+  "end": 6655,
+  "note": "the Unimetrix 1 segment runs ~1:20:04–1:50:55",
+  "videoId": "DUi-ea39Tww",
+  "watchUrl": "https://www.youtube.com/watch?v=DUi-ea39Tww&t=4804s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/DUi-ea39Tww?start=4804&end=6655",
+  "startTimestamp": "1:20:04",
+  "endTimestamp": "1:50:55",
+  "durationSeconds": 1851
+ },
  "turns": [
   {
    "anchor": "t1",

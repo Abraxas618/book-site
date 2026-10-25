@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2021-01-01",
  "slug": "2021-01-01-session-with-unimetrix-1",
  "title": "Starseed Psyop, the Digital Health Pass & Racial Psychology",
@@ -63,6 +63,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2021-01-01-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2021-01-01-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-01-01-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=Dpi3MNsRWKs&t=4287s",
+  "title": "English/Khmer training and talk 01-01-21",
+  "channel": "super kru commander z",
+  "start": 4287,
+  "end": 5687,
+  "note": "the Unimetrix 1 segment runs ~1:11:27–1:34:47",
+  "videoId": "Dpi3MNsRWKs",
+  "watchUrl": "https://www.youtube.com/watch?v=Dpi3MNsRWKs&t=4287s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/Dpi3MNsRWKs?start=4287&end=5687",
+  "startTimestamp": "1:11:27",
+  "endTimestamp": "1:34:47",
+  "durationSeconds": 1400
+ },
  "turns": [
   {
    "anchor": "t1",

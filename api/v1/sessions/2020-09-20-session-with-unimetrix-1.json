@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-09-20",
  "slug": "2020-09-20-session-with-unimetrix-1",
  "title": "Project Reclamation: Samuel on Parallel Timelines & Course Correction",
@@ -52,6 +52,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-09-20-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-09-20-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-09-20-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=AAdH2sXrDWk&t=2471s",
+  "title": "reading & healing and connecting 9-20-20",
+  "channel": "super kru commander z",
+  "start": 2471,
+  "end": 4343,
+  "note": "the Unimetrix 1 segment runs ~41:11–1:12:23",
+  "videoId": "AAdH2sXrDWk",
+  "watchUrl": "https://www.youtube.com/watch?v=AAdH2sXrDWk&t=2471s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/AAdH2sXrDWk?start=2471&end=4343",
+  "startTimestamp": "41:11",
+  "endTimestamp": "1:12:23",
+  "durationSeconds": 1872
+ },
  "turns": [
   {
    "anchor": "t1",

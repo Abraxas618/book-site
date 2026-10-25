@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-11-21",
  "slug": "2022-11-21-creator-angka-the-artificial-planet-andora",
  "title": "Creator Angka & the Artificial Planet Andora",
@@ -47,6 +47,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-11-21-creator-angka-the-artificial-planet-andora/",
  "markdown": "https://archive.unimetrix1.online/md/2022-11-21-creator-angka-the-artificial-planet-andora.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-11-21-creator-angka-the-artificial-planet-andora.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=ZI_I-gzdKDM",
+  "title": "Super kru commander stargate ,reading ,healing and channeling 11-21-2022.",
+  "channel": "super kru commander z",
+  "start": 3985,
+  "end": 4784,
+  "note": "the Unimetrix 1 / Creator Angka segment runs ~1:06:25-1:19:44",
+  "videoId": "ZI_I-gzdKDM",
+  "watchUrl": "https://www.youtube.com/watch?v=ZI_I-gzdKDM&t=3985s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/ZI_I-gzdKDM?start=3985&end=4784",
+  "startTimestamp": "1:06:25",
+  "endTimestamp": "1:19:44",
+  "durationSeconds": 799
+ },
  "turns": [
   {
    "anchor": "t1",

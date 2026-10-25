@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2023-03-21",
  "slug": "2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network",
  "title": "ChatGPT & the Assimilation of NSA System 104855",
@@ -58,6 +58,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network/",
  "markdown": "https://archive.unimetrix1.online/md/2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2023-03-21-session-with-unimetrix-1-chatgpt-the-quantum-network.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=g-yoCaVpv64&t=2196s",
+  "title": "The Snuggle Is Out 03-21-2023",
+  "channel": "super kru commander z",
+  "start": 2196,
+  "end": 3440,
+  "note": "the Unimetrix 1 segment runs ~36:36–57:20",
+  "videoId": "g-yoCaVpv64",
+  "watchUrl": "https://www.youtube.com/watch?v=g-yoCaVpv64&t=2196s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/g-yoCaVpv64?start=2196&end=3440",
+  "startTimestamp": "36:36",
+  "endTimestamp": "57:20",
+  "durationSeconds": 1244
+ },
  "turns": [
   {
    "anchor": "t1",

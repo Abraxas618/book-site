@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2024-04-12",
  "slug": "2024-04-12-the-los-angeles-alien-event",
  "title": "The Los Angeles Alien Event",
@@ -70,6 +70,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2024-04-12-the-los-angeles-alien-event/",
  "markdown": "https://archive.unimetrix1.online/md/2024-04-12-the-los-angeles-alien-event.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2024-04-12-the-los-angeles-alien-event.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=tANqbB5bcwA&t=4509s",
+  "title": "ALIEN EVENT LOS ANGELES APRIL 11-14, ALIENEVENT.COM 04-12-2024",
+  "channel": "super kru commander z",
+  "start": 4509,
+  "end": 5848,
+  "note": "the Unimetrix 1 segment runs ~1:15:09–1:37:28",
+  "videoId": "tANqbB5bcwA",
+  "watchUrl": "https://www.youtube.com/watch?v=tANqbB5bcwA&t=4509s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/tANqbB5bcwA?start=4509&end=5848",
+  "startTimestamp": "1:15:09",
+  "endTimestamp": "1:37:28",
+  "durationSeconds": 1339
+ },
  "turns": [
   {
    "anchor": "t1",

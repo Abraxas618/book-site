@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-03-13",
  "slug": "2020-03-13-session-with-unimetrix-1",
  "title": "Angkor Wat's Quantum Computer & Meeting Your Celestial Family",
@@ -52,6 +52,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-03-13-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2020-03-13-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-03-13-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://youtu.be/I3WZWP9K174?t=642",
+  "title": "How about ( \"Kosol ouch unimetrix super meeting 3/13\" )",
+  "channel": "super kru commander z",
+  "start": 642,
+  "end": 2304,
+  "note": "the Unimetrix 1 segment runs ~10:42–38:24",
+  "videoId": "I3WZWP9K174",
+  "watchUrl": "https://www.youtube.com/watch?v=I3WZWP9K174&t=642s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/I3WZWP9K174?start=642&end=2304",
+  "startTimestamp": "10:42",
+  "endTimestamp": "38:24",
+  "durationSeconds": 1662
+ },
  "turns": [
   {
    "anchor": "t1",

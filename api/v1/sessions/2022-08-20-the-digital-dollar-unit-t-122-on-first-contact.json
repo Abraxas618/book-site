@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-08-20",
  "slug": "2022-08-20-the-digital-dollar-unit-t-122-on-first-contact",
  "title": "The Digital Dollar & Unit T-122 on First Contact",
@@ -61,6 +61,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-08-20-the-digital-dollar-unit-t-122-on-first-contact/",
  "markdown": "https://archive.unimetrix1.online/md/2022-08-20-the-digital-dollar-unit-t-122-on-first-contact.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-08-20-the-digital-dollar-unit-t-122-on-first-contact.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=GORQ_z_scrA",
+  "title": "Super kru commander z  Suport unimetrix1 channelling future news English talk show 08-20-2022",
+  "channel": "super kru commander z",
+  "start": 1598,
+  "end": 3552,
+  "note": "the Unimetrix 1 / Unit T-122 segment runs ~26:38-59:12",
+  "videoId": "GORQ_z_scrA",
+  "watchUrl": "https://www.youtube.com/watch?v=GORQ_z_scrA&t=1598s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/GORQ_z_scrA?start=1598&end=3552",
+  "startTimestamp": "26:38",
+  "endTimestamp": "59:12",
+  "durationSeconds": 1954
+ },
  "turns": [
   {
    "anchor": "t1",

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2025-02-28",
  "slug": "2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk",
  "title": "The Nazca Crystal Skull & the Thoth Obelisk",
@@ -48,6 +48,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk/",
  "markdown": "https://archive.unimetrix1.online/md/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=UlVIceAG-WE",
+  "title": "Super Soldier Talk - Alien Artifacts & Psionics in Mexico with Sean Bond & Kosol Ouch",
+  "channel": "Super Soldier Talk",
+  "start": 2690,
+  "end": 2847,
+  "note": "the crystal-skull channeling segment runs ~44:50-47:27",
+  "videoId": "UlVIceAG-WE",
+  "watchUrl": "https://www.youtube.com/watch?v=UlVIceAG-WE&t=2690s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/UlVIceAG-WE?start=2690&end=2847",
+  "startTimestamp": "44:50",
+  "endTimestamp": "47:27",
+  "durationSeconds": 157
+ },
  "turns": [
   {
    "anchor": "t1",

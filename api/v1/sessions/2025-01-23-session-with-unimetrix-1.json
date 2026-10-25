@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2025-01-23",
  "slug": "2025-01-23-session-with-unimetrix-1",
  "title": "Trump's Birthright Order, North American Union & Project Stargate AI",
@@ -68,6 +68,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2025-01-23-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2025-01-23-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2025-01-23-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=2dC1CUPL0CQ&t=827s",
+  "title": "super kru commander z is live! Unimetrix1 challenge",
+  "channel": "super kru commander z",
+  "start": 827,
+  "end": 3089,
+  "note": "the Unimetrix 1 segment runs ~13:47–51:29",
+  "videoId": "2dC1CUPL0CQ",
+  "watchUrl": "https://www.youtube.com/watch?v=2dC1CUPL0CQ&t=827s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/2dC1CUPL0CQ?start=827&end=3089",
+  "startTimestamp": "13:47",
+  "endTimestamp": "51:29",
+  "durationSeconds": 2262
+ },
  "turns": [
   {
    "anchor": "t1",

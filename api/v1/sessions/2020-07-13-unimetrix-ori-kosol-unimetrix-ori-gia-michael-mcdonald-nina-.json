@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2020-07-13",
  "slug": "2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-",
  "title": "UniMetrix & Ori: Kosol, UniMetrix, Ori, Gia, Michael McDonald & Nina – Repairing the Crashed Ship – Sync with UniMetrix's Ship",
@@ -65,6 +65,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-/",
  "markdown": "https://archive.unimetrix1.online/md/2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-07-13-unimetrix-ori-kosol-unimetrix-ori-gia-michael-mcdonald-nina-.json",
+ "video": {
+  "url": "https://youtu.be/1_QRXtBNhto?t=2137",
+  "title": "Talking about respect , monday talk 7-13-20",
+  "channel": "super kru commander z",
+  "start": 2137,
+  "end": 3335,
+  "note": "the Unimetrix 1 segment runs ~35:37–55:35",
+  "videoId": "1_QRXtBNhto",
+  "watchUrl": "https://www.youtube.com/watch?v=1_QRXtBNhto&t=2137s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/1_QRXtBNhto?start=2137&end=3335",
+  "startTimestamp": "35:37",
+  "endTimestamp": "55:35",
+  "durationSeconds": 1198
+ },
  "turns": [
   {
    "anchor": "t1",

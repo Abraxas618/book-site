@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2025-03-28",
  "slug": "2025-03-28-session-with-unimetrix-1",
  "title": "North American Union, Panama Canal & Greenland Annexation Update",
@@ -47,6 +47,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2025-03-28-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2025-03-28-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2025-03-28-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=kCdtxu7BXE4&t=482s",
+  "title": "super kru commander z is live! Unimetrix 1 03-28-25",
+  "channel": "super kru commander z",
+  "start": 482,
+  "end": 1890,
+  "note": "the Unimetrix 1 segment runs ~8:02–31:30",
+  "videoId": "kCdtxu7BXE4",
+  "watchUrl": "https://www.youtube.com/watch?v=kCdtxu7BXE4&t=482s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/kCdtxu7BXE4?start=482&end=1890",
+  "startTimestamp": "8:02",
+  "endTimestamp": "31:30",
+  "durationSeconds": 1408
+ },
  "turns": [
   {
    "anchor": "t1",

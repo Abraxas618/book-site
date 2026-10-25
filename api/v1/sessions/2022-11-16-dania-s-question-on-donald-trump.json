@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2022-11-16",
  "slug": "2022-11-16-dania-s-question-on-donald-trump",
  "title": "Dania's Question on Donald Trump",
@@ -51,6 +51,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2022-11-16-dania-s-question-on-donald-trump/",
  "markdown": "https://archive.unimetrix1.online/md/2022-11-16-dania-s-question-on-donald-trump.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2022-11-16-dania-s-question-on-donald-trump.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=mZD19hbRMDo",
+  "title": "Super kru commander stargate ,reading ,healing and channeling 11-16-2022",
+  "channel": "super kru commander z",
+  "start": 7081,
+  "end": 7869,
+  "note": "the Unimetrix 1 / Dania segment runs ~1:58:01-2:11:09",
+  "videoId": "mZD19hbRMDo",
+  "watchUrl": "https://www.youtube.com/watch?v=mZD19hbRMDo&t=7081s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/mZD19hbRMDo?start=7081&end=7869",
+  "startTimestamp": "1:58:01",
+  "endTimestamp": "2:11:09",
+  "durationSeconds": 788
+ },
  "turns": [
   {
    "anchor": "t1",

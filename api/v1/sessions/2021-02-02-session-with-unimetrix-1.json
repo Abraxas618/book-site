@@ -1,6 +1,6 @@
 {
- "archiveBuild": "3dd8e4b",
- "generatedAt": "2026-10-25T02:54:37Z",
+ "archiveBuild": "9c618b4",
+ "generatedAt": "2026-10-25T03:42:33Z",
  "sessionId": "UM1-2021-02-02",
  "slug": "2021-02-02-session-with-unimetrix-1",
  "title": "The Dragon Queen Legend & Why Students Leave the Teaching",
@@ -47,6 +47,20 @@
  "url": "https://archive.unimetrix1.online/sessions/2021-02-02-session-with-unimetrix-1/",
  "markdown": "https://archive.unimetrix1.online/md/2021-02-02-session-with-unimetrix-1.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-02-02-session-with-unimetrix-1.json",
+ "video": {
+  "url": "https://www.youtube.com/watch?v=wJUe9vcAWRc&t=4054s",
+  "title": "English/Khmer talk, unimetrix1 talk on religion/dragon , business and training stage-4 02-02-21",
+  "channel": "super kru commander z",
+  "start": 4054,
+  "end": 5221,
+  "note": "the Unimetrix 1 segment runs ~1:07:34–1:27:01",
+  "videoId": "wJUe9vcAWRc",
+  "watchUrl": "https://www.youtube.com/watch?v=wJUe9vcAWRc&t=4054s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/wJUe9vcAWRc?start=4054&end=5221",
+  "startTimestamp": "1:07:34",
+  "endTimestamp": "1:27:01",
+  "durationSeconds": 1167
+ },
  "turns": [
   {
    "anchor": "t1",
