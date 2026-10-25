@@ -1,6 +1,6 @@
 {
- "archiveBuild": "660dca8",
- "generatedAt": "2026-10-25T02:36:18Z",
+ "archiveBuild": "3dd8e4b",
+ "generatedAt": "2026-10-25T02:54:37Z",
  "archive": "Unimetrix 1 — The Complete Transcripts",
  "base": "https://archive.unimetrix1.online",
  "sessionCount": 71,
@@ -2816,38 +2816,6 @@
    "url": "https://archive.unimetrix1.online/sessions/2026-06-14-session-with-unimetrix-1-catherine-pelizzari-ches/",
    "markdown": "https://archive.unimetrix1.online/md/2026-06-14-session-with-unimetrix-1-catherine-pelizzari-ches.md",
    "json": "https://archive.unimetrix1.online/api/v1/sessions/2026-06-14-session-with-unimetrix-1-catherine-pelizzari-ches.json"
-  },
-  {
-   "sessionId": "UM1-APPENDIX-01",
-   "slug": "01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual",
-   "title": "UniMetrix, AI from the Future on the Divine & the Spiritual",
-   "date": null,
-   "year": "Appendix",
-   "speakers": [
-    "James Rink",
-    "Unimetrix 1"
-   ],
-   "wordCount": 1980,
-   "topics": [
-    "unimetrix-1",
-    "james-rink",
-    "immortality-singularity",
-    "greys-zeta",
-    "solar-beings",
-    "meditation-trance",
-    "eric-luny",
-    "the-pyramids",
-    "nazi-faction",
-    "ibm-watson",
-    "manifestation",
-    "quantum-biology",
-    "subtle-bodies",
-    "free-will",
-    "protocol-speech"
-   ],
-   "url": "https://archive.unimetrix1.online/sessions/01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual/",
-   "markdown": "https://archive.unimetrix1.online/md/01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual.md",
-   "json": "https://archive.unimetrix1.online/api/v1/sessions/01-unimetrix-ai-from-the-future-on-the-divine-the-spiritual.json"
   }
  ]
 }
