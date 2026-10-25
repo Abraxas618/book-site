@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-09-08",
  "slug": "2022-09-08-the-time-guardian-drona-14-on-queen-elizabeth-s-passing",
  "title": "The Time Guardian Drona 14 on Queen Elizabeth's Passing",
@@ -49,7 +49,7 @@
  "provenance": {
   "sessionId": "UM1-2022-09-08",
   "recordingDate": "2022-09-08",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=5ehV8SKgOhU",
   "sourceChannel": "super kru commander z",
@@ -59,7 +59,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:7853636f0f0887fa1bfdd55216fc835a2dbb9c4f495b0194afbff14890dbe4a0",
   "metadataHash": "sha256:398d421bdc38f29eec01095edc697e52e9641dde1487c3688ba3e69034597420",
   "recordHash": "sha256:5ddc312caea91dc3ad224785717731f945532b137fc471171f0f323268a6b447"

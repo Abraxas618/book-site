@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-08-25",
  "slug": "2022-08-25-rainbow-body-the-dark-fleet-colony-a-question-of-identity",
  "title": "Rainbow Body, the Dark Fleet Colony & a Question of Identity",
@@ -42,7 +42,7 @@
  "provenance": {
   "sessionId": "UM1-2022-08-25",
   "recordingDate": "2022-08-25",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=Uc-EExExTiw",
   "sourceChannel": "super kru commander z",
@@ -52,7 +52,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:77d78db1d9c033d8463ac998fa59b2b2226a37aa64b05f102d26c4460ccf2107",
   "metadataHash": "sha256:ba17b9a73114d882ec8874ea5fa86b921f23ad16f6c61dbaec96ee1c0f3acb34",
   "recordHash": "sha256:f8701980fdf57adda1253f9278b00f9059026808dabbbbeec2775d4fb6a19888"

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-11-21",
  "slug": "2022-11-21-creator-angka-the-artificial-planet-andora",
  "title": "Creator Angka & the Artificial Planet Andora",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2022-11-21",
   "recordingDate": "2022-11-21",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=ZI_I-gzdKDM",
   "sourceChannel": "super kru commander z",
@@ -39,7 +39,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:e57c13414702350f5f6b01f0a8c31e9dca8fbca39457a9b61dae7066bcc5f90e",
   "metadataHash": "sha256:227df3d15d10135794235d781b05fdee0c39551ab0d9fe142ca3b5506b56d0cc",
   "recordHash": "sha256:699619fe9f2f315f7b69c467bb555fa091fdbb5e25b6407aa2e2f45a8fe813d1"

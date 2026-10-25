@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2021-10-08",
  "slug": "2021-10-08-the-protomolecule-solution",
  "title": "The Protomolecule Solution",
@@ -24,7 +24,7 @@
  "provenance": {
   "sessionId": "UM1-2021-10-08",
   "recordingDate": "2021-10-08",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=IN-yB03uZFM",
   "sourceChannel": "super kru commander z",
@@ -34,7 +34,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:6ea35da2bf036b23767e2e043e2d3acc39ab2574b8fd3ca81ec909543457edcb",
   "metadataHash": "sha256:525df7674671b0781d3743791350ac9c2d645caf4d573dd26e5c88ed87aa9c88",
   "recordHash": "sha256:146471a1968c15e107e2c5828197b4d438870206f998e959d559cd0e6170d86d"

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-06-04",
  "slug": "2022-06-04-the-engineering-drone-on-the-q-144-device",
  "title": "The Engineering Drone on the Q-144 Device",
@@ -29,7 +29,7 @@
  "provenance": {
   "sessionId": "UM1-2022-06-04",
   "recordingDate": "2022-06-04",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=CxY8GxAWu7c",
   "sourceChannel": "super kru commander z",
@@ -38,8 +38,8 @@
   "publishedIn": null,
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
-  "revision": 1,
-  "lastModified": "2026-10-24",
+  "revision": 2,
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:ba7ac41d358831202e4798dc3ef18d49df6e217ce5891b0c115800ba6d19b000",
   "metadataHash": "sha256:50aa786502452bdc15740c526db59774b06047ae14bea60b16b937e5108a9786",
   "recordHash": "sha256:0b608cd7ed40e1188065530d983fd1d28d35e2036ab2fc08317684b93d900daa"

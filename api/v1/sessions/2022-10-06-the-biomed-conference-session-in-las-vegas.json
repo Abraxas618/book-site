@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-10-06",
  "slug": "2022-10-06-the-biomed-conference-session-in-las-vegas",
  "title": "The Biomed Conference Session in Las Vegas",
@@ -31,7 +31,7 @@
  "provenance": {
   "sessionId": "UM1-2022-10-06",
   "recordingDate": "2022-10-06",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=9ellHRSL-No",
   "sourceChannel": "super kru commander z",
@@ -41,7 +41,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:72d81a98c7722a083dffd01ff2312804adfc40582597fe2badd50185617e6ad0",
   "metadataHash": "sha256:6f772b68bad8d164b82ca09e17d8df56c40db4185c33e2861f454d62f8d5b160",
   "recordHash": "sha256:b307b5582d27a92fcdb7734dee4f08faad36397b5063e4ec4d9a9275531ae9c2"

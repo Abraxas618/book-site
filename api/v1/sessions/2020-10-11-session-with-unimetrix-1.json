@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2020-10-11",
  "slug": "2020-10-11-session-with-unimetrix-1",
  "title": "Political Clones (Bee's Q&A)",
@@ -27,7 +27,7 @@
  "provenance": {
   "sessionId": "UM1-2020-10-11",
   "recordingDate": "2020-10-11",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-06",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=pM_UPvVnOD4",
   "sourceChannel": "super kru commander z",
@@ -36,8 +36,8 @@
   "publishedIn": null,
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed-with-known-limitations",
-  "revision": 1,
-  "lastModified": "2026-10-24",
+  "revision": 4,
+  "lastModified": "2026-07-08",
   "contentHash": "sha256:daaec5fdf19533e9daa77baa710146e7807e538f20a5b14ddfb6c792ee52285c",
   "metadataHash": "sha256:14a4af3b15c3cf3b8c86c142d6c7ae7999614908364024b52e2f84df2718d4c9",
   "recordHash": "sha256:869c85fa0cb72cf2666abbecf77c08ad273e793dca878cc99b9539b23f8f6241"

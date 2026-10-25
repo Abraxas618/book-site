@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2021-04-30",
  "slug": "2021-04-30-india-s-second-wave-the-artificial-earth",
  "title": "India's Second Wave & the Artificial Earth",
@@ -45,7 +45,7 @@
  "provenance": {
   "sessionId": "UM1-2021-04-30",
   "recordingDate": "2021-04-30",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=7MuoX1h1GFU",
   "sourceChannel": "super kru commander z",
@@ -55,7 +55,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:a202155f5b4554290ba506b4244d5f658379923aa01cd76e6738159cd417403e",
   "metadataHash": "sha256:afe038993fa3aa5a9fb23b46fab0dff5371281bf42e1fa2e876bc426f74b8ea3",
   "recordHash": "sha256:2af583c950cd7e4ff030b9d556f8e82910154b75c86751ff8a5d31dfca9d91f4"

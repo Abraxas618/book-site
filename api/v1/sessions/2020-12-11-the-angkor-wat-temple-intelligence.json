@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2020-12-11",
  "slug": "2020-12-11-the-angkor-wat-temple-intelligence",
  "title": "The Angkor Wat Temple Intelligence",
@@ -24,7 +24,7 @@
  "provenance": {
   "sessionId": "UM1-2020-12-11",
   "recordingDate": "2020-12-11",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=7tlqz-tqYiA",
   "sourceChannel": "super kru commander z",
@@ -34,7 +34,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:be8ae83e0def3801338de20bf10074881acb8d4117f47c5787c42a22e1dbc5cc",
   "metadataHash": "sha256:0924049103e34b43eaa04b3b5041cc6f8eace3c6f65688f35ab545bd427e6313",
   "recordHash": "sha256:73914fa46aa2415ee54e2a220f2ece8a18f33176c7e4d92ddcde51a6d0be1d25"

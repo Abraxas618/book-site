@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-11-16",
  "slug": "2022-11-16-dania-s-question-on-donald-trump",
  "title": "Dania's Question on Donald Trump",
@@ -33,7 +33,7 @@
  "provenance": {
   "sessionId": "UM1-2022-11-16",
   "recordingDate": "2022-11-16",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=mZD19hbRMDo",
   "sourceChannel": "super kru commander z",
@@ -43,7 +43,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:138fc2cc02f94522b3a7aedb47a858b4519a3af56fa90bbb6684749347f0dd32",
   "metadataHash": "sha256:0f79708cd926773b0e98400b454dbd39736e0c305c610868736a0bbeb5b2977c",
   "recordHash": "sha256:4bbaa34b5fdffaae3bdf7e4697116cd39614c886a953f947199888103f4acf72"

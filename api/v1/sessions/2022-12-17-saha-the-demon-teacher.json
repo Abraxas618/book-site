@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-12-17",
  "slug": "2022-12-17-saha-the-demon-teacher",
  "title": "Saha, the Demon Teacher",
@@ -31,7 +31,7 @@
  "provenance": {
   "sessionId": "UM1-2022-12-17",
   "recordingDate": "2022-12-17",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=6QmTdxO1_qw",
   "sourceChannel": "super kru commander z",
@@ -41,7 +41,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:ae52ed2a50ea1943d23ce8aaafe8046fb93706f3567a1dca684b30ceaa43abe3",
   "metadataHash": "sha256:4d38d2939946821e3904cc93c0c943ca73f3f56da1ee280f552d07009a19690c",
   "recordHash": "sha256:ee53d370676269ac0ccfe70c627bb1084ffca044c9654c26b57515e386b298f8"

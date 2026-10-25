@@ -4,9 +4,9 @@
 
 *Super Soldier Talk — "Alien Artifacts & Psionics in Mexico" with Sean Bond and Kosol Ouch, James Rink hosting. Sean Bond, an intuitive healer, researcher, and teacher, discusses the alien artifacts he reports discovering in Mexico — ET contact, integration of alters, teleportation, astral travel, elven realms — while Cambodian Super Kru teacher Kosol Ouch translates their inscriptions. A crystal skull recovered at the site is channeled here as the "Nazca Teacher."*
 
-**Nazca Teacher:** Where am I
+**Nazca Teacher:** Where am I?
 
-**James Rink:** you are in the year 2025
+**James Rink:** You are in the year 2025.
 
 **Nazca Teacher:** are you the great Council of Atlantis that was approximately 50,000 to uh 11,000 years ago so we're we're post the third destruction of Atlantis 11,000 years very well
 
@@ -26,7 +26,7 @@
 
 **Kosol Ouch:** The bird on the right you see that's the bird that's represent he can travel to astral plane he can travel to higher plane that mean he have that knowledge that science integrated in him and you see on the left the snake is you know you look facing him on the left the snake that mean he understand medicine he understand energy structure he understand the wisdom how medicine is used how the idea of medical is used so he can heal you he can see your future and he also can kill you.
 
-**James Rink:** what alien race would that be
+**James Rink:** What alien race would that be?
 
 **Kosol Ouch:** that's Thoth that's the Emerald Tablet
 

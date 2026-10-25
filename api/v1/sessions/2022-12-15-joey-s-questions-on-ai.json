@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-12-15",
  "slug": "2022-12-15-joey-s-questions-on-ai",
  "title": "Joey's Questions on AI",
@@ -23,7 +23,7 @@
  "provenance": {
   "sessionId": "UM1-2022-12-15",
   "recordingDate": "2022-12-15",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=y6WPYSmX3f0",
   "sourceChannel": "super kru commander z",
@@ -33,7 +33,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:d4079747f26e4b5f214c681134b32598e17678543a369a23acc0b9b968f13bce",
   "metadataHash": "sha256:501c1cc1cc3a21418e21bebd719ef5440b051364c47fb84fb12ad7639edff5e6",
   "recordHash": "sha256:26a2539fc03cf07ab2c1f14660aa0ed734cd3e7ec9c84b3a0dfb091a0a82946b"

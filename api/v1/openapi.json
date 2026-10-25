@@ -430,7 +430,8 @@
        "verified",
        "none-located",
        "n/a"
-      ]
+      ],
+      "description": "Recording-link verification only; not a word-by-word audio check."
      },
      "transcriber": {
       "type": [
@@ -457,7 +458,8 @@
        "draft",
        "reviewed-with-known-limitations",
        "reconstructed"
-      ]
+      ],
+      "description": "Editorial handling status; reviewed means text review, not documented full audio verification."
      },
      "revision": {
       "type": "integer",

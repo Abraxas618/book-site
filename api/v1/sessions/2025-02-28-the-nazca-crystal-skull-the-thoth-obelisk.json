@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2025-02-28",
  "slug": "2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk",
  "title": "The Nazca Crystal Skull & the Thoth Obelisk",
@@ -30,7 +30,7 @@
  "provenance": {
   "sessionId": "UM1-2025-02-28",
   "recordingDate": "2025-02-28",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-08-01",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=UlVIceAG-WE",
   "sourceChannel": "Super Soldier Talk",
@@ -39,11 +39,11 @@
   "publishedIn": null,
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "draft",
-  "revision": 1,
-  "lastModified": "2026-10-24",
-  "contentHash": "sha256:004802cb94751e3e1b61a4d887f4260452a94f7300f2b25d379460a5372058b8",
+  "revision": 3,
+  "lastModified": "2026-10-25",
+  "contentHash": "sha256:6aabe2fb72b252c88064505972865506d7bf472da947dff9cc7a4ef76782b657",
   "metadataHash": "sha256:05a40f961f53789f4bfde501f8a7264f5bbd2b7730f13ce41cffb9f26f8207fc",
-  "recordHash": "sha256:2bb76c2cd9eb7700926db35929a1ca144a2334b640e26ae11cf1e6c87262500f"
+  "recordHash": "sha256:f4dc9a1e865d7b1df44b85bf8b220c23db19326d63be541ef198037ff496d462"
  },
  "url": "https://archive.unimetrix1.online/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk/",
  "markdown": "https://archive.unimetrix1.online/md/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk.md",
@@ -73,13 +73,13 @@
    "anchor": "t2",
    "url": "https://archive.unimetrix1.online/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk/#t2",
    "speaker": "Nazca Teacher",
-   "text": "Where am I"
+   "text": "Where am I?"
   },
   {
    "anchor": "t3",
    "url": "https://archive.unimetrix1.online/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk/#t3",
    "speaker": "James Rink",
-   "text": "you are in the year 2025"
+   "text": "You are in the year 2025."
   },
   {
    "anchor": "t4",
@@ -139,7 +139,7 @@
    "anchor": "t13",
    "url": "https://archive.unimetrix1.online/sessions/2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk/#t13",
    "speaker": "James Rink",
-   "text": "what alien race would that be"
+   "text": "What alien race would that be?"
   },
   {
    "anchor": "t14",

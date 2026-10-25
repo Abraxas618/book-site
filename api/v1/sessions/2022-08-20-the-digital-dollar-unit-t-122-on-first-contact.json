@@ -1,6 +1,6 @@
 {
- "archiveBuild": "9c618b4",
- "generatedAt": "2026-10-25T03:42:33Z",
+ "archiveBuild": "e4b508e",
+ "generatedAt": "2026-10-25T17:32:29Z",
  "sessionId": "UM1-2022-08-20",
  "slug": "2022-08-20-the-digital-dollar-unit-t-122-on-first-contact",
  "title": "The Digital Dollar & Unit T-122 on First Contact",
@@ -43,7 +43,7 @@
  "provenance": {
   "sessionId": "UM1-2022-08-20",
   "recordingDate": "2022-08-20",
-  "publicationDate": "2026-10-24",
+  "publicationDate": "2026-07-11",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=GORQ_z_scrA",
   "sourceChannel": "super kru commander z",
@@ -53,7 +53,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reconstructed",
   "revision": 1,
-  "lastModified": "2026-10-24",
+  "lastModified": "2026-07-11",
   "contentHash": "sha256:0e7249ab2322a186bbd36914485dde35fc8297738e10fbff7defcf6f69778eac",
   "metadataHash": "sha256:8918a5a7394bbaaf1e9c3eb7db2c3c453c8318c168ca22a47ff025693150a37a",
   "recordHash": "sha256:cda5fd1b5ef2e2d61285708a3c6d06abaa71b21a590b81ed8278c041e400852b"

@@ -10,23 +10,23 @@
   {
    "format": "EPUB",
    "file": "/downloads/unimetrix1-complete-transcripts.epub",
-   "bytes": 570025,
+   "bytes": 570034,
    "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.epub",
-   "sha256": "d8f7956f8b5355ba33e8aea48fcfa33c86054ae20f1f03b6a007422eb86b6237"
+   "sha256": "8ac6492e5c8bfd6069b2a0d36274455df9c2059f7da738e79f0861cdd78fc2ab"
   },
   {
    "format": "Markdown",
    "file": "/downloads/unimetrix1-complete-transcripts.md",
-   "bytes": 1461912,
+   "bytes": 1461920,
    "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.md",
-   "sha256": "8492988811ee3e240fd534f841a54cd651f0ba5b2362e5c956cbaa221c388ddb"
+   "sha256": "0f4acceacc983ae50f01875df8e97c942a3210b4bb217aaeabd0b2711ece1a99"
   },
   {
    "format": "PDF",
    "file": "/downloads/unimetrix1-complete-transcripts.pdf",
-   "bytes": 2489326,
+   "bytes": 2489330,
    "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.pdf",
-   "sha256": "c3d7ba81e4da861172cbd47dd3909a4246cbc6bd364a3d81f88070b525023497"
+   "sha256": "aac1359487ea5db8be1eaebf1dcb70d4d41eb2ae4ac53265f551cc338ad989ac"
   }
  ]
 }
