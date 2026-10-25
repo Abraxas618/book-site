@@ -1,6 +1,6 @@
 {
- "archiveBuild": "61cbec6",
- "generatedAt": "2026-10-25T02:19:14Z",
+ "archiveBuild": "660dca8",
+ "generatedAt": "2026-10-25T02:36:18Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -638,6 +638,16 @@
    "note": "the Angkor Wat Temple Intelligence segment runs ~49:31-53:55",
    "videoId": "7tlqz-tqYiA",
    "session": "https://archive.unimetrix1.online/sessions/2020-12-11-the-angkor-wat-temple-intelligence/"
+  },
+  "2020-10-11-session-with-unimetrix-1": {
+   "url": "https://www.youtube.com/watch?v=pM_UPvVnOD4",
+   "title": "sunday talk and training 10-11-20",
+   "channel": "super kru commander z",
+   "start": 7024,
+   "end": 7598,
+   "note": "the Unimetrix 1 segment runs ~1:57:04-2:06:38",
+   "videoId": "pM_UPvVnOD4",
+   "session": "https://archive.unimetrix1.online/sessions/2020-10-11-session-with-unimetrix-1/"
   }
  }
 }
