@@ -1,8 +1,14 @@
 {
- "archiveBuild": "f6f89a3",
- "generatedAt": "2026-10-25T18:50:00Z",
+ "archiveBuild": "a2fe807",
+ "generatedAt": "2026-10-25T19:29:33Z",
  "note": "Newest entry first — check entries[0].date to see if anything has changed since a prior read without re-fetching the corpus.",
  "entries": [
+  {
+   "date": "2026-10-25",
+   "changes": [
+    "Added the recovered YouTube recording for the March 14, 2020 James Rink interview (20:42–1:35:40). The upload ends there; the remainder of the session recording has not been recovered."
+   ]
+  },
   {
    "date": "2026-07-11",
    "changes": [

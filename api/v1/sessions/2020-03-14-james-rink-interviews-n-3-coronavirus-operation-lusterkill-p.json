@@ -1,6 +1,6 @@
 {
- "archiveBuild": "f6f89a3",
- "generatedAt": "2026-10-25T18:50:00Z",
+ "archiveBuild": "a2fe807",
+ "generatedAt": "2026-10-25T19:29:33Z",
  "sessionId": "UM1-2020-03-14",
  "slug": "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p",
  "title": "James Rink Interviews n°3 – Coronavirus Operation Lusterkill Part 3",
@@ -91,10 +91,10 @@
   "sessionId": "UM1-2020-03-14",
   "recordingDate": "2020-03-14",
   "publicationDate": "2026-07-06",
-  "sourceType": "interview",
-  "sourceUrl": null,
-  "sourceChannel": null,
-  "sourceVerification": "n/a",
+  "sourceType": "video",
+  "sourceUrl": "https://www.youtube.com/watch?v=gKG6Tu0IaoE&t=1242s",
+  "sourceChannel": "super kru commander z",
+  "sourceVerification": "verified",
   "transcriber": null,
   "publishedIn": "Chapter 4 of Unimetrix1, Second Edition (E-BookTime, October 2020, ISBN 978-1-60862-798-1)",
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
@@ -102,13 +102,26 @@
   "revision": 5,
   "lastModified": "2026-07-10",
   "contentHash": "sha256:d84cf03c960b04293a8502c69041b6bda62832aa6a3dbe534d115b1b0c4589f7",
-  "metadataHash": "sha256:1b5b3c18c84a8de76955667022ca84b5eecc4396fc8284b07c6b1791bf901eb4",
-  "recordHash": "sha256:7afb686805873d46d75a3a296bf57233c4ec524f8d162457690eb00334a57052"
+  "metadataHash": "sha256:b52780438b69ba7de4386ccfacefee195d7da0637be8c54e9898c2f2baad2f5d",
+  "recordHash": "sha256:af31b7bbfe4cfbfeec8af6fb27ab57de7bc6ca2da9a6729685de3b7d2b005fab"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p/",
  "markdown": "https://archive.unimetrix1.online/md/2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p.json",
- "video": null,
+ "video": {
+  "url": "https://www.youtube.com/watch?v=gKG6Tu0IaoE&t=1242s",
+  "title": "Interview With Unimetrix And Jame Ring",
+  "channel": "super kru commander z",
+  "start": 1242,
+  "end": 5740,
+  "note": "The recovered segment runs 20:42–1:35:40. The YouTube upload ends at 1:35:40; the remainder of the session recording has not been recovered.",
+  "videoId": "gKG6Tu0IaoE",
+  "watchUrl": "https://www.youtube.com/watch?v=gKG6Tu0IaoE&t=1242s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/gKG6Tu0IaoE?start=1242&end=5740",
+  "startTimestamp": "20:42",
+  "endTimestamp": "1:35:40",
+  "durationSeconds": 4498
+ },
  "turns": [
   {
    "anchor": "t1",

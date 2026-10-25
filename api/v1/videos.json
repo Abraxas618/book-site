@@ -1,6 +1,6 @@
 {
- "archiveBuild": "f6f89a3",
- "generatedAt": "2026-10-25T18:50:00Z",
+ "archiveBuild": "a2fe807",
+ "generatedAt": "2026-10-25T19:29:33Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -28,6 +28,21 @@
    "endTimestamp": "2:42:44",
    "durationSeconds": 8929,
    "session": "https://archive.unimetrix1.online/sessions/2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir/"
+  },
+  "2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p": {
+   "url": "https://www.youtube.com/watch?v=gKG6Tu0IaoE&t=1242s",
+   "title": "Interview With Unimetrix And Jame Ring",
+   "channel": "super kru commander z",
+   "start": 1242,
+   "end": 5740,
+   "note": "The recovered segment runs 20:42–1:35:40. The YouTube upload ends at 1:35:40; the remainder of the session recording has not been recovered.",
+   "videoId": "gKG6Tu0IaoE",
+   "watchUrl": "https://www.youtube.com/watch?v=gKG6Tu0IaoE&t=1242s",
+   "embedUrl": "https://www.youtube-nocookie.com/embed/gKG6Tu0IaoE?start=1242&end=5740",
+   "startTimestamp": "20:42",
+   "endTimestamp": "1:35:40",
+   "durationSeconds": 4498,
+   "session": "https://archive.unimetrix1.online/sessions/2020-03-14-james-rink-interviews-n-3-coronavirus-operation-lusterkill-p/"
   },
   "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a": {
    "url": "https://youtu.be/figLAbCtl6w?t=1860",
