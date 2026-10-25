@@ -1,12 +1,15 @@
 {
- "archiveBuild": "e286dd5",
- "generatedAt": "2026-10-25T19:38:53Z",
+ "archiveBuild": "992f9e8",
+ "generatedAt": "2026-10-25T20:42:24Z",
  "note": "Newest entry first — check entries[0].date to see if anything has changed since a prior read without re-fetching the corpus.",
  "entries": [
   {
    "date": "2026-10-25",
    "changes": [
-    "Added the recovered YouTube recording for the March 14, 2020 James Rink interview (20:42–1:35:40). The upload ends there; the remainder of the session recording has not been recovered."
+    "Added the recovered YouTube recording for the March 14, 2020 James Rink interview (20:42–1:35:40). The upload ends there; the remainder of the session recording has not been recovered.",
+    "Corrected the date of the fifth James Rink interview to March 27, 2020, based on the livestream date and opening remarks; the existing page URL remains unchanged.",
+    "Added the YouTube recording for that session, cued from 26:19 through 3:24:56.",
+    "Corrected one transcript spelling of the archive name to Unimetrix."
    ]
   },
   {

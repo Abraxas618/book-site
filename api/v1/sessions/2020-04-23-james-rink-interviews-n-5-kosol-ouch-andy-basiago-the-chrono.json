@@ -1,11 +1,11 @@
 {
- "archiveBuild": "e286dd5",
- "generatedAt": "2026-10-25T19:38:53Z",
- "sessionId": "UM1-2020-04-23",
+ "archiveBuild": "992f9e8",
+ "generatedAt": "2026-10-25T20:42:24Z",
+ "sessionId": "UM1-2020-03-27",
  "slug": "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono",
  "title": "James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut – Coronavirus Operation Lusterkill",
- "fullTitle": "April 23, 2020 — James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut – Coronavirus Operation Lusterkill",
- "date": "2020-04-23",
+ "fullTitle": "March 27, 2020 — James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut – Coronavirus Operation Lusterkill",
+ "date": "2020-03-27",
  "year": "2020",
  "speakers": [
   "James Rink",
@@ -91,35 +91,48 @@
   "abundance",
   "lightworkers"
  ],
- "contentNote": null,
+ "contentNote": "Date correction: James Rink says March 27, 2020 in the recording's opening, and YouTube lists the stream as live that day. The 2020 book editions label the chapter April 23. The archive follows the recording; this page's existing URL is retained for link stability.",
  "provenance": {
-  "sessionId": "UM1-2020-04-23",
-  "recordingDate": "2020-04-23",
+  "sessionId": "UM1-2020-03-27",
+  "recordingDate": "2020-03-27",
   "publicationDate": "2026-07-06",
-  "sourceType": "interview",
-  "sourceUrl": null,
-  "sourceChannel": null,
-  "sourceVerification": "n/a",
+  "sourceType": "video",
+  "sourceUrl": "https://www.youtube.com/watch?v=AYuD4eobCa0&t=1579s",
+  "sourceChannel": "super kru commander z",
+  "sourceVerification": "verified",
   "transcriber": null,
   "publishedIn": "Chapter 2 of Unimetrix1 (E-BookTime, July 2020, ISBN 978-1-60862-787-5) · Chapter 2 of Unimetrix1, Second Edition (E-BookTime, October 2020, ISBN 978-1-60862-798-1)",
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
-  "revision": 6,
+  "revision": 7,
   "lastModified": "2026-10-25",
-  "contentHash": "sha256:f65967199bd606574e093e5e4d9e4c59a4193db3624384f67efa87725860d703",
-  "metadataHash": "sha256:cd2ebe9cb93e8c87b189dbfb5c63678115065141a476b0d336c642efd0d69404",
-  "recordHash": "sha256:5a706ccfe01088c5948e48c595b082a5b9c6aabe3766aa791312d8358e0cba8e"
+  "contentHash": "sha256:8cc5d65d3fba6fd819fe17eb9d1c28ca388a6be0ca01d98f747ba1ec09ef6209",
+  "metadataHash": "sha256:242bf4ea1485af54b5f52c2f0b11b7f3598de8107770d322a73102f6719c4bc9",
+  "recordHash": "sha256:633b1a757c76a8410219a4c93835c26a4e990064f93fceca8303e157c90d696a"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono/",
  "markdown": "https://archive.unimetrix1.online/md/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono.json",
- "video": null,
+ "video": {
+  "url": "https://www.youtube.com/watch?v=AYuD4eobCa0&t=1579s",
+  "title": "Interview With Jame ,andy And Unimetrix A.I.",
+  "channel": "super kru commander z",
+  "start": 1579,
+  "end": 12296,
+  "note": "The segment spans 26:19–3:24:56. YouTube lists the stream as live on March 27, 2020, and James Rink says March 27 in the opening. The 2020 book chapter is dated April 23; the archive follows the recording.",
+  "videoId": "AYuD4eobCa0",
+  "watchUrl": "https://www.youtube.com/watch?v=AYuD4eobCa0&t=1579s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/AYuD4eobCa0?start=1579&end=12296",
+  "startTimestamp": "26:19",
+  "endTimestamp": "3:24:56",
+  "durationSeconds": 10717
+ },
  "turns": [
   {
    "anchor": "t1",
    "url": "https://archive.unimetrix1.online/sessions/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono/#t1",
    "speaker": null,
-   "text": "James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut* – Coronavirus Operation Lusterkill – April 23, 2020 Time-Traveler"
+   "text": "James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut* – Coronavirus Operation Lusterkill – March 27, 2020 Time-Traveler"
   },
   {
    "anchor": "t2",

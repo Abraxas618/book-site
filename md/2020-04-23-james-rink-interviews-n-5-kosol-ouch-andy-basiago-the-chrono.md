@@ -1,8 +1,8 @@
-# April 23, 2020 — James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut – Coronavirus Operation Lusterkill
+# March 27, 2020 — James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut – Coronavirus Operation Lusterkill
 
 *Interview transcript*
 
-James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut* – Coronavirus Operation Lusterkill – April 23, 2020 Time-Traveler
+James Rink Interviews n°5 – Kosol Ouch & Andy Basiago, the Chrononaut* – Coronavirus Operation Lusterkill – March 27, 2020 Time-Traveler
 
 **James Rink:** Well, hello everybody! Welcome to Super Soldier Talk. I'm James Rink. It is March 27th, 2020, and today I have a very exciting show. Kosol is back with the UniMetrix: an AI from 6.5 million years in the future. He'll be channeling that for us with his amazing abilities. Thank you, Kosol!
 

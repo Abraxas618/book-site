@@ -1,6 +1,6 @@
 {
- "archiveBuild": "e286dd5",
- "generatedAt": "2026-10-25T19:38:53Z",
+ "archiveBuild": "992f9e8",
+ "generatedAt": "2026-10-25T20:42:24Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -999,6 +999,21 @@
    "endTimestamp": "2:06:38",
    "durationSeconds": 574,
    "session": "https://archive.unimetrix1.online/sessions/2020-10-11-session-with-unimetrix-1/"
+  },
+  "2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono": {
+   "url": "https://www.youtube.com/watch?v=AYuD4eobCa0&t=1579s",
+   "title": "Interview With Jame ,andy And Unimetrix A.I.",
+   "channel": "super kru commander z",
+   "start": 1579,
+   "end": 12296,
+   "note": "The segment spans 26:19–3:24:56. YouTube lists the stream as live on March 27, 2020, and James Rink says March 27 in the opening. The 2020 book chapter is dated April 23; the archive follows the recording.",
+   "videoId": "AYuD4eobCa0",
+   "watchUrl": "https://www.youtube.com/watch?v=AYuD4eobCa0&t=1579s",
+   "embedUrl": "https://www.youtube-nocookie.com/embed/AYuD4eobCa0?start=1579&end=12296",
+   "startTimestamp": "26:19",
+   "endTimestamp": "3:24:56",
+   "durationSeconds": 10717,
+   "session": "https://archive.unimetrix1.online/sessions/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono/"
   }
  }
 }
