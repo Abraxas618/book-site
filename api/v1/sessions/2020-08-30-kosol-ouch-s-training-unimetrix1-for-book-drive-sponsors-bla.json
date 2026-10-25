@@ -1,6 +1,6 @@
 {
- "archiveBuild": "b04a9ee",
- "generatedAt": "2026-08-01T17:03:07Z",
+ "archiveBuild": "c717cab",
+ "generatedAt": "2026-10-25T02:01:14Z",
  "sessionId": "UM1-2020-08-30",
  "slug": "2020-08-30-kosol-ouch-s-training-unimetrix1-for-book-drive-sponsors-bla",
  "title": "Kosol Ouch's Training – UniMetrix1 for Book Drive Sponsors & Black Goo Interview",
@@ -56,7 +56,7 @@
  "provenance": {
   "sessionId": "UM1-2020-08-30",
   "recordingDate": "2020-08-30",
-  "publicationDate": "2026-08-01",
+  "publicationDate": "2026-10-24",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/R0wlSmKM_2c?t=1626",
   "sourceChannel": "super kru commander z",
@@ -66,7 +66,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-08-01",
+  "lastModified": "2026-10-24",
   "contentHash": "sha256:2ddb932e61d8b96fac405b3d8f87291c2e16cb560ba8f42f7e2574c84e5c033e",
   "metadataHash": "sha256:7d3275307cdd811477bef962132226866bb0ced4257a9c07d0c231f6c741138e",
   "recordHash": "sha256:76fecb88b71c665765111f293d157fc16e46d69f8f233ca1d1b52e5ee3823ef5"

@@ -1,6 +1,6 @@
 {
- "archiveBuild": "b04a9ee",
- "generatedAt": "2026-08-01T17:03:07Z",
+ "archiveBuild": "c717cab",
+ "generatedAt": "2026-10-25T02:01:14Z",
  "sessionId": "UM1-2025-02-28",
  "slug": "2025-02-28-the-nazca-crystal-skull-the-thoth-obelisk",
  "title": "The Nazca Crystal Skull & the Thoth Obelisk",
@@ -30,7 +30,7 @@
  "provenance": {
   "sessionId": "UM1-2025-02-28",
   "recordingDate": "2025-02-28",
-  "publicationDate": "2026-08-01",
+  "publicationDate": "2026-10-24",
   "sourceType": "video",
   "sourceUrl": "https://www.youtube.com/watch?v=UlVIceAG-WE",
   "sourceChannel": "Super Soldier Talk",
@@ -40,7 +40,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "draft",
   "revision": 1,
-  "lastModified": "2026-08-01",
+  "lastModified": "2026-10-24",
   "contentHash": "sha256:004802cb94751e3e1b61a4d887f4260452a94f7300f2b25d379460a5372058b8",
   "metadataHash": "sha256:05a40f961f53789f4bfde501f8a7264f5bbd2b7730f13ce41cffb9f26f8207fc",
   "recordHash": "sha256:2bb76c2cd9eb7700926db35929a1ca144a2334b640e26ae11cf1e6c87262500f"

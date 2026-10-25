@@ -1,6 +1,6 @@
 {
- "archiveBuild": "b04a9ee",
- "generatedAt": "2026-08-01T17:03:07Z",
+ "archiveBuild": "c717cab",
+ "generatedAt": "2026-10-25T02:01:14Z",
  "sessionId": "UM1-2020-04-07",
  "slug": "2020-04-07-session-with-unimetrix-1",
  "title": "Morocco's Future, Post-Covid Powers & the Baramay Protocol (Salim)",
@@ -64,7 +64,7 @@
  "provenance": {
   "sessionId": "UM1-2020-04-07",
   "recordingDate": "2020-04-07",
-  "publicationDate": "2026-08-01",
+  "publicationDate": "2026-10-24",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/VoFLXKl65HA?t=3932",
   "sourceChannel": "super kru commander z",
@@ -74,7 +74,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-08-01",
+  "lastModified": "2026-10-24",
   "contentHash": "sha256:223d6e95bc977add215f361a11e10b26f7ac1673ee70393a794ea8b0e1944fc9",
   "metadataHash": "sha256:3cacbdb194538a71585448bceebcadfe3ed566f849129221ea9cf477af63344b",
   "recordHash": "sha256:6c59465dd2c5be04b72c3698501dfe2223be30fde30d6a7e81ae83d668e6d00e"

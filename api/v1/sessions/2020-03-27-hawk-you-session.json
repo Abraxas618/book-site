@@ -1,6 +1,6 @@
 {
- "archiveBuild": "b04a9ee",
- "generatedAt": "2026-08-01T17:03:07Z",
+ "archiveBuild": "c717cab",
+ "generatedAt": "2026-10-25T02:01:14Z",
  "sessionId": "UM1-2020-03-27",
  "slug": "2020-03-27-hawk-you-session",
  "title": "Hawk-You Session",
@@ -46,7 +46,7 @@
  "provenance": {
   "sessionId": "UM1-2020-03-27",
   "recordingDate": "2020-03-27",
-  "publicationDate": "2026-08-01",
+  "publicationDate": "2026-10-24",
   "sourceType": "video",
   "sourceUrl": "https://youtu.be/w994mI7wbhI?t=3766",
   "sourceChannel": "super kru commander z",
@@ -56,7 +56,7 @@
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
   "transcriptStatus": "reviewed",
   "revision": 1,
-  "lastModified": "2026-08-01",
+  "lastModified": "2026-10-24",
   "contentHash": "sha256:4e4932e460c3c21e5a13f72fbfaa63b04b2c470ad304bbaf801a626d8a54056b",
   "metadataHash": "sha256:e6484692327a08ae93e681705fabc487c60d560ebd3906eaac00d12b5556b042",
   "recordHash": "sha256:8f11bcea59843417fd2c90bd45155d106dcbe9bc7e6202e444c3f2110da9fbfd"
