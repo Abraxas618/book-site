@@ -1,6 +1,6 @@
 {
- "archiveBuild": "992f9e8",
- "generatedAt": "2026-10-25T20:42:24Z",
+ "archiveBuild": "765c7da",
+ "generatedAt": "2026-10-25T21:32:26Z",
  "sessionId": "UM1-2020-10-08",
  "slug": "2020-10-08-the-qanon-shaman-jacob-angeli-chansley",
  "title": "The QAnon Shaman (Jacob Angeli Chansley)",
@@ -38,9 +38,9 @@
   "recordingDate": "2020-10-08",
   "publicationDate": "2026-07-06",
   "sourceType": "video",
-  "sourceUrl": null,
-  "sourceChannel": null,
-  "sourceVerification": "none-located",
+  "sourceUrl": "https://www.youtube.com/watch?v=15lkwuhCFio&t=8480s",
+  "sourceChannel": "Quantum Shifting (Soul Freedom Show)",
+  "sourceVerification": "verified",
   "transcriber": null,
   "publishedIn": null,
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
@@ -48,13 +48,26 @@
   "revision": 1,
   "lastModified": "2026-07-06",
   "contentHash": "sha256:cd5f9b6b654c178df71e8dac22c1bc31d5f57153977905fcbbc23285b2f5d60b",
-  "metadataHash": "sha256:c9a43d2444cab1204b5ee68d8794818bbb1da55a6b73fd2c2bc7bfb7c25ac106",
-  "recordHash": "sha256:aa7742d823f3f752b9759a2384d6df4aaba158e91f6b480b1d8f3e26ead70a42"
+  "metadataHash": "sha256:d6fac678e3b5238687ec2a052bbdf3ee6bff2128569f371699a718eded4fdce1",
+  "recordHash": "sha256:243d2cfb5677705f45aafaeb79297357dfa0277b3f4d8aa83740399e39e917fb"
  },
  "url": "https://archive.unimetrix1.online/sessions/2020-10-08-the-qanon-shaman-jacob-angeli-chansley/",
  "markdown": "https://archive.unimetrix1.online/md/2020-10-08-the-qanon-shaman-jacob-angeli-chansley.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-10-08-the-qanon-shaman-jacob-angeli-chansley.json",
- "video": null,
+ "video": {
+  "url": "https://www.youtube.com/watch?v=15lkwuhCFio&t=8480s",
+  "title": "Jacob Angeli (Starseed Academy) ~ What the Q is going On!? Live interview & Q&A ~ Lokesh Rai",
+  "channel": "Quantum Shifting (Soul Freedom Show)",
+  "start": 8480,
+  "end": 9524,
+  "note": "The Unimetrix 1 segment runs 2:21:20–2:38:44.",
+  "videoId": "15lkwuhCFio",
+  "watchUrl": "https://www.youtube.com/watch?v=15lkwuhCFio&t=8480s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/15lkwuhCFio?start=8480&end=9524",
+  "startTimestamp": "2:21:20",
+  "endTimestamp": "2:38:44",
+  "durationSeconds": 1044
+ },
  "turns": [
   {
    "anchor": "t1",

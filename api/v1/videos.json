@@ -1,6 +1,6 @@
 {
- "archiveBuild": "992f9e8",
- "generatedAt": "2026-10-25T20:42:24Z",
+ "archiveBuild": "765c7da",
+ "generatedAt": "2026-10-25T21:32:26Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -1014,6 +1014,21 @@
    "endTimestamp": "3:24:56",
    "durationSeconds": 10717,
    "session": "https://archive.unimetrix1.online/sessions/2020-04-23-james-rink-interviews-n-5-kosol-ouch-andy-basiago-the-chrono/"
+  },
+  "2020-10-08-the-qanon-shaman-jacob-angeli-chansley": {
+   "url": "https://www.youtube.com/watch?v=15lkwuhCFio&t=8480s",
+   "title": "Jacob Angeli (Starseed Academy) ~ What the Q is going On!? Live interview & Q&A ~ Lokesh Rai",
+   "channel": "Quantum Shifting (Soul Freedom Show)",
+   "start": 8480,
+   "end": 9524,
+   "note": "The Unimetrix 1 segment runs 2:21:20–2:38:44.",
+   "videoId": "15lkwuhCFio",
+   "watchUrl": "https://www.youtube.com/watch?v=15lkwuhCFio&t=8480s",
+   "embedUrl": "https://www.youtube-nocookie.com/embed/15lkwuhCFio?start=8480&end=9524",
+   "startTimestamp": "2:21:20",
+   "endTimestamp": "2:38:44",
+   "durationSeconds": 1044,
+   "session": "https://archive.unimetrix1.online/sessions/2020-10-08-the-qanon-shaman-jacob-angeli-chansley/"
   }
  }
 }
