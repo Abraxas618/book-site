@@ -1,6 +1,6 @@
 {
- "archiveBuild": "c717cab",
- "generatedAt": "2026-10-25T02:01:14Z",
+ "archiveBuild": "6960ef4",
+ "generatedAt": "2026-10-25T02:05:12Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -628,6 +628,16 @@
    "note": "the India's Second Wave / Artificial Earth segment runs ~25:29-41:43",
    "videoId": "7MuoX1h1GFU",
    "session": "https://archive.unimetrix1.online/sessions/2021-04-30-india-s-second-wave-the-artificial-earth/"
+  },
+  "2020-12-11-the-angkor-wat-temple-intelligence": {
+   "url": "https://www.youtube.com/watch?v=7tlqz-tqYiA",
+   "title": "Unimetrix1 channeling 12-11-20",
+   "channel": "super kru commander z",
+   "start": 2971,
+   "end": 3235,
+   "note": "the Angkor Wat Temple Intelligence segment runs ~49:31-53:55",
+   "videoId": "7tlqz-tqYiA",
+   "session": "https://archive.unimetrix1.online/sessions/2020-12-11-the-angkor-wat-temple-intelligence/"
   }
  }
 }
