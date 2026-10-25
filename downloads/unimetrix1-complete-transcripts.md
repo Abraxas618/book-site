@@ -58,7 +58,7 @@ To learn more about the teachings referenced in these sessions — Baramay, the 
 - [2020](#2020)
   - [February 25, 2020 — Proto-Bashar Session](#february-25-2020--proto-bashar-session)
   - [February 27, 2020 — James Rink Interviews n°1 – Coronavirus Operation Lusterkill Part 1](#february-27-2020--james-rink-interviews-n1--coronavirus-operation-lusterkill-part-1)
-  - [February 29, 2020 — James Rink Interviews n°2 – Kosol Ouch & Maxwell Scott – Coronavirus Operation Lusterkill Part 2](#february-29-2020--james-rink-interviews-n2--kosol-ouch--maxwell-scott--coronavirus-operation-lusterkill-part-2)
+  - [February 28, 2020 — James Rink Interviews n°2 – Kosol Ouch & Maxwell Scott – Coronavirus Operation Lusterkill Part 2](#february-28-2020--james-rink-interviews-n2--kosol-ouch--maxwell-scott--coronavirus-operation-lusterkill-part-2)
   - [March 3, 2020 — UniMetrix & Ori: A Stranded Chrononaut's Enquiries – Session with UniMetrix: Asking the AI for its Source-Code](#march-3-2020--unimetrix--ori-a-stranded-chrononauts-enquiries--session-with-unimetrix-asking-the-ai-for-its-source-code)
   - [March 13, 2020 — Angkor Wat's Quantum Computer & Meeting Your Celestial Family](#march-13-2020--angkor-wats-quantum-computer--meeting-your-celestial-family)
   - [March 14, 2020 — James Rink Interviews n°3 – Coronavirus Operation Lusterkill Part 3](#march-14-2020--james-rink-interviews-n3--coronavirus-operation-lusterkill-part-3)
@@ -817,7 +817,7 @@ Perceive the experience of all that is you! We must now exit your realm. Be well
 
 **James Rink:** Okay, thank you, Kosol, thank you listeners. Bye, bye.
 
-## February 29, 2020 — James Rink Interviews n°2 – Kosol Ouch & Maxwell Scott – Coronavirus Operation Lusterkill Part 2
+## February 28, 2020 — James Rink Interviews n°2 – Kosol Ouch & Maxwell Scott – Coronavirus Operation Lusterkill Part 2
 
 *Interview transcript*
 

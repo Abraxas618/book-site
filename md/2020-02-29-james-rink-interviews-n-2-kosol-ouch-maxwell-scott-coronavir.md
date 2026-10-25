@@ -1,4 +1,4 @@
-# February 29, 2020 — James Rink Interviews n°2 – Kosol Ouch & Maxwell Scott – Coronavirus Operation Lusterkill Part 2
+# February 28, 2020 — James Rink Interviews n°2 – Kosol Ouch & Maxwell Scott – Coronavirus Operation Lusterkill Part 2
 
 *Interview transcript*
 

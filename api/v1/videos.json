@@ -1,6 +1,6 @@
 {
- "archiveBuild": "b12e789",
- "generatedAt": "2026-10-25T18:27:04Z",
+ "archiveBuild": "f6f89a3",
+ "generatedAt": "2026-10-25T18:50:00Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -13,6 +13,21 @@
    "embedUrl": "https://www.youtube-nocookie.com/embed/94W7QbZ2z-o?start=0",
    "startTimestamp": "0:00",
    "session": "https://archive.unimetrix1.online/sessions/2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin/"
+  },
+  "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir": {
+   "url": "https://www.youtube.com/watch?v=vpD2HQqR__E&t=835s",
+   "title": "Interview With Jame Rink And Max",
+   "channel": "super kru commander z",
+   "start": 835,
+   "end": 9764,
+   "note": "The session segment runs 13:55–2:42:44. YouTube lists the stream as live on February 28, 2020, and James Rink gives the same date in his opening remarks; the second-edition chapter heading says February 29. The archive follows the stream date.",
+   "videoId": "vpD2HQqR__E",
+   "watchUrl": "https://www.youtube.com/watch?v=vpD2HQqR__E&t=835s",
+   "embedUrl": "https://www.youtube-nocookie.com/embed/vpD2HQqR__E?start=835&end=9764",
+   "startTimestamp": "13:55",
+   "endTimestamp": "2:42:44",
+   "durationSeconds": 8929,
+   "session": "https://archive.unimetrix1.online/sessions/2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir/"
   },
   "2020-06-23-unimetrix-ori-unimetrix-system-1-from-a-parallel-dimension-a": {
    "url": "https://youtu.be/figLAbCtl6w?t=1860",

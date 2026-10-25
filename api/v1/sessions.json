@@ -1,6 +1,6 @@
 {
- "archiveBuild": "b12e789",
- "generatedAt": "2026-10-25T18:27:04Z",
+ "archiveBuild": "f6f89a3",
+ "generatedAt": "2026-10-25T18:50:00Z",
  "archive": "Unimetrix 1 — The Complete Transcripts",
  "base": "https://archive.unimetrix1.online",
  "sessionCount": 71,
@@ -122,10 +122,10 @@
    "json": "https://archive.unimetrix1.online/api/v1/sessions/2020-02-27-james-rink-interviews-n-1-coronavirus-operation-lusterkill-p.json"
   },
   {
-   "sessionId": "UM1-2020-02-29",
+   "sessionId": "UM1-2020-02-28",
    "slug": "2020-02-29-james-rink-interviews-n-2-kosol-ouch-maxwell-scott-coronavir",
    "title": "James Rink Interviews n°2 – Kosol Ouch & Maxwell Scott – Coronavirus Operation Lusterkill Part 2",
-   "date": "2020-02-29",
+   "date": "2020-02-28",
    "year": "2020",
    "speakers": [
     "James Rink",
