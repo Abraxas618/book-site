@@ -1,9 +1,9 @@
 {
- "archiveBuild": "f642c8a",
- "generatedAt": "2026-10-25T22:55:00Z",
+ "archiveBuild": "3297d8f",
+ "generatedAt": "2026-10-26T04:18:46Z",
  "archive": "Unimetrix 1 — The Complete Transcripts",
  "base": "https://archive.unimetrix1.online",
- "sessionCount": 71,
+ "sessionCount": 72,
  "dateRange": "2017–2026",
  "sessions": [
   {
@@ -1772,6 +1772,35 @@
    "url": "https://archive.unimetrix1.online/sessions/2021-04-30-india-s-second-wave-the-artificial-earth/",
    "markdown": "https://archive.unimetrix1.online/md/2021-04-30-india-s-second-wave-the-artificial-earth.md",
    "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-04-30-india-s-second-wave-the-artificial-earth.json"
+  },
+  {
+   "sessionId": "UM1-2021-08-16",
+   "slug": "2021-08-16-um1-channeling",
+   "title": "UM1 Channeling",
+   "date": "2021-08-16",
+   "year": "2021",
+   "speakers": [
+    "Unimetrix 1",
+    "Carlos"
+   ],
+   "wordCount": 830,
+   "topics": [
+    "nazi-faction",
+    "unimetrix-1",
+    "parallel-timelines",
+    "secret-space-program",
+    "carlos",
+    "sreymom-yen",
+    "problem-reaction-solution",
+    "illuminati",
+    "quantum-computer",
+    "assimilation",
+    "over-goal",
+    "universal-translator"
+   ],
+   "url": "https://archive.unimetrix1.online/sessions/2021-08-16-um1-channeling/",
+   "markdown": "https://archive.unimetrix1.online/md/2021-08-16-um1-channeling.md",
+   "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-08-16-um1-channeling.json"
   },
   {
    "sessionId": "UM1-2021-10-08",

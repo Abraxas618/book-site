@@ -2,9 +2,9 @@
  "archive": "Unimetrix 1 — The Complete Transcripts",
  "base": "https://archive.unimetrix1.online",
  "stance": "Archival record: statements are presented as spoken and are not independently verified.",
- "archiveBuild": "f642c8a",
- "generatedAt": "2026-10-25T22:55:00Z",
- "sessionCount": 71,
+ "archiveBuild": "3297d8f",
+ "generatedAt": "2026-10-26T04:18:46Z",
+ "sessionCount": 72,
  "dateRange": "2017–2026",
  "endpoints": {
   "index": "https://archive.unimetrix1.online/api/v1/index.json",

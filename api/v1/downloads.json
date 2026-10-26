@@ -4,29 +4,29 @@
   "Dr. Kosol Ouch",
   "Michael MacDonald"
  ],
- "sessionCount": 71,
+ "sessionCount": 72,
  "latestSession": "2026-06-14",
  "formats": [
   {
    "format": "EPUB",
    "file": "/downloads/unimetrix1-complete-transcripts.epub",
-   "bytes": 570025,
+   "bytes": 572769,
    "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.epub",
-   "sha256": "6fa9fba2be099d66230acfd74272241247d2ed5b42c84d389781537850d8b559"
+   "sha256": "25d16a75f5927c57ccca0ed07fb1e83b7ff46ed529abea9b4ff1d3114f0f844a"
   },
   {
    "format": "Markdown",
    "file": "/downloads/unimetrix1-complete-transcripts.md",
-   "bytes": 1461919,
+   "bytes": 1467688,
    "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.md",
-   "sha256": "7ff3061a48c7214f15a56cea636855a098bfbe46a1e6a5f69172693b6bbf44d6"
+   "sha256": "2c9755796e9b98f4881d2e87fb94463d66e8e42133d07a4a01542b381c31ff1a"
   },
   {
    "format": "PDF",
    "file": "/downloads/unimetrix1-complete-transcripts.pdf",
-   "bytes": 2489465,
+   "bytes": 2503141,
    "url": "https://archive.unimetrix1.online/downloads/unimetrix1-complete-transcripts.pdf",
-   "sha256": "3102995a5e46e0a7555cfab8d2e90cba4b8091d33b2ce38cc2f9393116a11336"
+   "sha256": "7493ce833833e7991afe75034b0f70dd03e43a83285e83d5406a4197a2b0a0ad"
   }
  ]
 }
