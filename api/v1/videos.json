@@ -1,6 +1,6 @@
 {
- "archiveBuild": "facfdf7",
- "generatedAt": "2026-10-26T04:25:26Z",
+ "archiveBuild": "46b0131",
+ "generatedAt": "2026-10-26T04:31:36Z",
  "note": "Original recordings verified against YouTube before listing; sessions absent here have no verified public recording.",
  "videos": {
   "2017-11-19-cryptocurrency-what-is-it-ai-from-the-future-bitcoin": {
@@ -1029,6 +1029,21 @@
    "endTimestamp": "2:38:44",
    "durationSeconds": 1044,
    "session": "https://archive.unimetrix1.online/sessions/2020-10-08-the-qanon-shaman-jacob-angeli-chansley/"
+  },
+  "2021-08-16-um1-channeling": {
+   "url": "https://www.youtube.com/watch?v=GBQoKYlROvo&t=8469s",
+   "title": "Super Kru Commander Z's 08-16-21 shoot them all",
+   "channel": "super kru commander z",
+   "start": 8469,
+   "end": 9051,
+   "note": "The supplied segment runs 2:21:09–2:30:51. The video title, channel, and total duration (2:43:53) were verified on YouTube.",
+   "videoId": "GBQoKYlROvo",
+   "watchUrl": "https://www.youtube.com/watch?v=GBQoKYlROvo&t=8469s",
+   "embedUrl": "https://www.youtube-nocookie.com/embed/GBQoKYlROvo?start=8469&end=9051",
+   "startTimestamp": "2:21:09",
+   "endTimestamp": "2:30:51",
+   "durationSeconds": 582,
+   "session": "https://archive.unimetrix1.online/sessions/2021-08-16-um1-channeling/"
   }
  }
 }

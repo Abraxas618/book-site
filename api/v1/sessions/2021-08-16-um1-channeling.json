@@ -1,6 +1,6 @@
 {
- "archiveBuild": "facfdf7",
- "generatedAt": "2026-10-26T04:25:26Z",
+ "archiveBuild": "46b0131",
+ "generatedAt": "2026-10-26T04:31:36Z",
  "sessionId": "UM1-2021-08-16",
  "slug": "2021-08-16-um1-channeling",
  "title": "UM1 Channeling",
@@ -27,15 +27,15 @@
   "over-goal",
   "universal-translator"
  ],
- "contentNote": "Transcription note: this fragment was reconstructed from two photographed pages of a typed transcript supplied by the community. The pages connect mid-sentence; the surviving text ends mid-sentence, and no continuation was supplied. The printout cites YouTube video ID GBQoKYIROvo, but the video is currently unavailable, so the transcript could not be checked against audio. It contains unverified claims about China and the CCP, a purported Nazi “5th Reich,” secret space programs, and named secret societies, presented as channeled statements and preserved as source material, not endorsed.",
+ "contentNote": "Transcription note: this fragment was reconstructed from two photographed pages of a typed transcript supplied by the community. The pages connect mid-sentence; the surviving text ends mid-sentence, and no continuation was supplied. The printout cited YouTube video ID GBQoKYIROvo, which is unavailable. The community later supplied GBQoKYlROvo, titled “Super Kru Commander Z's 08-16-21 shoot them all”; the title, channel, and 2:43:53 duration were confirmed. The transcript has not been checked word-by-word against the supplied 2:21:09–2:30:51 segment. It contains unverified claims about China and the CCP, a purported Nazi “5th Reich,” secret space programs, and named secret societies, presented as channeled statements and preserved as source material, not endorsed.",
  "provenance": {
   "sessionId": "UM1-2021-08-16",
   "recordingDate": "2021-08-16",
   "publicationDate": "2026-10-25",
-  "sourceType": "unknown",
-  "sourceUrl": null,
-  "sourceChannel": null,
-  "sourceVerification": "n/a",
+  "sourceType": "video",
+  "sourceUrl": "https://www.youtube.com/watch?v=GBQoKYlROvo&t=8469s",
+  "sourceChannel": "super kru commander z",
+  "sourceVerification": "verified",
   "transcriber": null,
   "publishedIn": null,
   "editor": "Dr. Kosol Ouch & Michael MacDonald",
@@ -43,13 +43,26 @@
   "revision": 1,
   "lastModified": "2026-10-25",
   "contentHash": "sha256:1eab41126657960a81f7ca6b3436b905efc4fc8dcd2a245eac0de205f87d645e",
-  "metadataHash": "sha256:13585383fbead319764880b1b9faabb5520137f1f09705bfb9966538de473685",
-  "recordHash": "sha256:2ecdd7231437637a2acb174930fa4fc777668a0e6d3e34c1db174c07d65b110b"
+  "metadataHash": "sha256:86f5998b00909e499134255cfe703f06c6ff1e8297abc2f4a2e531f9025af982",
+  "recordHash": "sha256:91070cbaae72f31e5fedb473d1580404af99748e0ede5ad536ad723a025e2771"
  },
  "url": "https://archive.unimetrix1.online/sessions/2021-08-16-um1-channeling/",
  "markdown": "https://archive.unimetrix1.online/md/2021-08-16-um1-channeling.md",
  "json": "https://archive.unimetrix1.online/api/v1/sessions/2021-08-16-um1-channeling.json",
- "video": null,
+ "video": {
+  "url": "https://www.youtube.com/watch?v=GBQoKYlROvo&t=8469s",
+  "title": "Super Kru Commander Z's 08-16-21 shoot them all",
+  "channel": "super kru commander z",
+  "start": 8469,
+  "end": 9051,
+  "note": "The supplied segment runs 2:21:09–2:30:51. The video title, channel, and total duration (2:43:53) were verified on YouTube.",
+  "videoId": "GBQoKYlROvo",
+  "watchUrl": "https://www.youtube.com/watch?v=GBQoKYlROvo&t=8469s",
+  "embedUrl": "https://www.youtube-nocookie.com/embed/GBQoKYlROvo?start=8469&end=9051",
+  "startTimestamp": "2:21:09",
+  "endTimestamp": "2:30:51",
+  "durationSeconds": 582
+ },
  "turns": [
   {
    "anchor": "t1",
